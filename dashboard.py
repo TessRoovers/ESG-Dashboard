@@ -15,8 +15,6 @@ def main():
     st.title("ESG Dashboard - Allen & Overy")
     st.subheader("Environmental, Social and Governance")
     st.write(" ")
-    st.markdown("Welcome to the ESG Dashboard!  \nPlease select a topic from the menu to display.")
-    st.markdown("---")
     
     file1 = './analysis_entities/entities_timeline.csv'
     file2 = './analysis_words/groupedfrequencies.csv'
@@ -39,6 +37,11 @@ def main():
                 if st.button(subtopic):
                     selected_option=subtopic
 
+
+    if selected_option == "":
+        st.markdown("Welcome to the ESG Dashboard!  \nPlease select a topic from the menu to display.")
+        st.markdown("---")
+    
     # ESG Entities
     if "Proportional Frequencies" in selected_option:
         st.markdown("### ESG Entities: Proportional Frequencies")
