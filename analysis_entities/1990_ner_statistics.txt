@@ -1,0 +1,350 @@
+NER: U.S. App	Frequency: 2
+NER: LEXIS 14728	Frequency: 2
+NER: City of New York	Frequency: 1
+NER: National Highway Traffic Safety Administration	Frequency: 2
+NER: Automobile Importers of America, Inc.	Frequency: 4
+NER: Ford Motor Company	Frequency: 5
+NER: General Motors Corporation	Frequency: 4
+NER: Intervenors	Frequency: 4
+NER: Center for Auto Safety	Frequency: 4
+NER: Diane K. Steed	Frequency: 1
+NER: National Highw ay Traffic Safety	Frequency: 1
+NER: National Highway Traffic Safety Administ	Frequency: 1
+NER: Importers of America, Inc.	Frequency: 1
+NER: General Motors Co rporation	Frequency: 1
+NER: Natural Resources Defense Council	Frequency: 2
+NER: National Highway Traffic Safety	Frequency: 1
+NER: Petitions for Review of Rules of the National Highway Traffic Safety Administration	Frequency: 1
+NER: PROCEDURAL	Frequency: 1
+NER: the National Highway Traffic Safety Administration	Frequency: 2
+NER: the Nati onal Environmental Policy Act	Frequency: 1
+NER: the National Highway Traffic Safety Administrati	Frequency: 1
+NER: an Environmental Impact Statement	Frequency: 3
+NER: EIS	Frequency: 71
+NER: Corporate Averag e Fuel Economy	Frequency: 1
+NER: NEPA	Frequency: 62
+NER: peti	Frequency: 1
+NER: CORE	Frequency: 1
+NER: cumulati ve	Frequency: 1
+NER: Peter Lehner	Frequency: 1
+NER: Peter L. Zimrot	Frequency: 1
+NER: William L. Waterhouse	Frequency: 1
+NER: City of Los Angeles	Frequency: 1
+NER: Cornish	Frequency: 2
+NER: F. Hitchcock	Frequency: 2
+NER: Alan B. Morrison	Frequency: 2
+NER: Clarence M. Ditlow	Frequency: 2
+NER: Theodore Berger	Frequency: 1
+NER: Craig C. Thompson	Frequency: 1
+NER: Susan Durbin	Frequency: 1
+NER: People of the State of California	Frequency: 1
+NER: Gary R. Netzer	Frequency: 1
+NER: Roger J. Holt	Frequency: 1
+NER: Ralph C. Cavanagh	Frequency: 1
+NER: Richard E. Ay res	Frequency: 1
+NER: Claren ce M. Ditlow	Frequency: 1
+NER: Center for Auto Safety and Public Citizen	Frequency: 1
+NER: jo	Frequency: 1
+NER: Petitioners Natural Resources Defense Council	Frequency: 1
+NER: John A. Bryson	Frequency: 1
+NER: Barbara C. Biddle	Frequency: 1
+NER: Department of Justice	Frequency: 2
+NER: Richard B. Stewart	Frequency: 1
+NER: Gene ral	Frequency: 1
+NER: Dirk D. Snel	Frequency: 1
+NER: John F. Cord es	Frequency: 1
+NER: Kenneth N. Weinstein	Frequency: 1
+NER: Susan L. Rives	Frequency: 1
+NER: Edward W. Warren	Frequency: 1
+NER: Frederick M. Ro	Frequency: 1
+NER: John Gibson Mullan	Frequency: 1
+NER: Thomas L. Arentt	Frequency: 1
+NER: General Motors Corproation	Frequency: 1
+NER: Charles H. Lockwo od	Frequency: 1
+NER: John T. Whatley	Frequency: 1
+NER: James A. Brown	Frequency: 1
+NER: Intervenors General Motors Co rporation	Frequency: 1
+NER: Arthur F. Sampson	Frequency: 1
+NER: David Norrell	Frequency: 1
+NER: William L. Weber	Frequency: 1
+NER: Jr.	Frequency: 1
+NER: Peter L. Zimroth	Frequency: 1
+NER: JUDGES	Frequency: 1
+NER: Wald	Frequency: 9
+NER: Ruth B. Ginsbur g	Frequency: 1
+NER: D. H. Ginsburg	Frequency: 13
+NER: Court	Frequency: 4
+NER: NRDC st anding	Frequency: 1
+NER: Circuit	Frequency: 2
+NER: NRDC	Frequency: 67
+NER: Model Years 1987-1988	Frequency: 2
+NER: Concu	Frequency: 1
+NER: Ci rcuit	Frequency: 1
+NER: Ruth B. Ginsburg	Frequency: 2
+NER: the National Environmental [	Frequency: 1
+NER: NHTSA	Frequency: 165
+NER: Corporate Average Fuel Economy	Frequency: 1
+NER: the Clean Air Act	Frequency: 8
+NER: the Natu ral Resources Defense Council	Frequency: 1
+NER: RUTH B.	Frequency: 1
+NER: Circui	Frequency: 1
+NER: D. H. Ginsburg's	Frequency: 2
+NER: Silberman	Frequency: 2
+NER: J.	Frequency: 2
+NER: o ccur	Frequency: 1
+NER: Council on Environmental Quality	Frequency: 2
+NER: CEQ	Frequency: 2
+NER: Glover River Org	Frequency: 1
+NER: Interior	Frequency: 1
+NER: Evanston v. Regional Transp.	Frequency: 1
+NER: NH TSA's	Frequency: 1
+NER: greenhouse gase s	Frequency: 1
+NER: EA Supplement	Frequency: 1
+NER: GINSBURG	Frequency: 1
+NER: D. H. GINSBURG	Frequency: 2
+NER: Standing (MY 89	Frequency: 1
+NER: The Energy Policy and Conservation Act	Frequency: 1
+NER: EPCA	Frequency: 4
+NER: Model Year 1985	Frequency: 1
+NER: Act	Frequency: 1
+NER: Fed	Frequency: 8
+NER: The Cities of New York	Frequency: 1
+NER: Public Citizen	Frequency: 2
+NER: the Union of Concerned Scientists	Frequency: 2
+NER: the Center for Auto Safety	Frequency: 1
+NER: the Center for Auto Safety, Public Citizen	Frequency: 1
+NER: EA	Frequency: 24
+NER: the Notice of Proposed Rulemaking	Frequency: 1
+NER: the NR DC	Frequency: 2
+NER: the CAFE standa rd below 27.5 mpg	Frequency: 1
+NER: These petitione rs	Frequency: 1
+NER: connecti	Frequency: 1
+NER: Constitution	Frequency: 1
+NER: National Wildlife Federation	Frequency: 3
+NER: Hodel	Frequency: 2
+NER: the Administrative Procedure Act	Frequency: 1
+NER: Committee for Auto Responsibility v. Solomon	Frequency: 2
+NER: conseq uences of such	Frequency: 1
+NER: this "	Frequency: 1
+NER: catastr ophic	Frequency: 1
+NER: wa ter	Frequency: 1
+NER: challeng	Frequency: 1
+NER: qu estion	Frequency: 1
+NER: Gracey	Frequency: 1
+NER: Bork	Frequency: 1
+NER: Allen v. Wright	Frequency: 2
+NER: 737	Frequency: 3
+NER: L. Ed	Frequency: 15
+NER: theoreti cal	Frequency: 1
+NER: catastr ophe	Frequency: 1
+NER: Dellums	Frequency: 1
+NER: U.S. Nuclear Regulatory Comm'n	Frequency: 1
+NER: City of Davis v. Coleman	Frequency: 1
+NER: Ruth B. Ginsburg's	Frequency: 1
+NER: llege	Frequency: 1
+NER: Reagan	Frequency: 1
+NER: rols	Frequency: 1
+NER: cit	Frequency: 1
+NER: Congress	Frequency: 6
+NER: Committee for Auto Responsibility	Frequency: 2
+NER: the Center for Auto Safe ty	Frequency: 1
+NER: pe titions	Frequency: 1
+NER: See National Federation of Federal Employees	Frequency: 1
+NER: Supplement	Frequency: 3
+NER: Suppl	Frequency: 1
+NER: Sierra Club	Frequency: 3
+NER: 87-88	Frequency: 3
+NER: sta ndard	Frequency: 1
+NER: Vola tile Organic Compounds	Frequency: 1
+NER: MYs	Frequency: 1
+NER: vehi cle	Frequency: 1
+NER: GM	Frequency: 10
+NER: Ford	Frequency: 10
+NER: Japanese	Frequency: 3
+NER: Hyundai	Frequency: 2
+NER: Chrysler	Frequency: 2
+NER: American Motors	Frequency: 2
+NER: Europ	Frequency: 1
+NER: ceteris paribus	Frequency: 1
+NER: the politie s	Frequency: 1
+NER: ag	Frequency: 3
+NER: Environmen tal	Frequency: 1
+NER: au thority	Frequency: 1
+NER: FTC	Frequency: 1
+NER: practicabil ity	Frequency: 1
+NER: gaso	Frequency: 1
+NER: the Council on Environmental Quality's Regulation	Frequency: 1
+NER: centive	Frequency: 1
+NER: European	Frequency: 1
+NER: CAFE st andard	Frequency: 1
+NER: al ong	Frequency: 1
+NER: unive rsal	Frequency: 1
+NER: environmen tal	Frequency: 1
+NER: EA Supp	Frequency: 1
+NER: ilpipe	Frequency: 1
+NER: concl ude	Frequency: 1
+NER: lo calities	Frequency: 1
+NER: WALD	Frequency: 1
+NER: NR DC	Frequency: 1
+NER: the Na tural Resources Defense Council	Frequency: 1
+NER: the Model Year	Frequency: 1
+NER: the National Highway Traffic Safety Administration's	Frequency: 1
+NER: EI S	Frequency: 1
+NER: pe titioners	Frequency: 1
+NER: acks	Frequency: 2
+NER: I. STANDING The National Environmental Policy Act	Frequency: 1
+NER: Federal	Frequency: 1
+NER: Rumsfeld	Frequency: 1
+NER: the Senate Report	Frequency: 1
+NER: res ource	Frequency: 1
+NER: Senate	Frequency: 1
+NER: Jackson	Frequency: 2
+NER: st rategies	Frequency: 1
+NER: ma ke	Frequency: 2
+NER: control air	Frequency: 1
+NER: S3,700	Frequency: 1
+NER: globa	Frequency: 1
+NER: APA	Frequency: 1
+NER: nom.	Frequency: 1
+NER: Freeman	Frequency: 1
+NER: S. Ct	Frequency: 10
+NER: Simon	Frequency: 1
+NER: Eastern Ky.	Frequency: 1
+NER: Within Meaning of NEPA NEPA	Frequency: 1
+NER: Methow Valley Citizens Council	Frequency: 1
+NER: Competitive Enterprise Institute	Frequency: 2
+NER: Fletcher	Frequency: 1
+NER: The Structure of Standing	Frequency: 1
+NER: Yale L.J. 221	Frequency: 1
+NER: U.S. 669	Frequency: 1
+NER: W ithin	Frequency: 1
+NER: anticipa ted	Frequency: 1
+NER: NRDC Comments	Frequency: 5
+NER: J.A.	Frequency: 18
+NER: the Industrial Revolution	Frequency: 1
+NER: nhouse	Frequency: 1
+NER: foss il	Frequency: 1
+NER: tr ap the radiant heat th	Frequency: 1
+NER: gl obal temperatures rise	Frequency: 1
+NER: Environmental Assessment	Frequency: 1
+NER: Clarence M. Ditlo w, III	Frequency: 1
+NER: av	Frequency: 1
+NER: the productiv ity of agriculture	Frequency: 1
+NER: infu	Frequency: 1
+NER: Canadian	Frequency: 1
+NER: World Conference on the Changing Atmosphere: Implications for Global Security	Frequency: 1
+NER: gl obal warming	Frequency: 1
+NER: The "Toronto Conference	Frequency: 1
+NER: the United Nations ' World Meteorological Organization	Frequency: 1
+NER: NR DC Comments	Frequency: 1
+NER: See N.Y. Times	Frequency: 1
+NER: the Environmental Protection Agency	Frequency: 1
+NER: EPA	Frequency: 7
+NER: the White House	Frequency: 2
+NER: the United Nations	Frequency: 1
+NER: Wicker	Frequency: 1
+NER: N.Y. Times	Frequency: 1
+NER: A23	Frequency: 1
+NER: Matthews	Frequency: 1
+NER: Wash. Post	Frequency: 1
+NER: A19	Frequency: 1
+NER: Western European	Frequency: 1
+NER: Geographical Nexus	Frequency: 1
+NER: Ralph Cava	Frequency: 1
+NER: decl	Frequency: 1
+NER: James B. Frankel	Frequency: 1
+NER: Oregon Environmental Council	Frequency: 1
+NER: Council	Frequency: 1
+NER: geogra phical nexus	Frequency: 1
+NER: Lujan	Frequency: 1
+NER: See Committee for Auto Responsibility v. Solomon	Frequency: 2
+NER: Valley Forge Christian College	Frequency: 1
+NER: State	Frequency: 1
+NER: Gladstone	Frequency: 1
+NER: Wilderness Society	Frequency: 1
+NER: Griles	Frequency: 1
+NER: See Competitive Enterprise Institute	Frequency: 2
+NER: Women's Equity Action League v. Cavazos	Frequency: 2
+NER: D. H. Ginsburg op	Frequency: 2
+NER: NRDC Ralph Cavanagh	Frequency: 1
+NER: Ralph Cavanagh	Frequency: 1
+NER: Cavanagh	Frequency: 1
+NER: NHT SA's	Frequency: 1
+NER: petitione rs	Frequency: 1
+NER: Duke Power Co.	Frequency: 1
+NER: Carolina Environmental Study Group	Frequency: 1
+NER: Sunstein	Frequency: 1
+NER: the Privatization of Public Law	Frequency: 1
+NER: Meltzer	Frequency: 1
+NER: De	Frequency: 1
+NER: Private Attorneys General	Frequency: 1
+NER: Glass Packaging Inst	Frequency: 1
+NER: Regan	Frequency: 1
+NER: thr	Frequency: 1
+NER: Scientists' Institute for Public Information, Inc.	Frequency: 1
+NER: Atomic Energy Commission	Frequency: 1
+NER: st anding	Frequency: 1
+NER: mi ght	Frequency: 1
+NER: ght	Frequency: 1
+NER: internat ional response	Frequency: 1
+NER: concer	Frequency: 2
+NER: NHTSA performe d	Frequency: 1
+NER: arri	Frequency: 1
+NER: Environmental Assessment for MYs	Frequency: 1
+NER: A-6	Frequency: 1
+NER: li ght	Frequency: 1
+NER: CAFE standa rd	Frequency: 1
+NER: el igibility	Frequency: 1
+NER: the Energy Policy and Conservation Act's	Frequency: 1
+NER: Supplement to EA	Frequency: 2
+NER: althou	Frequency: 1
+NER: Public Citizen v. NHTSA	Frequency: 1
+NER: D. H. Ginsburg alle ges	Frequency: 1
+NER: sa tisfied	Frequency: 1
+NER: D. Additional Concerns	Frequency: 1
+NER: increasi	Frequency: 1
+NER: onl	Frequency: 1
+NER: Munoz-Mendoza v. Pierce	Frequency: 1
+NER: 711 F.2d 421	Frequency: 1
+NER: federa	Frequency: 2
+NER: International Ladies' Garment Workers' Union	Frequency: 1
+NER: Donovan	Frequency: 1
+NER: suffi ciently	Frequency: 1
+NER: sufficien	Frequency: 1
+NER: Peterson	Frequency: 1
+NER: Sierra Club v.	Frequency: 2
+NER: Department of Transportation	Frequency: 2
+NER: insignifican	Frequency: 1
+NER: See River Road Alliance, Inc. v. Corps of Engineers	Frequency: 1
+NER: Steamboaters	Frequency: 1
+NER: Federal Energy Regulatory Commission	Frequency: 1
+NER: Arizona Public Service Co.	Frequency: 1
+NER: Federal Power Commission	Frequency: 1
+NER: NHT SA	Frequency: 2
+NER: articulat	Frequency: 1
+NER: Clean Air Act	Frequency: 2
+NER: See Foundation on Economic	Frequency: 1
+NER: Heckler	Frequency: 1
+NER: NIH	Frequency: 1
+NER: Foundation for Economic	Frequency: 1
+NER: inadequa	Frequency: 1
+NER: CAFE	Frequency: 1
+NER: rollba	Frequency: 1
+NER: CA FE	Frequency: 2
+NER: ma jor	Frequency: 1
+NER: South Coast Air Quality Management District Rules and Regulations	Frequency: 1
+NER: un	Frequency: 1
+NER: The Council on Environmental Quality regulations s	Frequency: 1
+NER: Federal, State	Frequency: 1
+NER: populati	Frequency: 1
+NER: st andard	Frequency: 1
+NER: Andrus	Frequency: 1
+NER: D.C. 117	Frequency: 1
+NER: conseq uences of its	Frequency: 1
+NER: kno w	Frequency: 1
+NER: See Southern Oregon Citizens Against Toxic Sprays, Inc.	Frequency: 1
+NER: Clark	Frequency: 1
+NER: Theref ore	Frequency: 1
+NER: Arnold & Porter LLP	Frequency: 1
+NER: LexisNexis	Frequency: 2
+NER: Reed Elsevier Inc.	Frequency: 1

@@ -1,0 +1,1189 @@
+NER: F. Supp	Frequency: 1
+NER: LEXIS 8312	Frequency: 1
+NER: ERC	Frequency: 2
+NER: DONALD HORENSTEIN	Frequency: 2
+NER: VERMONT PUBLIC INTEREST RESEARCH GROUP, INC.	Frequency: 1
+NER: SIERRA CLUB, INC.	Frequency: 1
+NER: MARY E. PETERS	Frequency: 2
+NER: the Federal Highw ay Administration	Frequency: 1
+NER: PATRICIA A. MCDONALD	Frequency: 2
+NER: the Vermont Agency of Transportation (VTrans)	Frequency: 1
+NER: Senville v. Peters	Frequency: 1
+NER: LEXIS 50789	Frequency: 1
+NER: D.	Frequency: 1
+NER: PROCEDURAL	Frequency: 1
+NER: the Administrator of the Federal Hi ghway	Frequency: 1
+NER: the Vermont Agency	Frequency: 1
+NER: Vtraans	Frequency: 1
+NER: the National Environmental Policy Act	Frequency: 8
+NER: Plai ntiffs	Frequency: 1
+NER: declara	Frequency: 1
+NER: FHWA	Frequency: 101
+NER: NEPA	Frequency: 43
+NER: Vermont Circumferential Highway	Frequency: 1
+NER: FEIS	Frequency: 70
+NER: the Department of Transportation Act	Frequency: 2
+NER: CEQ	Frequency: 25
+NER: FH WA	Frequency: 3
+NER: CCCH	Frequency: 82
+NER: CORE	Frequency: 1
+NER: em ission	Frequency: 1
+NER: LEXISNEXIS	Frequency: 1
+NER: EIS	Frequency: 83
+NER: SEIS	Frequency: 23
+NER: the Federal Highway Administ	Frequency: 1
+NER: EA	Frequency: 43
+NER: Council on Environmental Qua lity	Frequency: 1
+NER: National Environmental Policy Act	Frequency: 1
+NER: Federal Highway Administrati	Frequency: 1
+NER: the Federal Highway Ad	Frequency: 1
+NER: HN8	Frequency: 2
+NER: Federal Highway Administ	Frequency: 1
+NER: 771.129(b	Frequency: 1
+NER: Article III	Frequency: 2
+NER: redressabil ity	Frequency: 1
+NER: The Administrative Procedure Act	Frequency: 1
+NER: APA	Frequency: 7
+NER: di scretion	Frequency: 1
+NER: Congress	Frequency: 29
+NER: the Second Circuit	Frequency: 2
+NER: wheth	Frequency: 1
+NER: ju risdiction	Frequency: 1
+NER: the EI S	Frequency: 1
+NER: prio	Frequency: 2
+NER: envir onmental impact	Frequency: 1
+NER: Council on Environmental Quality	Frequency: 2
+NER: The National Environmental Policy Act requi res agencies	Frequency: 1
+NER: the U.S. Court of Appeals	Frequency: 1
+NER: Columbia	Frequency: 1
+NER: the Department of Trans portation Act	Frequency: 1
+NER: U.S.C.S. § 303(c	Frequency: 1
+NER: the Department of Transportation Ac t of	Frequency: 1
+NER: Federal Hi ghway Administration	Frequency: 1
+NER: probl ems	Frequency: 2
+NER: The Federal Highway Administration	Frequency: 3
+NER: the Council on Environmental Qual ity	Frequency: 1
+NER: the Federal Highway Administration	Frequency: 2
+NER: The Council on Environmental Quality	Frequency: 1
+NER: The National Environmental Policy Act	Frequency: 5
+NER: th e Council on Environmental Quality	Frequency: 1
+NER: Federal Highway Administration	Frequency: 2
+NER: HN35 Courts	Frequency: 2
+NER: ag encies'	Frequency: 1
+NER: NEP	Frequency: 1
+NER: i. e.	Frequency: 1
+NER: the Clean Air Act	Frequency: 3
+NER: the En vironmental Protection Agency	Frequency: 1
+NER: EPA	Frequency: 22
+NER: National Ambient Air Quality Standards	Frequency: 3
+NER: NAAQS	Frequency: 8
+NER: U.S.C.S. §§ 7408 , 7409	Frequency: 1
+NER: MSATs	Frequency: 1
+NER: HN42 State	Frequency: 2
+NER: SIPs	Frequency: 3
+NER: NAAQs	Frequency: 2
+NER: The Federal-Aid Highway Act	Frequency: 2
+NER: the Federal Aid Highway Program	Frequency: 1
+NER: FAHP	Frequency: 6
+NER: MPO	Frequency: 6
+NER: TIPs	Frequency: 2
+NER: Exec	Frequency: 1
+NER: Overview HN45 Courts	Frequency: 1
+NER: Admini	Frequency: 1
+NER: the Administrative Procedure Act	Frequency: 3
+NER: NAC	Frequency: 7
+NER: Leq(h	Frequency: 10
+NER: Council for Environmental Qu	Frequency: 1
+NER: 1508.8(b	Frequency: 3
+NER: the National Environmental Poli cy Act's	Frequency: 1
+NER: udy	Frequency: 1
+NER: FREA	Frequency: 30
+NER: The National Environmental Policy Act requi res	Frequency: 1
+NER: Headnote	Frequency: 1
+NER: FRIENDS OF	Frequency: 1
+NER: SIERRA CLUB	Frequency: 1
+NER: C., Plaintiffs	Frequency: 1
+NER: Ronald A. Shems	Frequency: 2
+NER: Shems Dunkiel & Kassel	Frequency: 2
+NER: PLLC	Frequency: 2
+NER: Mark A. Sinclair	Frequency: 2
+NER: Conservation Law Foundation	Frequency: 3
+NER: Carol L. Shea	Frequency: 1
+NER: AUSA	Frequency: 1
+NER: Heather Elizabeth Ross	Frequency: 1
+NER: Office of	Frequency: 1
+NER: the Vermont Agency of Transportation (VTrans	Frequency: 1
+NER: John Kevin Dunleavy	Frequency: 1
+NER: Judith Lillian Dillon	Frequency: 1
+NER: Vermont Agency of Transportation	Frequency: 1
+NER: LAWRENCE COPP	Frequency: 1
+NER: movants	Frequency: 1
+NER: Michael J. Marks	Frequency: 1
+NER: William K. Sessions III	Frequency: 2
+NER: William K. Sessions III OPINION	Frequency: 1
+NER: Vermont Public Interest Research Group, Inc.	Frequency: 1
+NER: Friends of the Earth	Frequency: 1
+NER: Sierra Club	Frequency: 7
+NER: the Administrator of the Federal Highway Administration	Frequency: 1
+NER: the Vermont Agency of Transportation	Frequency: 1
+NER: VTrans	Frequency: 15
+NER: the Court are Plaintiffs'	Frequency: 1
+NER: Cross-Motion for Judgment	Frequency: 2
+NER: Supplement the Administrative Record	Frequency: 1
+NER: Motions to Strike Portions of Defendants' Cross-Motion	Frequency: 1
+NER: Supplement the Admi nistrative Record to Include	Frequency: 1
+NER: Burlington City Council Resolutions	Frequency: 1
+NER: John S. Hanna	Frequency: 1
+NER: Circumferential Highway Chittenden County	Frequency: 1
+NER: Vermont Route 127	Frequency: 1
+NER: dem	Frequency: 1
+NER: the Surface Transportation Assistance Act	Frequency: 1
+NER: Verm ont	Frequency: 2
+NER: Essex Junction	Frequency: 7
+NER: the Chittenden County Regional Planning Commission's	Frequency: 1
+NER: the Chittenden County Circ	Frequency: 1
+NER: Route 117	Frequency: 3
+NER: Route 2A	Frequency: 7
+NER: I-89	Frequency: 4
+NER: Metropoli tan Planning Organization	Frequency: 1
+NER: CCMPO	Frequency: 7
+NER: DEIS	Frequency: 1
+NER: highw	Frequency: 1
+NER: Winooski	Frequency: 5
+NER: U.S. Route 7	Frequency: 1
+NER: U.S. Route 2	Frequency: 2
+NER: vehicl es	Frequency: 1
+NER: LOS	Frequency: 3
+NER: Chittenden C ounty	Frequency: 1
+NER: a Record of Decision	Frequency: 1
+NER: ROD	Frequency: 13
+NER: VT 2A	Frequency: 1
+NER: reev aluation	Frequency: 1
+NER: VT 117	Frequency: 1
+NER: FEIS a nd ROD	Frequency: 1
+NER: appropria	Frequency: 1
+NER: construc tion	Frequency: 2
+NER: Bush	Frequency: 1
+NER: E.O.	Frequency: 4
+NER: Transportation Infrastructure Project Reviews	Frequency: 1
+NER: transporta tion facilities	Frequency: 1
+NER: REA	Frequency: 1
+NER: The Statutory and Regulatory Framework	Frequency: 1
+NER: al	Frequency: 1
+NER: HN2 Council on Environmental Quality	Frequency: 1
+NER: ag	Frequency: 7
+NER: environmen tal concerns	Frequency: 1
+NER: HN5	Frequency: 1
+NER: ag encies	Frequency: 1
+NER: FONSI	Frequency: 1
+NER: HN9 the Court	Frequency: 1
+NER: st anding	Frequency: 1
+NER: FW/PBS, Inc.	Frequency: 1
+NER: L. Ed	Frequency: 11
+NER: Allen Wright	Frequency: 1
+NER: 737	Frequency: 1
+NER: the United Stat es Constitution	Frequency: 1
+NER: Lujan	Frequency: 1
+NER: Friends of the Earth, Inc.	Frequency: 1
+NER: Laidlaw Environmental Servs	Frequency: 1
+NER: Inc .	Frequency: 1
+NER: S. Ct	Frequency: 8
+NER: Hunt w. Washington State Apple Advert ising Comm'n	Frequency: 1
+NER: I. Standard of Review	Frequency: 1
+NER: United States Army Corps of Engineers	Frequency: 1
+NER: See Center for Biologica l Diversity	Frequency: 1
+NER: United States Forest Service	Frequency: 1
+NER: Hanly	Frequency: 1
+NER: Kleindienst	Frequency: 1
+NER: Citizens to Preserve	Frequency: 1
+NER: Sanders	Frequency: 1
+NER: the ag ency '	Frequency: 1
+NER: ider	Frequency: 1
+NER: Natural Resources Defense Council, Inc.	Frequency: 3
+NER: Muszynski	Frequency: 1
+NER: 2d Cir.	Frequency: 1
+NER: City of New York v.	Frequency: 1
+NER: Shalala	Frequency: 1
+NER: HN11 Review	Frequency: 1
+NER: Marsh	Frequency: 6
+NER: Oregon Natural Resources Council	Frequency: 1
+NER: U.S. 360	Frequency: 2
+NER: Oregon NRC	Frequency: 4
+NER: nterject	Frequency: 1
+NER: Kleppe	Frequency: 1
+NER: Natural Resources Defense Council	Frequency: 1
+NER: Morton	Frequency: 1
+NER: Stewart Park & Reserve Coalition, Inc.	Frequency: 2
+NER: Slater	Frequency: 3
+NER: Skinner	Frequency: 3
+NER: Id. Courts	Frequency: 1
+NER: revi	Frequency: 1
+NER: the Surface Tran sportation	Frequency: 1
+NER: the United States Department	Frequency: 1
+NER: Burli	Frequency: 1
+NER: Free Press	Frequency: 1
+NER: particip	Frequency: 1
+NER: preparati	Frequency: 1
+NER: pendently	Frequency: 1
+NER: statem	Frequency: 1
+NER: pa rticipating	Frequency: 1
+NER: the FH WA	Frequency: 1
+NER: Plaintiffs	Frequency: 4
+NER: contra	Frequency: 1
+NER: HN14	Frequency: 1
+NER: Section 4(f	Frequency: 4
+NER: Huntington v. Marsh	Frequency: 1
+NER: Interior	Frequency: 1
+NER: Agric	Frequency: 3
+NER: Scientists' Inst	Frequency: 1
+NER: Inc.	Frequency: 1
+NER: Atomic Energy Comm'n	Frequency: 1
+NER: United States Dept	Frequency: 2
+NER: Vermont Yankee Nuclear Power Corp. v.	Frequency: 1
+NER: Friends of Ompompanoosuc	Frequency: 3
+NER: Citizens Against Burlington, Inc.	Frequency: 1
+NER: Bushey	Frequency: 1
+NER: State of Alaska	Frequency: 1
+NER: Andrus	Frequency: 1
+NER: Western Oil & Gas Ass'n	Frequency: 1
+NER: All Indian Pueblo Council	Frequency: 1
+NER: Alternative Modes	Frequency: 1
+NER: Green Li ne	Frequency: 1
+NER: Purple Line	Frequency: 1
+NER: Orange Line	Frequency: 1
+NER: Utahns for Better Transp	Frequency: 1
+NER: Transp	Frequency: 1
+NER: Kern v.	Frequency: 1
+NER: United States Bureau of Land Management	Frequency: 1
+NER: D.C. Circuit	Frequency: 1
+NER: Grand Canyon Trust	Frequency: 1
+NER: F.A.A.	Frequency: 1
+NER: F.3d	Frequency: 3
+NER: R oute 2A and	Frequency: 1
+NER: Route 15	Frequency: 4
+NER: Route 2	Frequency: 3
+NER: activit	Frequency: 1
+NER: wa ter	Frequency: 2
+NER: BIS	Frequency: 1
+NER: Humst	Frequency: 1
+NER: Assocs	Frequency: 2
+NER: Sys.. Univ	Frequency: 1
+NER: Circumferential Highway	Frequency: 2
+NER: Agricu ltural Land	Frequency: 1
+NER: cumulati	Frequency: 1
+NER: Court	Frequency: 31
+NER: McCrea	Frequency: 2
+NER: The McCrea Farm	Frequency: 1
+NER: the Winooski Valley Park Dist	Frequency: 1
+NER: withhol	Frequency: 1
+NER: Construction Segment F.	Frequency: 1
+NER: the Section 4(f	Frequency: 1
+NER: alternativ es	Frequency: 1
+NER: See Committee	Frequency: 1
+NER: Citizens to Preserve Overton	Frequency: 1
+NER: ju stification	Frequency: 1
+NER: FHA	Frequency: 1
+NER: FE	Frequency: 1
+NER: FHWA Technical Advisory	Frequency: 1
+NER: Fed	Frequency: 16
+NER: Highway Admin.	Frequency: 1
+NER: Segments A-F	Frequency: 3
+NER: FHWA violat	Frequency: 1
+NER: Administration	Frequency: 3
+NER: appropria te environmental	Frequency: 1
+NER: Defendants	Frequency: 5
+NER: Defs	Frequency: 5
+NER: Doc	Frequency: 4
+NER: Notice of Adoption	Frequency: 1
+NER: sec	Frequency: 1
+NER: 102(2)(E	Frequency: 1
+NER: HN29 NEPA	Frequency: 1
+NER: Greater Yellowstone Coalition	Frequency: 1
+NER: Highway J Citizens Group	Frequency: 1
+NER: Mineta	Frequency: 1
+NER: Espy	Frequency: 1
+NER: discusse	Frequency: 1
+NER: the "No- Action	Frequency: 1
+NER: Transportati	Frequency: 1
+NER: Modes and Rebuilding Existing Roadways	Frequency: 1
+NER: nee d.	Frequency: 1
+NER: Segm	Frequency: 1
+NER: interp retation	Frequency: 1
+NER: HN31 NEPA	Frequency: 1
+NER: Bob Marshall Alliance	Frequency: 1
+NER: Hodel	Frequency: 1
+NER: Calvert Cliffs'	Frequency: 1
+NER: Coordinating Committee, Inc.	Frequency: 1
+NER: States Atomic Energy Comm'n	Frequency: 1
+NER: decisionma	Frequency: 1
+NER: n.10	Frequency: 1
+NER: Bob Marshall	Frequency: 1
+NER: ief	Frequency: 1
+NER: Navy	Frequency: 1
+NER: a. Independent	Frequency: 1
+NER: HN34	Frequency: 1
+NER: Coalition on Sensible Transp	Frequency: 1
+NER: Dole	Frequency: 1
+NER: the CCMPO Integrated Transportation and Land Use	Frequency: 1
+NER: See Friends of Boundary Waters Wilderness v. Dombeck	Frequency: 1
+NER: the 2002 Traffic Report	Frequency: 1
+NER: CCCH Segmen ts A	Frequency: 1
+NER: the South Street/River Street	Frequency: 1
+NER: Se gments	Frequency: 1
+NER: Allen Martin Drive	Frequency: 2
+NER: the Essex Junction	Frequency: 1
+NER: Main Street/Route 15	Frequency: 1
+NER: Maple Street/Route	Frequency: 1
+NER: Susie Wilson Road	Frequency: 1
+NER: al ong Mountain View Road	Frequency: 1
+NER: Redmond Road	Frequency: 4
+NER: Redmond Road Connector	Frequency: 1
+NER: Mountain View Road	Frequency: 2
+NER: the Redmond Road	Frequency: 1
+NER: Old Stage Road	Frequency: 1
+NER: North Williston Road	Frequency: 1
+NER: R oute 117	Frequency: 1
+NER: Route 289	Frequency: 2
+NER: Sand Hill Road	Frequency: 1
+NER: Sand H ill Road	Frequency: 1
+NER: Defe	Frequency: 4
+NER: VMT	Frequency: 12
+NER: HN36	Frequency: 1
+NER: constructio n of Segments C-F.	Frequency: 1
+NER: HN37	Frequency: 1
+NER: federa	Frequency: 2
+NER: cumu latively	Frequency: 1
+NER: fa vor	Frequency: 1
+NER: See Nat'l Audubon Soc	Frequency: 1
+NER: Hoffman	Frequency: 1
+NER: air po llution	Frequency: 1
+NER: ite	Frequency: 1
+NER: concentra	Frequency: 2
+NER: po llutants	Frequency: 1
+NER: Federal Aid Hi ghway Program	Frequency: 1
+NER: Air Quality Technical Report	Frequency: 1
+NER: Technical Report	Frequency: 1
+NER: st udied	Frequency: 1
+NER: Burlin	Frequency: 1
+NER: Traffic-	Frequency: 1
+NER: Fou r-Lane Build	Frequency: 1
+NER: NOx emissi	Frequency: 1
+NER: 20004984	Frequency: 1
+NER: AR 20003778	Frequency: 1
+NER: the Vermont Agency of Environmental Conservation	Frequency: 1
+NER: the Vermont SIP	Frequency: 1
+NER: FEIS App	Frequency: 1
+NER: vehicl	Frequency: 1
+NER: the No-Build Alternative	Frequency: 1
+NER: the Full-Build Alternative	Frequency: 1
+NER: 205(d	Frequency: 1
+NER: MOBILE 3	Frequency: 1
+NER: Marshall Aff	Frequency: 1
+NER: undertak	Frequency: 1
+NER: determ ine	Frequency: 1
+NER: pa rticulate	Frequency: 1
+NER: C02	Frequency: 2
+NER: wa	Frequency: 4
+NER: Hazardous Ambient Air Standard s	Frequency: 1
+NER: HAPs	Frequency: 1
+NER: Allen Brook	Frequency: 8
+NER: the Clean Water Act	Frequency: 1
+NER: the Vermont Agency of Natural Resources	Frequency: 1
+NER: Vermont Water Quality Sta	Frequency: 1
+NER: TMDL	Frequency: 2
+NER: VANR	Frequency: 12
+NER: Lake Champlain TMDL	Frequency: 1
+NER: Accord	Frequency: 1
+NER: TSS	Frequency: 4
+NER: Vermont St ormwater Management Manual	Frequency: 1
+NER: gra ss line	Frequency: 1
+NER: the Vermont Water Quality Standards	Frequency: 1
+NER: Ann	Frequency: 1
+NER: the Vermont Water Resources Board	Frequency: 1
+NER: Mem	Frequency: 1
+NER: the Redmond Creek	Frequency: 1
+NER: Lake Ch amplain	Frequency: 1
+NER: the highw ay.	Frequency: 1
+NER: Standard Specifications for Highway and Bridge Construction	Frequency: 1
+NER: the [National Pollution Discharge Elimination Syst	Frequency: 1
+NER: NPDES	Frequency: 3
+NER: The Water Quality Technical Report	Frequency: 1
+NER: Defe ndants	Frequency: 1
+NER: Interstate 93	Frequency: 1
+NER: New Hampshir e. Id.	Frequency: 1
+NER: li	Frequency: 1
+NER: d. Rare	Frequency: 1
+NER: thr	Frequency: 2
+NER: De	Frequency: 2
+NER: FOE	Frequency: 1
+NER: Ammocr	Frequency: 1
+NER: Lampsilis ovata	Frequency: 1
+NER: Lasmi gona costata	Frequency: 1
+NER: Leptodea	Frequency: 1
+NER: Eastern pearlshell mussel	Frequency: 1
+NER: Potamilus	Frequency: 1
+NER: e. Environmental Justice	Frequency: 1
+NER: HN44 Executive Order	Frequency: 1
+NER: E.O. 12,898	Frequency: 4
+NER: adve	Frequency: 1
+NER: AR 20016098	Frequency: 1
+NER: substa	Frequency: 1
+NER: Environmental Justice	Frequency: 1
+NER: AR3002717-2720	Frequency: 1
+NER: su bject	Frequency: 1
+NER: Runway Expansion, Inc.	Frequency: 1
+NER: Aviation Admin	Frequency: 1
+NER: FAA	Frequency: 1
+NER: Burli ngton's	Frequency: 1
+NER: Burlington	Frequency: 1
+NER: f. Noise	Frequency: 1
+NER: 772.5(e	Frequency: 1
+NER: the No-Action	Frequency: 2
+NER: MAC	Frequency: 1
+NER: ab atement	Frequency: 1
+NER: Allen Brook Elementary School	Frequency: 1
+NER: dBA Leq(h	Frequency: 1
+NER: AR 30004207	Frequency: 1
+NER: Leq	Frequency: 1
+NER: The Allen Brook School	Frequency: 1
+NER: the Allen Brook School	Frequency: 3
+NER: ERBA	Frequency: 1
+NER: Id. Notwithstanding	Frequency: 1
+NER: the A llen Brook School	Frequency: 1
+NER: Conse	Frequency: 1
+NER: CCC	Frequency: 1
+NER: concer	Frequency: 1
+NER: HN50 this Circuit	Frequency: 1
+NER: opp	Frequency: 1
+NER: Id.	Frequency: 1
+NER: ra te	Frequency: 2
+NER: cu mulative	Frequency: 1
+NER: hab	Frequency: 1
+NER: the CCCH Full-Build	Frequency: 1
+NER: AR 30003364	Frequency: 1
+NER: ECONorthwest & Portland State Univ	Frequency: 1
+NER: A Guidebook for Evaluating the Indirect Land Use and Growth Impacts of Highway Improvements	Frequency: 1
+NER: Oregon Study	Frequency: 2
+NER: Humstone Squires	Frequency: 1
+NER: Sys	Frequency: 1
+NER: Univ	Frequency: 1
+NER: AG Land Study	Frequency: 1
+NER: observa	Frequency: 1
+NER: fewe r	Frequency: 2
+NER: opportuniti es	Frequency: 1
+NER: AR 20005006	Frequency: 1
+NER: de velopment	Frequency: 1
+NER: the Statewide Transportation Demand Forecast Model	Frequency: 2
+NER: intercha nges	Frequency: 1
+NER: the Vermont Water Resources Boar d	Frequency: 1
+NER: Arthur G. Woolf	Frequency: 1
+NER: GROWTH	Frequency: 1
+NER: o ccur	Frequency: 1
+NER: drai ning	Frequency: 1
+NER: Anderson v. Evans	Frequency: 1
+NER: Shelburne	Frequency: 1
+NER: Underhill	Frequency: 1
+NER: Bolton	Frequency: 1
+NER: Buels Gore	Frequency: 1
+NER: Huntington	Frequency: 1
+NER: The AG Land Study	Frequency: 2
+NER: Commonwealth of Massachusetts v. Watt	Frequency: 1
+NER: the AG Land Study's	Frequency: 1
+NER: po licies	Frequency: 1
+NER: Id. Finally	Frequency: 1
+NER: HN54 NEPA	Frequency: 1
+NER: pr esent	Frequency: 1
+NER: failur	Frequency: 1
+NER: outly	Frequency: 1
+NER: citie s	Frequency: 1
+NER: ge	Frequency: 5
+NER: the pu blic	Frequency: 1
+NER: scient ific studies	Frequency: 1
+NER: the Transportation Act	Frequency: 1
+NER: pa rks	Frequency: 1
+NER: deficienci es	Frequency: 1
+NER: dictat	Frequency: 1
+NER: the Court Orders	Frequency: 1
+NER: Motion for Partial Summary Judgment	Frequency: 1
+NER: Arnold & Porter LLP	Frequency: 1
+NER: LexisNexis	Frequency: 2
+NER: Reed Elsevier Inc.	Frequency: 1
+NER: CONNECTICUT	Frequency: 1
+NER: CALI	Frequency: 1
+NER: OWA	Frequency: 1
+NER: RHODE ISL	Frequency: 1
+NER: COMPLAINT	Frequency: 1
+NER: AMERICAN EL ECTRIC	Frequency: 2
+NER: CINERGY CORPORATIO N	Frequency: 1
+NER: Wiscon	Frequency: 2
+NER: st defen	Frequency: 1
+NER: ele ctric power corporations	Frequency: 1
+NER: abateme	Frequency: 1
+NER: p ublic	Frequency: 1
+NER: g	Frequency: 6
+NER: Gree	Frequency: 1
+NER: globa	Frequency: 5
+NER: un	Frequency: 5
+NER: glo	Frequency: 1
+NER: ades unle ss action	Frequency: 1
+NER: defenda nts	Frequency: 1
+NER: al l carbon d	Frequency: 1
+NER: ivities	Frequency: 1
+NER: c oncomita	Frequency: 1
+NER: incre	Frequency: 2
+NER: 602erosion	Frequency: 1
+NER: State	Frequency: 20
+NER: Great L	Frequency: 4
+NER: droug hts	Frequency: 1
+NER: fl oods	Frequency: 1
+NER: sa fety	Frequency: 1
+NER: biodiver sity	Frequency: 1
+NER: United Sta	Frequency: 2
+NER: p ractica l	Frequency: 1
+NER: feasib le	Frequency: 1
+NER: ec	Frequency: 5
+NER: suc h	Frequency: 1
+NER: cappi ng	Frequency: 1
+NER: Plaintiff State	Frequency: 7
+NER: beh	Frequency: 5
+NER: tect	Frequency: 4
+NER: the Department of Environmental Protection for	Frequency: 1
+NER: resourc es	Frequency: 3
+NER: Atto	Frequency: 3
+NER: rney Genera	Frequency: 3
+NER: Article 63	Frequency: 1
+NER: Bill Locky	Frequency: 1
+NER: Genera	Frequency: 2
+NER: Sta	Frequency: 1
+NER: the People of the State of California	Frequency: 1
+NER: fr om	Frequency: 1
+NER: impairme	Frequency: 2
+NER: Cal	Frequency: 1
+NER: State of the Un ited States of Am erica	Frequency: 2
+NER: naturalCase	Frequency: 1
+NER: au thorized	Frequency: 1
+NER: the State of I owa	Frequency: 1
+NER: Iowa Code § 13.2(2	Frequency: 1
+NER: commenc	Frequency: 1
+NER: njoin	Frequency: 1
+NER: The Attor ney Genera l	Frequency: 1
+NER: Wisco nsin	Frequency: 2
+NER: the State of Wisconsin	Frequency: 2
+NER: the State of New York	Frequency: 3
+NER: Defendant American Electric Power Company	Frequency: 1
+NER: AEP	Frequency: 32
+NER: c ompany	Frequency: 2
+NER: ric utility subsidiar ies	Frequency: 1
+NER: merican Electric Power Service Corporation	Frequency: 1
+NER: AE P	Frequency: 1
+NER: Defendant AEP Service	Frequency: 1
+NER: AEP Service	Frequency: 18
+NER: eng ineering	Frequency: 2
+NER: AEP Se rvice	Frequency: 2
+NER: nts	Frequency: 3
+NER: dir ect	Frequency: 1
+NER: g lobal war ming ge nerally	Frequency: 1
+NER: pledg es	Frequency: 1
+NER: the Chicago Climate Exchange	Frequency: 1
+NER: the U.S. Department of Energy	Frequency: 2
+NER: DOE	Frequency: 8
+NER: Delawa	Frequency: 1
+NER: ric utility subsidiaries	Frequency: 1
+NER: Alabama Power Company	Frequency: 1
+NER: Georgia Power Company	Frequency: 1
+NER: Gulf Power Company	Frequency: 1
+NER: Mississippi Power Company	Frequency: 1
+NER: Savannah Electric	Frequency: 1
+NER: Power Company	Frequency: 1
+NER: Flor ida	Frequency: 1
+NER: Geo rgia	Frequency: 1
+NER: Southern	Frequency: 56
+NER: cts	Frequency: 6
+NER: ntrol	Frequency: 3
+NER: ex ercis ed thr	Frequency: 3
+NER: procedu res	Frequency: 3
+NER: ortin g	Frequency: 1
+NER: Environmental Progress Report	Frequency: 1
+NER: c ontrol	Frequency: 1
+NER: defenda	Frequency: 3
+NER: TVA	Frequency: 13
+NER: fed	Frequency: 1
+NER: TVA di	Frequency: 1
+NER: operat es fos	Frequency: 1
+NER: generat	Frequency: 2
+NER: Kentu cky	Frequency: 1
+NER: Mississipp	Frequency: 1
+NER: Te nnessee	Frequency: 1
+NER: Defendant Xcel Energy Inc.	Frequency: 1
+NER: Xce	Frequency: 6
+NER: Xcel	Frequency: 25
+NER: Northern States Power Company	Frequency: 2
+NER: Sout hwester n	Frequency: 1
+NER: Ser vice Co.	Frequency: 1
+NER: fossi l fuel- fired electric gener	Frequency: 1
+NER: dispatc	Frequency: 1
+NER: av oided	Frequency: 1
+NER: equeste	Frequency: 1
+NER: fro m facilities	Frequency: 1
+NER: Ciner gy Corpora	Frequency: 1
+NER: The Cincinnati Gas & Electric Company	Frequency: 2
+NER: PSI Energy , Inc.	Frequency: 1
+NER: Ke ntucky	Frequency: 1
+NER: Ciner gy	Frequency: 1
+NER: Cinergy	Frequency: 31
+NER: pledg es Cinergy	Frequency: 1
+NER: Cinerg y’s	Frequency: 1
+NER: analy	Frequency: 2
+NER: arbon dio xide emissio ns	Frequency: 2
+NER: VENUE Subject Matter Jurisdiction	Frequency: 1
+NER: juri sdiction	Frequency: 2
+NER: defen dants	Frequency: 2
+NER: Subje	Frequency: 1
+NER: distric t. Personal Jurisdiction	Frequency: 1
+NER: defe ndants	Frequency: 3
+NER: the State of New Y ork caus ing injur	Frequency: 1
+NER: shou	Frequency: 1
+NER: fac	Frequency: 1
+NER: Complaint	Frequency: 1
+NER: Ea	Frequency: 1
+NER: Interconnec	Frequency: 1
+NER: Eastern	Frequency: 3
+NER: energ	Frequency: 1
+NER: energ izes	Frequency: 1
+NER: g enerat ors	Frequency: 1
+NER: Augu st 14, 2003	Frequency: 1
+NER: the U.S.-Canadian Power System Outa ge Task Force	Frequency: 1
+NER: Michig	Frequency: 1
+NER: Southern Company Service s, Inc.	Frequency: 1
+NER: Cinergy Services	Frequency: 1
+NER: Cinerg y	Frequency: 3
+NER: Cinergy Capital & Trading	Frequency: 1
+NER: Edison Ele	Frequency: 1
+NER: pe rcent	Frequency: 4
+NER: shareho lder-ow	Frequency: 1
+NER: nea	Frequency: 2
+NER: EEI	Frequency: 11
+NER: the pr esident	Frequency: 1
+NER: residen	Frequency: 1
+NER: vice- chairma n	Frequency: 1
+NER: the pr esident a nd CEO	Frequency: 1
+NER: X cel	Frequency: 1
+NER: Power Partners	Frequency: 1
+NER: TV A. Senior EEI	Frequency: 1
+NER: the New York Society of Security Analysts	Frequency: 1
+NER: glob al	Frequency: 3
+NER: reversin g	Frequency: 1
+NER: green house g	Frequency: 1
+NER: emissio	Frequency: 2
+NER: p	Frequency: 3
+NER: the N ew York S ociety	Frequency: 1
+NER: Secur	Frequency: 1
+NER: the New York Times	Frequency: 1
+NER: al streng th	Frequency: 1
+NER: Indiv	Frequency: 1
+NER: th eir ag	Frequency: 1
+NER: Southern 49	Frequency: 1
+NER: SCS	Frequency: 22
+NER: New Yo	Frequency: 1
+NER: sta	Frequency: 1
+NER: reg istered t	Frequency: 1
+NER: ac ts	Frequency: 1
+NER: bey	Frequency: 1
+NER: ac	Frequency: 1
+NER: ser vices	Frequency: 1
+NER: Sout hern	Frequency: 1
+NER: th eir	Frequency: 2
+NER: ective s ervice	Frequency: 1
+NER: the Federal Energ	Frequency: 1
+NER: Regula tory Commission	Frequency: 1
+NER: FERC	Frequency: 2
+NER: the North American Energy Standards Board	Frequency: 1
+NER: F ERC	Frequency: 1
+NER: Enron	Frequency: 2
+NER: depar tment	Frequency: 3
+NER: c hief	Frequency: 1
+NER: financ ially	Frequency: 2
+NER: 1:04-cv-05669-LAP Document 1 Filed 07/21/04	Frequency: 1
+NER: M irant Cor poration	Frequency: 1
+NER: Miran t	Frequency: 1
+NER: merly Southern Energy , Inc.	Frequency: 1
+NER: Mirant	Frequency: 4
+NER: Mirant America s	Frequency: 1
+NER: L.P.	Frequency: 3
+NER: Energ y Ma	Frequency: 1
+NER: Mir	Frequency: 1
+NER: Amer icas Ene	Frequency: 1
+NER: Marketin g	Frequency: 1
+NER: L.P. and Southern Company Ener gy Ma	Frequency: 1
+NER: Mirant’ s	Frequency: 1
+NER: faci lities	Frequency: 1
+NER: Amer icas	Frequency: 1
+NER: s of the System Opera tions Advisory Committee	Frequency: 1
+NER: the New York Independent	Frequency: 1
+NER: NYI	Frequency: 4
+NER: the holde rs	Frequency: 1
+NER: enginee ring	Frequency: 1
+NER: the Cl ean Air M	Frequency: 1
+NER: CAMG rec ently	Frequency: 1
+NER: litigati	Frequency: 1
+NER: Air Pollution Mitigation Law	Frequency: 1
+NER: challeng	Frequency: 1
+NER: CAMG	Frequency: 1
+NER: addre	Frequency: 1
+NER: Morgan Stanley Dean Witter Global Electricity and Energy Conference	Frequency: 1
+NER: TVA 59	Frequency: 1
+NER: TVA r egular	Frequency: 1
+NER: analy st	Frequency: 1
+NER: the New York Stock Exchang e.Case 1:04-cv-05669-LAP Document 1 Filed 07/21/04	Frequency: 1
+NER: Defendant Xcel	Frequency: 1
+NER: NRG Energy , Inc.	Frequency: 1
+NER: NRG	Frequency: 9
+NER: solicitat	Frequency: 1
+NER: Xcel th	Frequency: 1
+NER: Xcel i	Frequency: 1
+NER: N RG	Frequency: 2
+NER: NRG bega n	Frequency: 1
+NER: voluntar	Frequency: 1
+NER: Chapter 11	Frequency: 1
+NER: the U.S. Bankruptcy Code	Frequency: 1
+NER: Dece mber 2003	Frequency: 1
+NER: p lan	Frequency: 1
+NER: Pursu	Frequency: 1
+NER: p lan Xce l	Frequency: 1
+NER: Exc hange	Frequency: 1
+NER: NYMEX	Frequency: 1
+NER: the Deutsche B ankCase 1:04-cv-05669-LAP Document 1 Filed 07/21/04	Frequency: 1
+NER: nalysts	Frequency: 1
+NER: Northern States Powe r Company	Frequency: 1
+NER: Xcel that Xcel	Frequency: 1
+NER: North ern State s	Frequency: 1
+NER: Ciner	Frequency: 3
+NER: Defendant Cinergy	Frequency: 1
+NER: Cinergy Services, Inc.	Frequency: 1
+NER: Delawar	Frequency: 1
+NER: CSI	Frequency: 18
+NER: suf	Frequency: 1
+NER: ficiently	Frequency: 1
+NER: C inergy tha t	Frequency: 1
+NER: purc hases	Frequency: 1
+NER: Cine	Frequency: 2
+NER: the Securities and Exchange Commission	Frequency: 1
+NER: Cong	Frequency: 1
+NER: the N YISO’s	Frequency: 1
+NER: Management and Business	Frequency: 1
+NER: CSI a nd Cinergy	Frequency: 1
+NER: ChiefCase	Frequency: 1
+NER: Cinergy Capital and Trading	Frequency: 1
+NER: ndiana	Frequency: 1
+NER: CCTI	Frequency: 4
+NER: NYISO	Frequency: 1
+NER: Mana gement	Frequency: 1
+NER: NYM	Frequency: 1
+NER: CMT	Frequency: 1
+NER: ign cor poration s	Frequency: 1
+NER: Del	Frequency: 1
+NER: YMEX	Frequency: 1
+NER: The Cincinnat i Gas & Electric Company	Frequency: 1
+NER: ubsidiar y of Cinerg	Frequency: 1
+NER: formatio	Frequency: 1
+NER: g lobal war ming	Frequency: 3
+NER: ternatio nal	Frequency: 1
+NER: ntific	Frequency: 1
+NER: Panel on Climate Change	Frequency: 1
+NER: nhouse	Frequency: 2
+NER: PCC	Frequency: 3
+NER: g lobal warming	Frequency: 2
+NER: U	Frequency: 1
+NER: Framew ork Conve	Frequency: 1
+NER: Clim	Frequency: 1
+NER: Chan ge	Frequency: 1
+NER: ard	Frequency: 1
+NER: ntific referen ce	Frequency: 1
+NER: gl obal w armin g. 81	Frequency: 1
+NER: the U.S. National Ac	Frequency: 1
+NER: accura	Frequency: 1
+NER: refle cts	Frequency: 1
+NER: the American Geophysical Union	Frequency: 1
+NER: Fahrenheit	Frequency: 2
+NER: Glacier National Park	Frequency: 1
+NER: Unrestra	Frequency: 1
+NER: projec ted	Frequency: 1
+NER: approxima	Frequency: 2
+NER: ncreas ed ocea n	Frequency: 1
+NER: bleac h	Frequency: 1
+NER: globa l	Frequency: 1
+NER: eratur	Frequency: 2
+NER: Fahre	Frequency: 1
+NER: occurr ed	Frequency: 1
+NER: lev el	Frequency: 1
+NER: corr esponding increa se	Frequency: 1
+NER: USGCRP	Frequency: 2
+NER: g lacial ic e	Frequency: 1
+NER: hea t.	Frequency: 1
+NER: glob al warmi ng	Frequency: 1
+NER: gre	Frequency: 1
+NER: ears ag o	Frequency: 1
+NER: g lobal temp eratur e	Frequency: 1
+NER: tem peratu	Frequency: 1
+NER: degr ees Fa hrenhei t	Frequency: 3
+NER: rld clima te	Frequency: 1
+NER: civ	Frequency: 1
+NER: nywhere	Frequency: 1
+NER: ide	Frequency: 1
+NER: glo bal aver age te mperatu re in the next 100	Frequency: 1
+NER: damag	Frequency: 3
+NER: Fahrenhe	Frequency: 1
+NER: mag	Frequency: 2
+NER: nmental h	Frequency: 1
+NER: reducin g	Frequency: 1
+NER: Ca rbon Dioxide 98	Frequency: 1
+NER: sec tor’s	Frequency: 1
+NER: the Unite d States	Frequency: 1
+NER: p ercent	Frequency: 1
+NER: hu	Frequency: 1
+NER: Thi s increa se	Frequency: 1
+NER: ra ise	Frequency: 1
+NER: This ra te of inc rease	Frequency: 1
+NER: whe n	Frequency: 2
+NER: incorp orated i n New	Frequency: 1
+NER: America n Gas and Electric Company	Frequency: 1
+NER: TVA inc	Frequency: 1
+NER: incorp oration	Frequency: 1
+NER: incorpo	Frequency: 1
+NER: The Ci ncinnati Gas & El	Frequency: 1
+NER: bsorb	Frequency: 1
+NER: rbon	Frequency: 1
+NER: Thei r Citize	Frequency: 1
+NER: Reside nts	Frequency: 1
+NER: Globa l	Frequency: 1
+NER: chan ge	Frequency: 2
+NER: alm ost 4 de grees Fahrenheit	Frequency: 1
+NER: the New Y ork City Metropol	Frequency: 1
+NER: the te mperatu re	Frequency: 1
+NER: Ne w England	Frequency: 1
+NER: deg rees Fahrenheit	Frequency: 1
+NER: decr	Frequency: 1
+NER: pa rticularly	Frequency: 1
+NER: La ke Mendota	Frequency: 1
+NER: decrea	Frequency: 1
+NER: La ke Mendo	Frequency: 1
+NER: Envir onmental Protectio n Agenc y	Frequency: 1
+NER: Fa hrenh eit	Frequency: 1
+NER: USGC RP	Frequency: 1
+NER: te mperature	Frequency: 1
+NER: averag	Frequency: 1
+NER: deg rees Fa hrenhei	Frequency: 1
+NER: the impa cts	Frequency: 1
+NER: alth 108	Frequency: 1
+NER: flo ods	Frequency: 1
+NER: hurr icanes	Frequency: 1
+NER: U.S. EPA	Frequency: 1
+NER: p neumonia	Frequency: 1
+NER: bron chitis	Frequency: 1
+NER: State of New York	Frequency: 1
+NER: ba rrier islands	Frequency: 1
+NER: L ong Island	Frequency: 1
+NER: glac	Frequency: 1
+NER: po	Frequency: 1
+NER: gl obal war ming	Frequency: 1
+NER: mo	Frequency: 1
+NER: flo	Frequency: 1
+NER: muc	Frequency: 1
+NER: ju risdictio	Frequency: 1
+NER: Ne w York City	Frequency: 1
+NER: 2080s	Frequency: 1
+NER: g airpo rts	Frequency: 1
+NER: subwa y stations	Frequency: 1
+NER: tu nnels	Frequency: 1
+NER: s hafts	Frequency: 1
+NER: pu blic	Frequency: 2
+NER: erty	Frequency: 1
+NER: pla intiffs	Frequency: 1
+NER: Accele	Frequency: 2
+NER: g lobal war ming als	Frequency: 1
+NER: ens	Frequency: 1
+NER: bitat	Frequency: 1
+NER: commerc ial	Frequency: 1
+NER: g ame spec ies	Frequency: 1
+NER: migr atory birds	Frequency: 1
+NER: wil dlife	Frequency: 1
+NER: Ec	Frequency: 2
+NER: the Jamaica Bay National Wildlife Refuge	Frequency: 1
+NER: Great S	Frequency: 1
+NER: Islan ds Wi ldlife Refu ge Management Area in I sland Beach State Park	Frequency: 1
+NER: inundatio n	Frequency: 1
+NER: lev el ris	Frequency: 1
+NER: g lobal war ming als o	Frequency: 1
+NER: Vulnera ble	Frequency: 1
+NER: Rober	Frequency: 1
+NER: Moses Sta te Park	Frequency: 1
+NER: Montauk Point State Park	Frequency: 1
+NER: Andrew Molera State Park	Frequency: 1
+NER: Sherwood I sland State Park	Frequency: 1
+NER: Silver Sands State Park	Frequency: 1
+NER: coas tal plaint iff	Frequency: 1
+NER: ndwater aquifer s	Frequency: 1
+NER: sa linity	Frequency: 1
+NER: the Sac ramento-San Joachin De	Frequency: 1
+NER: sou rce	Frequency: 1
+NER: compr omise	Frequency: 1
+NER: the State Water Project	Frequency: 1
+NER: eed	Frequency: 1
+NER: r unoff fr om	Frequency: 1
+NER: c ause	Frequency: 2
+NER: f reduc ed mou	Frequency: 1
+NER: alrea	Frequency: 1
+NER: looding a nd runoff	Frequency: 1
+NER: incre ase	Frequency: 2
+NER: the r isk	Frequency: 1
+NER: giardi asis	Frequency: 1
+NER: flo od water s	Frequency: 1
+NER: th reaten	Frequency: 2
+NER: New Y ork State	Frequency: 1
+NER: reation al resou rce	Frequency: 1
+NER: p lants	Frequency: 1
+NER: f shorel ine	Frequency: 1
+NER: Lake Michiga n	Frequency: 1
+NER: La ke Superior	Frequency: 1
+NER: La ke Ontario	Frequency: 1
+NER: the I nternational Joint Commission	Frequency: 1
+NER: U.S.-Canadian	Frequency: 1
+NER: the Boundary Waters Treaty	Frequency: 1
+NER: La ke Michigan	Frequency: 1
+NER: Lake O ntario	Frequency: 1
+NER: av erage outflow, b oth	Frequency: 1
+NER: decre ase	Frequency: 1
+NER: the New York State	Frequency: 1
+NER: Seaway	Frequency: 1
+NER: Lakes Michig	Frequency: 1
+NER: the Port of Milwaukee	Frequency: 1
+NER: the Port of Green Bay	Frequency: 1
+NER: La kes Ontario	Frequency: 1
+NER: the Port of Osweg	Frequency: 1
+NER: the Port of Buffalo	Frequency: 1
+NER: dre dging	Frequency: 1
+NER: harbo rs	Frequency: 1
+NER: chann els	Frequency: 1
+NER: hipping lo sses	Frequency: 1
+NER: Moreo ver	Frequency: 1
+NER: ial	Frequency: 1
+NER: al lan dfills	Frequency: 1
+NER: redgin g	Frequency: 1
+NER: the Robert Moses Niagara Power Plant	Frequency: 1
+NER: the Lewiston Pump-Generating Plant	Frequency: 1
+NER: gen-r ich wate	Frequency: 1
+NER: ris	Frequency: 1
+NER: zon e. Persis	Frequency: 1
+NER: tent dea	Frequency: 1
+NER: dr inking w	Frequency: 1
+NER: ag ricultur	Frequency: 1
+NER: Wi sconsin	Frequency: 1
+NER: the fr equenc y	Frequency: 1
+NER: Increa	Frequency: 1
+NER: str eams	Frequency: 1
+NER: ncreas ed floodi ng	Frequency: 1
+NER: p roperty	Frequency: 1
+NER: Forests, Fisheries and Wildlife 132	Frequency: 1
+NER: tem	Frequency: 1
+NER: tol erance a nd var	Frequency: 1
+NER: interde	Frequency: 1
+NER: scenar io	Frequency: 1
+NER: tinctions depen	Frequency: 1
+NER: u pon	Frequency: 1
+NER: lev el of w armin g. 133	Frequency: 1
+NER: mapl es	Frequency: 1
+NER: occ ur	Frequency: 1
+NER: The Adirondack Park	Frequency: 1
+NER: wh ich 2.6	Frequency: 1
+NER: sta te-owne	Frequency: 1
+NER: ra pidly	Frequency: 1
+NER: the tra nsition fr om	Frequency: 1
+NER: cterized	Frequency: 1
+NER: ma mmals	Frequency: 1
+NER: acr oss	Frequency: 1
+NER: Un	Frequency: 1
+NER: warmer water te mperatu res.	Frequency: 1
+NER: Salmon	Frequency: 1
+NER: the Great La kes	Frequency: 1
+NER: Wildf	Frequency: 1
+NER: w ildfire	Frequency: 1
+NER: lea	Frequency: 1
+NER: Globa	Frequency: 1
+NER: substa ntially increa se	Frequency: 1
+NER: wildfir es	Frequency: 1
+NER: sta te-owne d	Frequency: 1
+NER: the ri sk of i njuri es	Frequency: 1
+NER: fl ooding	Frequency: 1
+NER: acc ompany	Frequency: 1
+NER: nterests	Frequency: 1
+NER: ecolog	Frequency: 1
+NER: rry	Frequency: 1
+NER: producti vity	Frequency: 1
+NER: tax reven ue	Frequency: 1
+NER: the Na tional Academy of Sciences	Frequency: 1
+NER: ra diative f orcing	Frequency: 1
+NER: glo bal wa rming	Frequency: 1
+NER: uld gre	Frequency: 1
+NER: magnif	Frequency: 1
+NER: the ir citizen s	Frequency: 1
+NER: shortenin g	Frequency: 1
+NER: q uasi-sov ereig n intere sts	Frequency: 1
+NER: cit izens	Frequency: 2
+NER: The lo wer th e level	Frequency: 1
+NER: tot al tem peratu	Frequency: 1
+NER: exa mple	Frequency: 1
+NER: reducin g emissio ns	Frequency: 1
+NER: slo w the r ate	Frequency: 1
+NER: magnit ude	Frequency: 1
+NER: warmi	Frequency: 1
+NER: u nreason	Frequency: 1
+NER: p ublic rig hts	Frequency: 1
+NER: le proce sses	Frequency: 1
+NER: glo bal	Frequency: 1
+NER: r esidents	Frequency: 1
+NER: nment	Frequency: 1
+NER: g lobal war ming ar e indivisib le injurie s. 161	Frequency: 1
+NER: remed y	Frequency: 1
+NER: arbon dio xide	Frequency: 1
+NER: welfar	Frequency: 1
+NER: eng	Frequency: 8
+NER: unr	Frequency: 1
+NER: the State of A	Frequency: 1
+NER: Defen dant X cel	Frequency: 1
+NER: Defen	Frequency: 6
+NER: con tinues	Frequency: 2
+NER: the State of Florida	Frequency: 1
+NER: Ge orgia	Frequency: 1
+NER: Georg	Frequency: 1
+NER: tha t unreas onably	Frequency: 3
+NER: interfe res	Frequency: 4
+NER: e njoyment	Frequency: 1
+NER: prop erty	Frequency: 1
+NER: sta tutory	Frequency: 1
+NER: the State of Indiana	Frequency: 1
+NER: Defen dants	Frequency: 1
+NER: con tinue	Frequency: 1
+NER: ouisiana	Frequency: 1
+NER: enga ge	Frequency: 2
+NER: int entional and/or	Frequency: 2
+NER: unre asonably interfe res	Frequency: 2
+NER: liab	Frequency: 4
+NER: p ublic nuisance of	Frequency: 3
+NER: Min nesota	Frequency: 1
+NER: eng aged a nd continu es	Frequency: 4
+NER: obstr ucts the f	Frequency: 1
+NER: gener	Frequency: 1
+NER: affec ts the public	Frequency: 1
+NER: the State of New Mexico	Frequency: 1
+NER: ntentiona	Frequency: 2
+NER: eglig ent condu ct	Frequency: 2
+NER: un reasona bly	Frequency: 2
+NER: p ublic nuisance of the	Frequency: 1
+NER: the State of South Dakota	Frequency: 1
+NER: conti nue	Frequency: 1
+NER: Texa	Frequency: 1
+NER: Vi	Frequency: 1
+NER: creatin g	Frequency: 1
+NER: the Commonwealth of Virginia	Frequency: 1
+NER: st Virgi	Frequency: 1
+NER: the exerc ise	Frequency: 1
+NER: pub lic righ ts enjoy ed	Frequency: 1
+NER: d efenda	Frequency: 1
+NER: liab le	Frequency: 1
+NER: creati ng	Frequency: 1
+NER: Gene ral	Frequency: 9
+NER: KIMBERL	Frequency: 1
+NER: KM7666	Frequency: 1
+NER: al P.O. Box	Frequency: 1
+NER: Elm Street Hartford	Frequency: 1
+NER: N EW YORK	Frequency: 1
+NER: PETER	Frequency: 1
+NER: J. JARED SNYDER	Frequency: 1
+NER: Gener al Environmental Protection Bureau	Frequency: 1
+NER: LOCKYER	Frequency: 1
+NER: IAM BRI	Frequency: 1
+NER: THOMAS J. MILL ER	Frequency: 1
+NER: Gene ral TAM	Frequency: 1
+NER: DAVID R. SHERI	Frequency: 1
+NER: Lucas St	Frequency: 1
+NER: PETER C. HARVEY	Frequency: 1
+NER: MO RELLI JOHN R	Frequency: 1
+NER: Hughes	Frequency: 1
+NER: UBIN	Frequency: 1
+NER: JEDE	Frequency: 1
+NER: Ge	Frequency: 1
+NER: Department of the	Frequency: 1
+NER: 02903	Frequency: 1
+NER: ELL	Frequency: 1
+NER: S. MARK SCIARROTTA	Frequency: 1
+NER: ERICK TI	Frequency: 1
+NER: VT 05609-1001	Frequency: 1
+NER: MICHAEL A. CARD OZO Corporation	Frequency: 1
+NER: CITIZEN, INC.	Frequency: 1
+NER: NORMAN Y. MINETA	Frequency: 1
+NER: Seventh Street	Frequency: 1
+NER: MICHAEL O. LEAVITT	Frequency: 1
+NER: Ariel Rios Building	Frequency: 1
+NER: Pennsylvania Avenue	Frequency: 1
+NER: D.C. 20460	Frequency: 1
+NER: 706(2	Frequency: 1
+NER: the National Highway Traffic Safety Administration	Frequency: 1
+NER: NHTSA	Frequency: 19
+NER: the Department of Transportation	Frequency: 3
+NER: DOT	Frequency: 16
+NER: the Alternative Motor Fuels Act of 1988	Frequency: 1
+NER: andnatural gas	Frequency: 1
+NER: Thesestatutory	Frequency: 1
+NER: NRDC	Frequency: 4
+NER: Plaintiff Center for Auto Safety	Frequency: 1
+NER: CAS	Frequency: 5
+NER: andvehicle quality	Frequency: 1
+NER: Public Citizen	Frequency: 1
+NER: 154quality	Frequency: 1
+NER: gallonsof	Frequency: 1
+NER: Docket No	Frequency: 1
+NER: vehiclesthan	Frequency: 1
+NER: the Department of Energy	Frequency: 1
+NER: the Environmental Protection Agency	Frequency: 2
+NER: DOE & EPA	Frequency: 1
+NER: Report to Congress	Frequency: 1
+NER: plaintiffs’Case 1:04-cv-05380-VM-RLE Document	Frequency: 1
+NER: 156members	Frequency: 1
+NER: Norman Y. Mineta	Frequency: 1
+NER: 1.50(f	Frequency: 1
+NER: Michael O. Leavitt	Frequency: 1
+NER: the Energy Policy and Conservation Act	Frequency: 1
+NER: EPCA	Frequency: 2
+NER: Individualvehicles	Frequency: 1
+NER: agiven	Frequency: 1
+NER: capableof	Frequency: 1
+NER: mostcommon	Frequency: 1
+NER: E85	Frequency: 2
+NER: 10875 & n.2	Frequency: 1
+NER: E85and 25	Frequency: 1
+NER: thevehicle manufacturer	Frequency: 1
+NER: S.	Frequency: 1
+NER: the House of Representatives	Frequency: 1
+NER: Senate	Frequency: 1
+NER: the National Academy of Sciences	Frequency: 1
+NER: H.R. Conf	Frequency: 1
+NER: See National Academy of Sciences	Frequency: 1
+NER: NASdetermined	Frequency: 1
+NER: aCase 1:04-cv-05380	Frequency: 1
+NER: NAS Study	Frequency: 1
+NER: theprogram	Frequency: 1
+NER: AMFAincentive	Frequency: 1
+NER: Vacate NHTSA	Frequency: 1
+NER: Enjoin DOT	Frequency: 1
+NER: Grant	Frequency: 1
+NER: 1515Dated	Frequency: 1
+NER: s/ Mitchell S. Bernard	Frequency: 1
+NER: Lawrence M. Levine	Frequency: 1
+NER: LL 2994)Natural Resources Defense Council	Frequency: 1
+NER: Inc.40	Frequency: 1
+NER: Bonnie I. Robin-Vergeer	Frequency: 1
+NER: 20th Street	Frequency: 1
+NER: David D. Doniger Natural Resources Defense Council	Frequency: 1
+NER: Inc.1200 New York Avenue	Frequency: 1
+NER: Suite 400Washington	Frequency: 1
+NER: PlaintiffsCase 1:04-cv-05380-VM-RLE Document 1	Frequency: 1

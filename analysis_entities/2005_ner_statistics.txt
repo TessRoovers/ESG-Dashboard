@@ -1,0 +1,1635 @@
+NER: BEFORE THE SECRET ARY OF THE INTERIOR PETITION	Frequency: 1
+NER: THREA	Frequency: 1
+NER: D. Mangelsen/Im	Frequency: 1
+NER: Interior	Frequency: 12
+NER: Thomas D. Mangelsen/Imagesofnaturestock.com	Frequency: 1
+NER: Thomas D. Mangels	Frequency: 1
+NER: Betsy Morrison	Frequency: 1
+NER: Brian Nowicki	Frequency: 1
+NER: Monica Bond	Frequency: 1
+NER: Erin Duffy	Frequency: 1
+NER: Curt Bradley	Frequency: 1
+NER: Noah Greenwald	Frequency: 1
+NER: Shane Jimerfield	Frequency: 1
+NER: Kieran Suckling	Frequency: 1
+NER: the Center for Bi ological Diversity	Frequency: 1
+NER: Michael Finkelstein	Frequency: 1
+NER: Protectio n	Frequency: 1
+NER: Kassie Siegel	Frequency: 1
+NER: Brendan Cummings	Frequency: 1
+NER: Center for Biological Diversity Executive Summary Introduction	Frequency: 1
+NER: ESA	Frequency: 14
+NER: clim	Frequency: 2
+NER: tem peratures	Frequency: 1
+NER: the Center f	Frequency: 1
+NER: Biol ogical Diver	Frequency: 1
+NER: subm	Frequency: 2
+NER: Secr	Frequency: 1
+NER: Inter	Frequency: 1
+NER: W ildlif e Service	Frequency: 1
+NER: FWS	Frequency: 8
+NER: al pro tectio n of the polar bear	Frequency: 1
+NER: determ ine	Frequency: 1
+NER: tantia	Frequency: 1
+NER: determ ination	Frequency: 1
+NER: F WS	Frequency: 1
+NER: h ave	Frequency: 1
+NER: Nativ e Alaskan	Frequency: 1
+NER: thr	Frequency: 2
+NER: hab itat	Frequency: 1
+NER: ultim	Frequency: 1
+NER: ar e inadequa te	Frequency: 1
+NER: addr ess	Frequency: 1
+NER: itional threa ts	Frequency: 1
+NER: p	Frequency: 3
+NER: the legal cr iteria	Frequency: 1
+NER: Arct	Frequency: 1
+NER: the Arctic Climate Impact Assessment’s	Frequency: 2
+NER: ACIA	Frequency: 9
+NER: N.J. Lunn	Frequency: 1
+NER: I. Stirling	Frequency: 1
+NER: scienc	Frequency: 2
+NER: Best Available Science	Frequency: 1
+NER: anthropogeni c	Frequency: 1
+NER: the Intergovernmental Panel on Climate Change	Frequency: 2
+NER: the World Meteorological Organization	Frequency: 1
+NER: the United Nations Environment Progr	Frequency: 1
+NER: the Conference of the Parties	Frequency: 1
+NER: the United Nations Framework Convention on	Frequency: 1
+NER: methodol	Frequency: 1
+NER: The Third Assessment Report	Frequency: 1
+NER: pa rticipating	Frequency: 1
+NER: Stott	Frequency: 1
+NER: Stainford 2005;)	Frequency: 1
+NER: arctic clim	Frequency: 1
+NER: Ar ctic	Frequency: 1
+NER: The Future of Polar Bears	Frequency: 1
+NER: Phoca hispida	Frequency: 1
+NER: the sout hern edge	Frequency: 1
+NER: wa	Frequency: 1
+NER: ma ximize	Frequency: 1
+NER: reprod uctive	Frequency: 1
+NER: Derocher et al	Frequency: 1
+NER: curr ently	Frequency: 1
+NER: concentrat	Frequency: 1
+NER: ke	Frequency: 1
+NER: Derocher	Frequency: 2
+NER: respo nd	Frequency: 1
+NER: globa	Frequency: 2
+NER: the United Nations Framework Convention on Climate Change	Frequency: 2
+NER: the Kyoto Protocol	Frequency: 7
+NER: Page vii	Frequency: 1
+NER: The United Nations Framework Convention on Climate Change	Frequency: 1
+NER: UNFCCC	Frequency: 12
+NER: Energy Information Administration	Frequency: 1
+NER: The Kyoto Protocol	Frequency: 1
+NER: sym bolic	Frequency: 1
+NER: Protocol	Frequency: 4
+NER: the U.S. Government Accounting Office	Frequency: 1
+NER: GAO	Frequency: 2
+NER: EIA	Frequency: 1
+NER: Implementati	Frequency: 1
+NER: the Kyoto Protocol w	Frequency: 1
+NER: Williams	Frequency: 1
+NER: International Climate Change Taskforce	Frequency: 1
+NER: disappe ar	Frequency: 1
+NER: the Endangered Species Act	Frequency: 2
+NER: 1533(b	Frequency: 1
+NER: the Adm inistrative Pro cedures Act	Frequency: 1
+NER: Petitioner Center for Biological Diversity	Frequency: 1
+NER: the pola r bear	Frequency: 1
+NER: The FW S	Frequency: 1
+NER: m otion	Frequency: 1
+NER: FW S	Frequency: 4
+NER: dem	Frequency: 1
+NER: Petitione	Frequency: 2
+NER: listin g	Frequency: 1
+NER: av	Frequency: 1
+NER: ptly	Frequency: 1
+NER: sta	Frequency: 1
+NER: verteb	Frequency: 1
+NER: A Distinct Population Segment	Frequency: 1
+NER: Ursu	Frequency: 1
+NER: scien tists	Frequency: 1
+NER: recogn ize	Frequency: 1
+NER: p opulations	Frequency: 1
+NER: the crit eria	Frequency: 1
+NER: Policy Regarding the R ecognition of	Frequency: 1
+NER: Distinct V ertebrate Population	Frequency: 1
+NER: Fed	Frequency: 10
+NER: Theref	Frequency: 1
+NER: tha t	Frequency: 1
+NER: the F WS	Frequency: 1
+NER: wa rranted	Frequency: 1
+NER: Respectf	Frequency: 1
+NER: Kassie R. Siegel	Frequency: 1
+NER: Attorn ey Center for Biological Diversity	Frequency: 1
+NER: CA 92549	Frequency: 1
+NER: The Center for Biological Diversity	Frequency: 1
+NER: Cen ter	Frequency: 1
+NER: po lar	Frequency: 1
+NER: Page x	Frequency: 1
+NER: 22B.TheClimateSystem	Frequency: 1
+NER: GreenhouseGasConcentrations	Frequency: 2
+NER: IceTravel	Frequency: 1
+NER: 8014.BaffinBay(BB)(Canada	Frequency: 1
+NER: 8118.KaraSea(KS)(Russia)	Frequency: 1
+NER: TheImpactsofOilandGasExplorationandDevelopmentonPolarBears ..................................................................................................................................	Frequency: 1
+NER: orHarassmentfromInteractionswithHumans	Frequency: 1
+NER: 124E.Russia	Frequency: 1
+NER: RegulatoryMechanismsareInadequatetoAddressOtherThreatstoPolarBears......................................................................................................................	Frequency: 1
+NER: 134I.INTERNATIONALAGREEMENTONTHECONSERVATIONOFPOLARBEARS	Frequency: 1
+NER: SummaryofPolarBearPopulationStatus	Frequency: 1
+NER: NumberofBearsandTracksSightedbyHabitatTypeintheWesternCanadianArctic,1971	Frequency: 2
+NER: IncreasesinNunavutPolarBearHarvestQuotas	Frequency: 1
+NER: QuotasandKnownNumbersofPolarBearsKilledinCanada,1996-97through1999-2000	Frequency: 1
+NER: .....................................................................................................................	Frequency: 1
+NER: CriteriaforListingSpeciesasThreatenedorEndangeredundertheCanadianSpeciesatRiskAct	Frequency: 1
+NER: CarbonDioxideConcentrations	Frequency: 2
+NER: andTemperature	Frequency: 1
+NER: September2003	Frequency: 1
+NER: SelectedPolarBearTerrestrialDenningAreasComparedtoPast	Frequency: 1
+NER: andFutureSummerSea-IceExtent	Frequency: 1
+NER: FWSDesignatedImportantHabitatAreasforPolarBears	Frequency: 1
+NER: ExistingArcticSlopeOilFieldsandInfrastructure	Frequency: 1
+NER: MineralsManagementServiceLeaseSales186,195,and2002,from2003	Frequency: 1
+NER: Absentsubstantialreductionsinemissionsofgreenhousegases	Frequency: 1
+NER: °C(12.6°F)andsummerseaicewilldeclineby50-100%.ThepolarbearcannotsurvivesuchchangesandthereforemeetsthestatutorycriteriaforprotectionasThreatenedundertheESA.ThisPetitiondescribesthenaturalhistoryandbiologyofthepolarbear	Frequency: 1
+NER: thePetitionreviewstheprimarythreatstothecontinuedexistenceofthepolarbear	Frequency: 1
+NER: ThePetitionalsoexplainshowexistinglawandregulations	Frequency: 1
+NER: areinadequatetoaddressthethreatsfromcontinuedglobalwarmingandpreventtheendangermentandlikelyextinctionofthepolarbear	Frequency: 1
+NER: Insum	Frequency: 3
+NER: Ursusmaritimus	Frequency: 3
+NER: Scientistsbelievethatthepolarbearemergedasadistinctspeciesquiterecentlyfromacommonancestorwiththepresent	Frequency: 1
+NER: TheIUCN/SSCPolarBearSpecialistGroup(“PBSG”),thepreeminentinternationalscientificbodyforresearchandmanagementrelatingtopolarbears	Frequency: 1
+NER: orstocks	Frequency: 1
+NER: QueenElizabethIslandsVM	Frequency: 3
+NER: NorwegianBayLS	Frequency: 3
+NER: KaneBasinBB–BaffinBayDS	Frequency: 3
+NER: andRussia	Frequency: 3
+NER: Somepopulationsoccurentirelywithinthejurisdictionofonenation	Frequency: 1
+NER: whileothersaresharedbetweentwonations(Table1).Table1	Frequency: 1
+NER: CanadaSouthernBeaufortSeaNorthernBeaufortSeaQueenElizabethViscountMelvilleSoundNorwegianBayM’ClintockChannelGulfofBoothiaFoxeBasinWesternHudsonBayCanadaSouthernHudsonBayKaneBasinBaffinBayCanada	Frequency: 1
+NER: Denmark(Greenland)DavisStraitDenmark(Greenland)EastGreenlandNorwayBarentsSeaKaraSeaRussiaLaptevSeaInternationalWatersArcticBasinScientistshavedefinedtheboundariesofthe20polarbearpopulationsbasedonanalysesofbearsinmark-recapturestudies	Frequency: 1
+NER: geneticanalyseshaverevealedsignificantcorrelationsbetweenmovementdataandgeneticdata	Frequency: 1
+NER: andpollutionwaslistedasaconcernforfive(Table2;Lunnetal.2002a).Page4of154	Frequency: 1
+NER: ItisimportanttonotethatthePBSG’sstatusassessmentsofthevariouspolarbearpopulationsaregenerallybasedonthepopulations’currentstatus	Frequency: 1
+NER: aswellastheglobalspecies	Frequency: 1
+NER: arenotcurrentlyendangered	Frequency: 1
+NER: Table2	Frequency: 1
+NER: SummaryofPolarBearPopulationStatusSource	Frequency: 1
+NER: AdaptedfromLunnetal.(2002a:22).PopulationAbundanceEstimate1CertaintyofEstimateMonitoringofHarvestandotherRemovalsConservationConcerns2Status3EastGreenland2000Poor(1997)FairP	Frequency: 1
+NER: W?BarentsSea2000	Frequency: 1
+NER: goodRussia	Frequency: 1
+NER: W?KaraSeaUnknownUnknownPoorP	Frequency: 1
+NER: IS?SouthernBeaufortSea1800Good(2001)GoodW	Frequency: 1
+NER: whichrangesfromlittleinformationtodetailedinventorystudies.2I-Industrialdevelopment	Frequency: 1
+NER: isolatedfrombrownbearsinotherPleistocenerefugia(Amstrup2003).Geneticsworkalsosuggeststhatpolarbearsbranchedfromtheancestralstockapproximately200,000-250,000yearsago(Amstrup2003).PolarbearswerewelldevelopedasaseparatespeciesbythebeginningoftheEemianinterglacialaround125,000yearsago(Stirling1998).Theoldestknownpolarbearfossil	Frequency: 1
+NER: collectedinLondon	Frequency: 1
+NER: moreofthelandsurfaceofEuropewascoveredwithicethaneverbefore	Frequency: 1
+NER: andtheicefrontswouldhaveseparatedbrownbears	Frequency: 1
+NER: thepolarbearexpandeditsrangetoitscurrentcircumpolardistribution(Stirling1998).Becausethepolarbear’sprimaryhabitatisthesurfaceoftheseaice	Frequency: 1
+NER: smallears	Frequency: 1
+NER: andappeartobewelladaptedtoclamberingoverblocksoficeandsnowandtosecurelygrippingpreyanimals(Amstrup2003).Page6of154	Frequency: 1
+NER: andthefirstnumberofeachpairindicatesthenumberofteethontheupperjawwhilethesecondnumberindicatesthenumberofteethonthelowerjaw(Stirling1998).Polarbearteethappeartohaveevolvedsignificantlyfromthoseoftheirbrownbearancestor(Amstrup2003).Polarbearteetharewelladaptedforgrabbingpreyandfortrimmingthefatfromthemeatandhide	Frequency: 1
+NER: andarenolongersuitedtogrindinggrassesorothervegetation(Amstrup2003).Otherthanhumanhunters	Frequency: 1
+NER: whichitcanmaintainforhours	Frequency: 1
+NER: andinsidesofthethighs	Frequency: 1
+NER: andalso	Frequency: 1
+NER: windyweather	Frequency: 1
+NER: potentialpreyspeciesthatco	Frequency: 1
+NER: whensittingupto58beatsperminute	Frequency: 1
+NER: onlypregnantfemaleshibernatethroughthewinter(Stirling1998;Amstrup2000).Thisisnottruehibernationasisexperiencedbysomespecies	Frequency: 1
+NER: duringwhichthebeardoesnotfeedoreliminateandlivesoffitsaccumulatedfatstores(Stirling1998;Amstrup2003).Maleandfemalepolarbearscanalsoenterastatetermed“walkinghibernation”atanytimeofyearwhenfoodsuppliesarescarce	Frequency: 1
+NER: atraitnotfoundinanyotherbearspecies(StirlingandØritsland1995;Stirling1998;Amstrup2003).Walkinghibernationmeansthatthebear’smetabolismalterstoahibernation-likestate	Frequency: 1
+NER: Page9of154	Frequency: 1
+NER: afemalemustaccumulatesufficientfatreservestoliveandtosupporthercubsfromthetimesheentersthematernitydenbetweenlateOctoberandmid-Novemberuntilthetimethefamilyemergesinthespringandthefemaleonceagainbeginstofeed(Stirling1998).Thelengthoftimeafemalemustfastvariesbyregion(Stirling1998),asdetailedinAppendixA.Pregnantfemalepolarbearsdeninavarietyofsubstrates	Frequency: 1
+NER: usuallyconsistingofasinglechamberattheendofalong	Frequency: 1
+NER: narrowentrance(Stirling1998).Sometimestwoandthreechamberdensareexcavated	Frequency: 1
+NER: andcubswillalsosometimesexcavatesmallalcoves(Stirling1998).ScottandStirling(2002)analyzedterrestrialdenuseintheWesternHudsonBaypopulationbyexamininggrowthringsinblacksprucetreesthatindicateddamagecausedbypolarbeardenningactivities	Frequency: 1
+NER: InWesternHudsonBay	Frequency: 2
+NER: mostpregnantfemalesutilizedensdugintothepermafrostalongriverbanksandlakeshores	Frequency: 1
+NER: naturalphenomenasuchasrapidlymovingandshiftingicecandisruptpolarbeardens(Amstrup2000).Twofemalepolarbearswereobservedwithtinycubsintheirmouths,“probablyindesperateattemptstorelocatetoanewdensite”whentheirdensweresweptpastPointBarrowandsouthwestintotheChukchiSeaduetounusuallyunstableice(Amstrup2003:596).Page10of154	Frequency: 1
+NER: Somedenninghabitathasalreadybeenexposedtotheseactivities(Amstrup2000).AreasofconcentratedpolarbeardenningincludetheArcticNationalWildlifeRefugeintheUnitedStates	Frequency: 1
+NER: Nordaustlandet	Frequency: 3
+NER: Edgeøya	Frequency: 3
+NER: NovayaZemlya	Frequency: 4
+NER: thetimingvariesbyregionandpopulation(Stirling1998;Amstrup2000).Polarbearyoungareamongthemostundevelopedofplacentalmammals(Amstrup2000).Cubsarebornwiththeireyesclosed	Frequency: 1
+NER: inonestudy,containedanaveragemeanfatcontentof33.1percent	Frequency: 1
+NER: femalestodonotbreedforthefirsttimeuntiltheyaresixyearsold(Stirling1998;Amstrup2000).Malepolarbearsgenerallyreachsexualmaturityatsixyearsofage	Frequency: 1
+NER: mostofwhicharefraternal	Frequency: 1
+NER: ratherthanidentical(Stirling1998).Singlecubsaccountforanadditional20-30%oflitters	Frequency: 1
+NER: termedthe“underbear”byStirling(1998).ExistingdataonlittersizeandcubsurvivalaresparseduetotheextremedifficultybothofcollectinginformationonthenumberofcubsemergingfromdensacrosstheArcticaswellasintrackingcubsurvival(Stirling1998).Stirling(1998)calculatedaveragelittersizesbasedonexistingdatarangingfrom2.0inHudsonBayto1.56intheCentralCanadianArctic	Frequency: 1
+NER: Duetocubmortality	Frequency: 1
+NER: rangingfrom1.68ontheManitobacoastofHudsonBayto1.23inSvalbard(Stirling1998).Stirling(1998)estimatesfirstyearcubmortalityat20-40%,varyingbypopulation	Frequency: 1
+NER: MotherPolarBearNursingTenMonthOldCubsatWesternHudsonBay	Frequency: 1
+NER: CanadaPolarTreasure	Frequency: 1
+NER: ThomasD.Mangelsen/Imagesofnaturestock.comAcompletereproductivecycleisenergeticallyexpensiveforfemalepolarbears	Frequency: 1
+NER: Themostdifficulttimeofapolarbear’slifeisfromthetimeitisweanedtowhenitbecomesasuccessfuladulthunteratfiveorsixyearsofage(Stirling1998).Subadultsarelessexperiencedathuntingandmakefewerkillsthanadults	Frequency: 1
+NER: andsealsbypolarbears(FWS1995).Baleenwhaleseatzooplankton	Frequency: 1
+NER: andhumanseatwhales	Frequency: 1
+NER: andpolarbears(FWS1995).Thenear	Frequency: 1
+NER: Theoffshorebenthiccommunityconsistsofmolluskandbenthicamphipodsthatsupportwalrusand	Frequency: 1
+NER: greywhales	Frequency: 1
+NER: andhavenotyetlearnedtoavoidpredators	Frequency: 1
+NER: polarbearshaveobtainedtheirhighestannualweight(Stirling1998).Polarbearswillalsofeedonwhaleandsealcarcasses	Frequency: 1
+NER: butitisunlikelythatitcontributessignificantlytotheiroverallenergyrequirements(Stirling1998;Derocheretal.2004).Therearereportsofpolarbearpredation	Frequency: 1
+NER: attemptedpredation	Frequency: 1
+NER: orpossiblepredationonvariousterrestrialspeciesincludingcaribou	Frequency: 1
+NER: LawrenceIslandhaveobservedpolarbearseatingcrabs	Frequency: 1
+NER: stealthilysurfacingatunoccupiedsealbreathingholestobreatheitself(Stirling1998).Stirling(1998)hasobservedbearsubmersiontimesinthismannerofupto72seconds(Stirling1998).Thebearthenswimstotheholeatwhichthetargetsealishauledout,surfacesattheholeandatthesametimeattemptstograbtheseal(Stirling1998).Stirling(1998)reportsthatthishuntingmethodisunsuccessfulmoreoftenthannot	Frequency: 1
+NER: thoughthisislikelytobealocalizedbehaviorpracticedbyonlyasmallnumberofbears(Stirling1998).Still-huntingisthesecondprimaryhuntingmethod	Frequency: 1
+NER: accountingfor80%ofhuntinginthesummer	Frequency: 1
+NER: andanevenhigherpercentageinwinter	Frequency: 1
+NER: atwhichtimeitwillpounceandsnatchtheseal(Stirling1998).Usuallythebearwillliedownontheicewithitschinclosetotheedgeofthehole	Frequency: 1
+NER: butsometimesabearwillsitorstand(Stirling1998).Moststill	Frequency: 1
+NER: Aswinterprogresses	Frequency: 1
+NER: remainingcracksintheicewheresealssurfacetobreathebegintofreeze	Frequency: 1
+NER: andthesealsmustmaintainthem(Stirling1998).Whentheiceisyoungandthin	Frequency: 1
+NER: andpolarbearscanaccessthesealsatsuchsites(Stirling1998).Aswinterprogresses	Frequency: 1
+NER: somesealsexcavatesmallhaul-outlairsabovetheirbreathingholes(Stirling1998).Thesecavesarethenusedbypregnantfemalesinthespringtobirthandnursetheirpups(Stirling1998).Page14of154	Frequency: 1
+NER: thesealwillalmostcertainlybegonebeforeitcandoso(Stirling1998).AtrainedLabradorretrievercandetectasealbreathingholeunder1meterofsnowfromoverakilometeraway	Frequency: 1
+NER: successfullyscaringthebearawayfromthearea(Stirling1998).PolarbearsarenotknowntofeedonfishsuchasArcticchar	Frequency: 1
+NER: andwillofteneatonlythefatwhileleavingthemeatandskinbehind(Stirling1998).Polarbearstonotcachetheirkillslikebrownbearsdo(Stirling1998).Ifuninterrupted	Frequency: 1
+NER: thoughoftenoneormoreotherbearswillapproach(Stirling1998).Twomalesofapproximatelyequalsizewilllikelyfeedtogetherandnotfight(Stirling1998).Afemaleandcubsapproachedbyamalewilloftendesertthekill	Frequency: 1
+NER: Scientistshaveobservedpolarbearskillingringedsealpupswithoutconsumingthem(Stirling1998).Amstrup(2003:592)reportsasfollows	Frequency: 1
+NER: andbetweenthatfeedingsiteandwherehewasstill-huntingwerethreefreshlykilledringedsealsstackedlikecordwood	Frequency: 1
+NER: Whenmyhelicopterapproachedthebeartocapturehim	Frequency: 1
+NER: heabandonedhisstill-huntingsite	Frequency: 1
+NER: Thisbearapparentlyhadeatenhisfillfromthefirstsealbutwascontinuingtohunt	Frequency: 1
+NER: andlickitspawsandmuzzle(Stirling1998).Inthewinterwhenwaterisnotavailable,abearwillrubitsheadinthesnowandrollonitsbacktocleanitself(Stirling1998).ThiswashingbehaviorissoimportantthatbearsatthedumpatChurchill	Frequency: 1
+NER: andwilleatplastic	Frequency: 1
+NER: Styrofoam	Frequency: 1
+NER: andtoxictrashsuchasbatteries(FWS1995).Polarbearswillscavengeathumandumpsandrefusesitesiftheseareavailabletothem	Frequency: 1
+NER: formovementbetweenhuntingareas	Frequency: 1
+NER: BearsintheeasternBarrowStraithavebeentrackedswimmingforapproximately100km(Stirling1990).Polarbearsarebuoyantduetotheirhighbodyfatandswiminadog-paddlemannerwiththeirlargeoar-likefeet	Frequency: 1
+NER: atleastinpart	Frequency: 2
+NER: areadaptedtosurvivalonthishabitat(StirlingandDerocher1993),anddonotoccurinareaswherethereisnotseaiceforsubstantialportionsoftheyear	Frequency: 1
+NER: seaiceistheessentialplatformfromwhichtheyhunt(FWS1995;TynanandDeMaster1997;Stirling1998;Derocheretal.2004).PolarbeardistributionisnotuniformthroughouttheArctic	Frequency: 1
+NER: butdependsuponthenatureandspatialandtemporalextentofseaice	Frequency: 1
+NER: Thishabitatismostprevalentinthemouthsofbaysandnearcoastlinesoroffshoreislandsbecausethatiswheretheannualiceismoststable.(2)Stablefasticewithoutdrifts	Frequency: 1
+NER: butlacksthewell-developeddriftsalongthepressureridgesthatringedsealsrequiretoprotectbirthlairsandbreathingholesfrompredation.(3)Floeedge	Frequency: 1
+NER: Thisincludesareasoflessthan7/8icecover	Frequency: 1
+NER: creatingacontinuouspatternofintermittentnarrowcracksorpatchesofopenwaterthatthenrefreeze	Frequency: 1
+NER: Thereisusuallylittledriftedsnowexceptalongpressureridgesonlargerfloesthathavenotbeenbrokenupbymovementoftheice	Frequency: 1
+NER: Createdbystrongpressureontheicesothatitrafts	Frequency: 1
+NER: whichusuallydevelopintolowpressureridgesthataccumulatedriftedsnow	Frequency: 1
+NER: formparalleltothecoastlinebecauseofthedailyriseandfallofthetide	Frequency: 1
+NER: InlargebayssuchasPrinceAlbertSound	Frequency: 1
+NER: usuallyrecurinthesameplaceseachyearbecauseofsimilarannualpatternsofwindandcurrents	Frequency: 1
+NER: ThishabitatisnotwidespreadinotherareasoftheArcticoutsideofthestudyarea	Frequency: 1
+NER: butareconcentratedinthethreemostimportanttypesofseaicewhichare(1)theicefloeedge;(2)stablefasticewithdrifts;and(3)areasofmovingice(Stirling1990;1993;Table3).Table3	Frequency: 1
+NER: AdaptedfromStirlingetal.(1993:20).FasticewithdriftsFasticewithoutdriftsFloeedgeMovingiceHeavypressureCoastalpressureridgesFiords	Frequency: 1
+NER: Thestrongpreferenceofpolarbearsforthefloeedge	Frequency: 1
+NER: Theauthorsconcludethatthehighrateofsightingsarelikelyduetotheproximityofhigh-pressureicetothepreferredhabitattypes	Frequency: 1
+NER: theyoccuradjacenttothesea-icehabitatpreferredbypolarbears	Frequency: 1
+NER: Polynasvaryinsizeandcanbecausedbywind	Frequency: 1
+NER: aplacewheremarinemammalscansurfacetobreatheandseabirdscanfeed	Frequency: 1
+NER: polarbearsconcentrateeachyearattheNorthWaterpolynyainSmithSoundandnorthwesternBaffinBay	Frequency: 1
+NER: andatsmallerpermanentpolynyasatCardiganStrait	Frequency: 1
+NER: PennyStrait	Frequency: 2
+NER: bearsremainonlandwhentheseaiceretreatsinthespring	Frequency: 1
+NER: suchasthoseintheChukchiandBeaufortseas	Frequency: 1
+NER: andthat“[s]easonalmovementpatternsofpolarbearsservetoemphasizetheroleofsea-iceintheirlifecycle	Frequency: 1
+NER: ”Polarbearsaregenerallyfar-ranginganimals	Frequency: 1
+NER: andfemalepolarbearsdenningonpackicearepassivelyandblindlycarriedfurtherbydriftingseaicethananyothervertebrate(Amstrup2003).Polarbearshavestrongnavigationalabilityandareabletoreturntopreviouslyusedareasafterbothactiveandpassivetransportoflongdistances(Amstrup2003).Scientistsdonotyetunderstandhowpolarbearsaccomplishthisfeat(Amstrup2003).Page19of154	Frequency: 1
+NER: Inthefuture	Frequency: 1
+NER: oreducationalpurposes;(C)diseaseorpredation;(D)theinadequacyofexistingregulatorymechanisms;(E)othernaturalormanmadefactorsaffectingitscontinuedexistence.16U.S.C.§1533(a)(1)(A)-(E);50C.F.R.§424.11(c)(1)-(5).Globalwarmingistheprimarythreattothecontinuedsurvivalofthepolarbear,andprimarilyimplicatesESAlistingcriteria(A)throughthepresentandthreateneddestruction	Frequency: 1
+NER: Globalwarmingimplicatesotherfactorsaswell	Frequency: 1
+NER: highbodyburdensofpersistentcontaminantssuchasPCBs	Frequency: 1
+NER: Globalwarmingwillinteractinasynergisticand	Frequency: 1
+NER: eachofthefivelistingfactorsisimplicatedbyoneormorethreatstothepolarbear.Aspeciesis“endangered”ifitis“indangerofextinctionthroughoutallorasignificantportionofitsrange”duetooneormoreofthefivelistingfactors.16U.S.C.§1531(6).Aspeciesis“threatened”ifitis“likelytobecomeanendangeredspecieswithintheforeseeablefuturethroughoutallorasignificantportionofitsrange	Frequency: 1
+NER: theFWSmustuseadefinitionthatisreasonable	Frequency: 1
+NER: thatensuresprotectionofthepolarbear	Frequency: 1
+NER: extantspecieswithintheoverallthreatenedcategoryarefurthercategorizedas“criticallyendangered,”“endangered,”and“vulnerable”(IUCN2001).AreviewercategorizingaspeciesmustconsidereachPage20of154	Frequency: 1
+NER: politicalconsiderationsareroutinelyinsertedbypoliticalappointeesattheDepartmentofInteriorintodeterminationsthatshouldbeentirelyscience-based(UnionofConcernedScientists2005a;b;c).PetitionerurgestheFWStoconsideronlythebestscientificinformationavailableinitsdeterminationonthisPetition	Frequency: 1
+NER: includingthelonglagtimebetweenanthropogenicgreenhousegasemissionsandclimatechanges.	Frequency: 1
+NER: andpracticalperspectives	Frequency: 1
+NER: Forallthesereasons	Frequency: 2
+NER: Asdetailedbelow,neitherglobalwarmingnoranyoftheotherthreatstothepolarbeararespeculativeortoofarinthefuturetounderstandoraddress	Frequency: 1
+NER: Theprognosisforthepolarbearisgrim	Frequency: 1
+NER: Unlessgreenhousegasemissionsarecutdramaticallyintheimmediatefuture	Frequency: 1
+NER: A.TheBestAvailableScienceRelatingtoGlobalWarmingThatglobalwarmingasaresultofanthropogenicgreenhousegasemissions(primarilycarbondioxide	Frequency: 1
+NER: andwillcontinuetooccur	Frequency: 1
+NER: isnolongersubjecttocrediblescientificdispute.Twosetsofrecentpublications	Frequency: 1
+NER: TheArcticCouncilisahigh-levelintergovernmentalforumthataddressesthecommonconcernsandchallengesfacedbytheArcticpeopleandgovernmentsoftheeightArcticnations	Frequency: 1
+NER: InuitCircumpolarConference	Frequency: 1
+NER: ArcticMonitoringandAssessmentProgramme(“AMAP”),ConservationofArcticFloraandFauna(“CAFF”),andtheInternationalArcticScienceCommittee(“IASC”)-withitsimplementation	Frequency: 1
+NER: Theeffortsofhundredsofscientistsoverfouryears	Frequency: 1
+NER: onrequest,scientificandtechnicaladvicetotheConferenceofthePartiestotheUnitedNationsFrameworkConventiononClimateChange(IPCC2001a).Since1990,theIPCChasproducedaseriesofreports	Frequency: 1
+NER: insummarizingtheimportantcomponentsofglobalwarmingmostrelevanttotheplightofthepolarbear	Frequency: 1
+NER: numerousnewpeer	Frequency: 1
+NER: aswellasprojectionsoffuturewarming(e.g	Frequency: 1
+NER: ifmajorreductionsinemissionsarenotimplementedveryrapidly	Frequency: 1
+NER: andGlobalWarmingTheearthabsorbsheatintheformofradiationfromthesun	Frequency: 1
+NER: whichisthenredistributedbyatmosphericandoceaniccirculationsandradiatedbacktospace(Albrittonetal.2001).Theearth’sclimateistheresultofastateinwhichtheamountofincomingandoutgoingradiationareapproximatelyinbalance(Albrittonetal.2001).Changesintheearth’sclimatecanbecausedbyanyfactorthatalterstheamountofradiationthatreachestheearthortheamountthatislostbackintospace	Frequency: 1
+NER: Increasesintheconcentrationsofgreenhousegasesslowtherateofheatlossbackintospaceandwarmtheclimate	Frequency: 1
+NER: arecausinggreenhousegasconcentrationstorise	Frequency: 1
+NER: halocarbons,andozone(O3).Theamountofwarmingthatwillbecausedbyasetamountofeachcompoundisthatcompound’s“globalwarmingpotential”(Albrittonetal.2001).Globalwarmingpotentialisameasureoftheamountofheatabsorbedbyasetamountofagivengasoverasetperiod(Albrittonetal.2001).Globalwarmingpotentialsareallexpressedrelativetothatofcarbondioxide	Frequency: 1
+NER: In2001,theIPCCconcludedthatatmosphericconcentrationofcarbondioxidehadincreasedby31%since1750,andthatthepresentcarbondioxideconcentrationshavenotbeenexceededduringthepast420,000yearsandlikelynotduringthepast20millionyears(IPCC2001a).Thecurrentrateofincreaseisunprecedentedduringatleastthepast20millionyears(IPCC2001a).Aboutthreefourthsofmanmadecarbondioxideemissionscomefromfossilfuelburning	Frequency: 1
+NER: andhasnotbeenexceededduringthepast420,000years(IPCC2001a).Abouthalfofcurrentmethaneemissionsaremanmade	Frequency: 1
+NER: nitrousoxidewilltrapabout296timesmoreheatthananequalamountofcarbondioxide(Albrittonetal.2001).Halocarbonsarecarboncompoundsthatcontainfluorine	Frequency: 1
+NER: somecompoundswhichhavebeenpromotedassubstitutesfornow-Page25of154	Frequency: 1
+NER: andthestratosphere	Frequency: 1
+NER: Ononehand	Frequency: 1
+NER: increasesofozoneinthetropospherecausepositiveradiativeforcing(Albrittonetal.2001).Ozoneinthetroposphereisinfactthethirdmostimportantgreenhousegasaftercarbondioxideandmethane(Albrittonetal.2001).Troposphericozoneisestimatedtohaveincreasedbyapproximately35%sincetheIndustrialRevolution	Frequency: 1
+NER: depositionofthereactionproductsofNOxfertilizestheearth	Frequency: 1
+NER: becausethelandorwatersurfacesbeneaththesnowandicearemuchdarkerandabsorbmoreofthesun’senergythanthesnoworice(ACIA2004a).Forexample,seaicereflects85-90%ofsolarradiation	Frequency: 1
+NER: andthereforeincreasingglobalwarming(ACIA2004a).Sootintheatmospherealsoincreasessolarabsorptionandcontributestowarming(ACIA2004a).ScientistsprojectthatArcticwarmingwillbefurtheracceleratedbyreflectivitychangesthatoccurasborealforestsexpandfurthernorthwardandreplaceexistingtundra(ACIA2004a).Forestsaretaller	Frequency: 1
+NER: furtherincreasingtheiratmosphericconcentrations,andcausingafeedbackloopwhichamplifiestherateofwarming(ACIA2004a).5IPCCandACIApublications’generaldefinitionofthe“Arctic”istheareawithin(i.e	Frequency: 1
+NER: theybecomecooleranddenser	Frequency: 1
+NER: willincreasetherateofwarming	Frequency: 1
+NER: asdiscussedfurtherbelow	Frequency: 1
+NER: carbondioxideconcentrations	Frequency: 1
+NER: andtemperatureoverthelast1,000yearsarecorrelated(ACIA2004a;Figure4(nextpage)).GrowthringsfromlarchtreesinnorthernSiberiashowthatmeantemperaturesduringthe20thcenturywerethehighestin1,000years(Albrittonetal.2001).Globalclimatehaschangedinotherwaysaswell.	Frequency: 1
+NER: airtemperatureoverlandhasincreasedbyasmuchas5	Frequency: 1
+NER: C(9°F)overthe20thcentury(Anisimovetal.2001).6FortheIPCC,“likely”meansa66-	Frequency: 1
+NER: andTemperatureSource	Frequency: 1
+NER: Italsosignificantlyinfluencesclimatebyaffectingsurfacereflectivity	Frequency: 1
+NER: andoceancurrentandthuslikelyexertsasubstantialinfluenceonclimatechangerelatedtoglobalwarming(ACIA2004a).TheACIA(2004)reportedthattheannualaveragesea-iceextenthasdecreasedbyabout8%,adecreaseofnearlyonemillionsquarekilometersofseaice	Frequency: 1
+NER: andDenmarkcombined	Frequency: 1
+NER: Otherauthorshavereportedthatsea-iceextenthasPage28of154	Frequency: 1
+NER: whilethesurfacetemperaturehasbeensteadilygoingupinmostplaces….DecreasesinobservedseaicehavebeengreatestintheKaraandBarentsSeas	Frequency: 1
+NER: theArcticOcean	Frequency: 1
+NER: GreenlandSea	Frequency: 1
+NER: HudsonBay	Frequency: 3
+NER: witha15-20%lossoflate-	Frequency: 1
+NER: Chukchi	Frequency: 2
+NER: withsomeareasshowingreductionsofupto40%betweenthelate1960sandlate1990s(ACIA2004a),thoughthereisvariabilitythroughouttheArctic(Anisimovetal.2001).Rothrocketal.(1999)foundameandecreaseinicethicknessof1.3minmostofthedeepwaterportionoftheArcticOcean	Frequency: 1
+NER: from3.1min1958-1976to1.8minthe1990s	Frequency: 1
+NER: butmadeiteasierforthemtogonorthbyboatduringthesummer(Jessen2002).Changesinpermafrosthavealsobeenrecordedastemperatureswarm(Anisimovetal.2001).ThawingofpermafrosthascausedmajorerosionandlandslideproblemsintheMackenziebasin	Frequency: 1
+NER: andwetlandecosystemsinAlaska(Anisimovetal.2001).IncentralandwesternCanadaandinAlaska	Frequency: 1
+NER: contractionintheextentofpermafrosthasoccurredduringthe20thcentury(Anisimovetal.2001).Temperaturesatthetopofpermafrostalongaseveralhundredkilometernorth-southtransectincentralAlaskawarmedby0.5-1.5°Cbetweenthelate1980sand1996(Anisimovetal.2001).OnthenorthslopeofAlaskaandinnorthwesternCanada	Frequency: 1
+NER: reducednutritionalvalueofbrowsingforcaribouandmoose	Frequency: 1
+NER: especiallyforbsandlichenonthetundra	Frequency: 1
+NER: havealtered	Frequency: 1
+NER: Risingtemperatureshavelengthenedthegrowingseasonby20%foragricultureandforestryinAlaska	Frequency: 1
+NER: Intotaltheobservedchangescompeltheconclusionthattheimpactsofglobalwarmingarealreadybeingfelt	Frequency: 1
+NER: andretreatoftheseaicecover	Frequency: 1
+NER: particularlyinsummer	Frequency: 1
+NER: aswellasearlierbreak-updatesandalongermeltingseason	Frequency: 1
+NER: Precipitationhasincreasedwhilesnowcoverhasdecreased	Frequency: 1
+NER: Allclimatemodelspredictsignificantwarminginthiscentury	Frequency: 1
+NER: withvariationonlyastotherateandmagnitudeoftheprojectedwarming(ACIA2004a).Determiningthedegreeoffutureclimatechangerequiresconsiderationoftwomajorfactors:(1)theleveloffutureglobalemissionsofgreenhousegases	Frequency: 1
+NER: and(2)theresponseoftheclimatesystemtotheseemissions(“climatesensitivity”)(ACIA2004a).Decadesofresearchhavegeneratedalargebodyofinformationrelatingtoeachofthesefactors(ACIA2004a).Becauseharddataarenotavailableforeventsthathavenotyetoccurred	Frequency: 1
+NER: InitsflagshipreportonclimatechangeintheArctic	Frequency: 1
+NER: theACIA(2004)utilizedtheIPCC’s“B2”scenario.OfthescenariosdevelopedbytheIPCC,“B2”fallsslightlybelowthemiddleoftherangeoffutureemissions	Frequency: 1
+NER: The“B2”scenarioassumesaworldconcernedwithenvironmentalprotectionandsocialequity	Frequency: 1
+NER: Bycontrast	Frequency: 1
+NER: butinsteadreflectsthepracticallimitsofconductingsuchalargeassessment(ACIA2004a).TheSRESscenariosareall“likely”inthesensethattheyrepresentbalancedandconservativeprojectionsoffutureemissionslevels	Frequency: 1
+NER: TheconservativenatureoftheSRESscenariosisalsodemonstratedbythefactthattheofficialUnitedStatesforecastpredictsnogrowthatallintheuseofrenewable	Frequency: 1
+NER: AcomputermodelisasimplifiedmathematicalrepresentationoftheEarth’sclimatesystem(Albrittonetal.2001).Theaccuracyofamodel’spredictionshingeonthelevelofunderstandingofthephysical	Frequency: 1
+NER: Canada(“CGCM2”),theNationalCenterforAtmosphericResearch	Frequency: 1
+NER: UnitedStates(“CSM_1.4”),theMax	Frequency: 1
+NER: Germany(“ECHAM4	Frequency: 1
+NER: UnitedStates(“GFDL-R30_c”),andtheHadleyCentreforClimatePredictionandResearch	Frequency: 1
+NER: Thesedifferingassumptionsareexpressedasclimatesensitivity	Frequency: 1
+NER: bandc)usedclimatesensitivitiesof1.3-5.8Kforprojectionsofwarmingfrom1990-2100(Stainfordetal.2005).Resultsfromtherecentclimateprediction.netexperimentindicatethatmuchlargerclimatesensitivitiesofupto11.5Karepossible(Stainfordetal.2005).Largerclimatesensitivitymeasuresresultinmuchhigheramountsofprojectedmeanglobalwarming	Frequency: 1
+NER: resultinginamuchshorterextinctiontrajectoryforthepolarbear	Frequency: 1
+NER: aswellasinformationfromadditionalsources	Frequency: 1
+NER: representsthebestavailablescienceonglobalwarmingintheArctic	Frequency: 1
+NER: eveniftheywere	Frequency: 1
+NER: Despitesomevariationamongclimatemodelsandsomeremaininguncertaintyregardingclimatesensitivity	Frequency: 1
+NER: ACIA(2004)projectsthatannualaveragetemperatureswillriseacrosstheentireArctic	Frequency: 1
+NER: withincreasesofapproximately3-5°Coverthelandareasandupto7°Covertheoceans	Frequency: 1
+NER: withincreasesofapproximately4-7°	Frequency: 1
+NER: Coveroceans(ACIA2004a).Year	Frequency: 1
+NER: °Cabovepre-industriallevelssometimebetween2026and2060,aresultthatisconsistentwiththeresultsoftheACIA(2004)discussedabove	Frequency: 1
+NER: whichwillbegreatestinwinter(4°-10°	Frequency: 2
+NER: °-3.5°C)(New2005).Page33of154	Frequency: 1
+NER: Russiaisprojectedtoincrease	Frequency: 1
+NER: Duringthewinter	Frequency: 1
+NER: ACIA(2004:30).AnotherrecentstudyhasprojectedtheaverageoftheArcticperennialicecoverbasedon25yearsofcontinuousandspatiallydetailedsatellitedata(Comiso2005),andtherecentconclusionthata2°Cglobalwarmingwilloccurbetweentheyears2026to2060(New2005).Theresultsshow“everincreasingopenoceanareasintheBeaufort	Frequency: 1
+NER: Itcouldmeanchangesintheoceancirculation	Frequency: 1
+NER: thatthegeneralcharacteristicsoftheperennialicecoverin2002to2003areconsistentwiththepredictionsoftheComiso(2002)study	Frequency: 1
+NER: totalgreenhousegaslevelsintheatmosphere	Frequency: 1
+NER: temperaturechangeandicemelting(IPCC2001c;Figure9).Slowtransportofheatintotheoceansandslowresponseoficesheetsarelargelyresponsibleforthelongtimeperiodsneededtoreachanewclimatesystemequilibrium(IPCC2001c).Thesoonergreenhousegasemissionsarestabilized	Frequency: 1
+NER: thesmallertheoveralltemperatureincreaseandsea-levelrisewillbe(IPCC2001c).Figure9:	Frequency: 1
+NER: stabilizationofcarbondioxideemissionsatcurrentornear-currentlevelswillnotleadtostabilizationofcarbondioxideatmosphericconcentrations(IPCC2001c).Stabilizationofcarbondioxideconcentrationsatanylevelrequireseventualreductionofglobalcarbondioxidenetemissionstoasmallfractionofthecurrentemissionlevel(IPCC2001c).Thelowerthechosenlevelforstabilization	Frequency: 1
+NER: AgeneralwarmingoftheArcticcouldadverselyaffectdenning	Frequency: 1
+NER: requirearelativelystableArcticorsub-Arcticclimatewithoutperiodsofthawingandmeltingofsnowduringthewinter	Frequency: 1
+NER: WarmingoftheArcticwouldreducetheextentofsuchfavorableareas	Frequency: 1
+NER: Disappearanceoftheicecoverbecauseofairtemperatureanomalies	Frequency: 1
+NER: Lentfer’s(1972)predictionsarecomingtopassduetoanthropogenicclimatechange	Frequency: 1
+NER: StirlingandDerocher(1993)notedthatchangesinpolarbearparameterssuchasdecliningbodycondition	Frequency: 1
+NER: loweredreproductiverates	Frequency: 2
+NER: butthatitwasnotyetpossibletoascribethesechangestoglobalwarming	Frequency: 1
+NER: seaice	Frequency: 1
+NER: andpolarbearphysiologicalanddemographicparameters	Frequency: 1
+NER: Stirlingetal.(1999)establishedthelinkbetweenglobalwarmingandobservedimpactstopolarbearphysicalandreproductiveparameters	Frequency: 1
+NER: Lentfer(1972)andhiscontemporarieswerequitecorrectaboutthisobservedwarmingtrend	Frequency: 1
+NER: andisice-freeinthesummerandfreezesoverinthewinter(Goughetal.2004).Thus	Frequency: 2
+NER: inthesummerHudsonBaycreatesageneralmarineclimateinthesurroundingarea	Frequency: 2
+NER: fromspringrunoff(Goughetal.2004).IcethatmeltsinthesouthernpartofHudsonBayisinitiallyreplacedthroughiceadvectionfromthenorth(Goughetal.2004).Asaresult	Frequency: 1
+NER: subadultsurvival	Frequency: 1
+NER: ThestudyareawasdefinedasthemanagementboundariesoftheWesternHudsonBaypopulation(Stirlingetal.1999),showninFigure10.Nineteenyearsofdata(1981through1998)wereavailableforparametersincludingthedurationandextentoficecoverforHudsonBay	Frequency: 1
+NER: and“freeze-up”wasdefinedasthedatebywhichicehadformedandconsolidatedonceagainto50%cover(Stirlingetal.1999).The50%thresholdisappropriatebecausepolarbearstendtomovefromtheseaicetolandoncethesea-iceconcentrationdropsbelow50%(Derocheretal.2004).DataforicecoverinHudsonBayitselfoverthestudyperiodshowedalong-term	Frequency: 1
+NER: thedateofbreak-uptendedtobelaterwhilethedateoffreeze-upwasearlier	Frequency: 1
+NER: primarilyduetothetrendforanearlierbreak	Frequency: 1
+NER: indicatingthattheyremainedontheicetohuntsealswellafterasignificantreductionintotalicecover(Stirlingetal.1999).Stirlingetal.(1999)reportedasignificantdeclineintheconditionofbothmaleandfemaleadultpolarbearsthroughoutthe1980’sinWesternHudsonBay	Frequency: 1
+NER: whichwasinterruptedbyimprovedconditionin1992and1993.Theyalsofoundastatisticallysignificantrelationshipoverthe19yearstudybetweenthedateofbreak-upandtheconditionoftheadultfemalepolarbearswhencomingashoreandnatality(Stirlingetal.1999).Theearlierthebreak	Frequency: 1
+NER: probablyduetotheshort-termcoolingeffectoftheeruptionofMountPinatubo	Frequency: 1
+NER: andthearrivalof9radio-collaredanimalswasstronglycorrelatedwithbreak	Frequency: 1
+NER: asopposedtothe2.5yearsofagethatisthenormintherestofworldwidepopulations(Stirlingetal.1999).Inthelate1980sandearly1990s	Frequency: 1
+NER: Theearlierthedateofbreak	Frequency: 1
+NER: ImpactsobservedintheWesternHudsonBaypopulationmaybeoccurringinotherpopulationsaswell	Frequency: 1
+NER: Globalwarmingandthedisappearanceoftheseaice	Frequency: 1
+NER: willultimatelydrivepolarbearstoextinction	Frequency: 1
+NER: Thespecificmechanismsoftheseimpactsarediscussedbelow	Frequency: 1
+NER: Polarbearsneedseaiceasaplatformfromwhichtohunttheirprimaryprey	Frequency: 1
+NER: andlocalpeopleforwhomtheseanimalsareaprimaryfoodsource”(ACIA2004b:1).TheACIAconcludesthat“polarbearsareunlikelytosurviveasaspeciesifthereisanalmostcompletelossofsummersea	Frequency: 1
+NER: basedonpastandongoingresearch	Frequency: 1
+NER: ifseaicedisappearedaltogether	Frequency: 1
+NER: whichisprojectedtooccurbeforetheendofthiscenturybysomeclimatemodels	Frequency: 1
+NER: AdaptedfromDerocheretal.(2004:171).CharacteristicTimeFrame1ProjectedChangeBodyconditionShortDecline	Frequency: 1
+NER: IncreasedvariationMovementpatternsShortAlterationofexistingpatternsCubsurvivalShortDecline	Frequency: 1
+NER: IncreasedvariationBear-humaninteractionsVariableIncreaseDenareasMediumChangeinareasandsubstratesGrowthratesMediumVariablePreycompositionMediumChangeinspecies	Frequency: 1
+NER: ageofpreyPopulationboundariesMediumMixingofadjacentpopulationsPopulationsizeMediumVariableIntraspecificaggressionVariableIncreasedPage42of154	Frequency: 1
+NER: Usingparametersincludingtheamountofpolarbearbodymasslostduringfasts	Frequency: 1
+NER: Derocheretal.(2004)calculatethatmostfemalesintheWesternHudsonBaypopulationwillbeunabletosuccessfullyreproducesomewherebetween2012and2104.Derocheretal.(2004)notethatthesecalculationsaresimplifications	Frequency: 1
+NER: buttheauthorspredict	Frequency: 1
+NER: Trendstowardeitherearlierbreak-uporlaterfreeze	Frequency: 1
+NER: walrus	Frequency: 1
+NER: Duringthewintersof1973-1974and1974-1975,ringedandbeardedsealnumbersintheBeaufortSeadroppedbyabout50%andproductivitybyabout90%,apparentlyinresponsetosevereiceconditions(Stirling1980;Stirling2002).Numbersandproductivityofpolarbearsalsodeclinedmarkedlyinresponse(Stirling1980;Stirling2002).Asimilarreductioninsealproductivity	Frequency: 1
+NER: withasubsequentdeclineinpolarbearproductivity	Frequency: 1
+NER: ithasgenerallybeenassumedthatsealpopulationsPage43of154	Frequency: 1
+NER: andthereforefoodavailabilityforpolarbears	Frequency: 1
+NER: maydeclineaswell	Frequency: 1
+NER: includingtheringedseal	Frequency: 1
+NER: maybeparticularlyvulnerabletohabitatlossfromchangesintheextentorconcentrationofArcticicebecausetheydependonpack	Frequency: 1
+NER: andresting(TynanandDeMaster1997;ACIA2004a;Derocheretal.2004).Thesouthernedgeofringedsealrangesmayalsoshiftnorth,becauseringedsealsstaywiththeiceedgeasitannuallyadvancesandretreats(TynanandDeMaster1997).Fergusonetal.(2005)demonstratedthatdecreasingsnowdepth	Frequency: 1
+NER: mayhaveadetrimentaleffectonringedsealrecruitmentinWesternHudsonBay	Frequency: 1
+NER: TheseresearchersexaminedtrendsinringedsealrecruitmentinWesternHudsonBayrelativetosnowdepth	Frequency: 1
+NER: temperatureinAprilandMay	Frequency: 1
+NER: andtimingofspringbreak	Frequency: 1
+NER: nursedforaboutsixweeks	Frequency: 1
+NER: andweanedpriortospringbreak-upinJune(Fergusonetal.2005).Duringtheweeksofnursing	Frequency: 1
+NER: andabouthalfunderwaterdiving(Fergusonetal.2005).Duringthistimeperiodbothringedsealpupsandadultsarehuntedbypolarbears(Fergusonetal.2005).Onecommonhuntingmethodusedbypolarbearsistolocateaseallairbysmell	Frequency: 1
+NER: pupsinlairswiththinsnowroofsaremorevulnerabletopredationthanpupsinlairswiththickroofs(Fergusonetal.2005).Ringedsealpupsurvivalcanalsobeaffectedbyhypothermiaresultingfromexposureiflairscollapse(Fergusonetal.2005).Continuedaccesstobirthlairsforthermoregulationisprobablycriticaltothesurvivalofpupswhentemperaturesfallbelow0°	Frequency: 1
+NER: Harwoodetal.(2000)foundthatanunusuallyearlybreak-upin1998negativelyimpactedthegrowth	Frequency: 1
+NER: Theauthorsbelievethattheearlybreakupin1998ledtoaninterruptionoflactationforpupsattheseawardportionofthecorebreedinghabitatoffHolman	Frequency: 1
+NER: whichinturnaffectedtheconditionandgrowthofthoseunweanedpups	Frequency: 1
+NER: bothbysnowmachineandhelicopter(StirlingandSmith2004).RainfellsteadilyorsporadicallyonthestudyareafromApril9-11,1979(StirlingandSmith2004).FromApril12throughApril24,theweatherwasclearwithmaximumtemperaturesonlyslightlyabovefreezing	Frequency: 1
+NER: butthisunderestimatestherealpercentagebecauseanunknownnumberofalreadywashed-outlairswerenotrecorded(StirlingandSmith2004).Followingtherainevent	Frequency: 1
+NER: Predationofpupsbypolarbearswasalsoobserved	Frequency: 1
+NER: arcticfoxes	Frequency: 1
+NER: Shouldearlyseasonrainbecomeregularandwidespreadatsomefuturetime	Frequency: 1
+NER: iscapableofproducingnegativeeffectsonthereproductionandsurvivalofpolarbears(SmithandStirling2004:66).Ringedseals	Frequency: 1
+NER: Changesinclimate	Frequency: 1
+NER: andthetimingofsea-iceformationandbreak-upwillaffectthelowertrophiclevelsofthefoodwebuponwhichpolarbearsdepend(Derocheretal.2004).Page45of154	Frequency: 1
+NER: isstronglyassociatedwithseaicethroughoutitsrangeandmakesuseoftheundersideoftheicetoescapefrompredators(Gastonetal.2003).ItisthereforelikelythatadecreaseinseasonalicecoverwouldhaveadverseeffectsonArcticcod(TynanandDeMaster1997;Gastonetal.2003).DecreasesinArcticcodabundancehavealreadybeenrecordedandcorrelatedwithshrinkingicecover	Frequency: 1
+NER: Gastonetal.(2003)inferredchangesinArcticcodabundanceinnorthernHudsonBaybyanalyzingthecompositionofthedietfedtothick-billedmurrechicks(Gastonetal.2003).Colonialseabirdslikethethick-billedmurreareusefulindicatorsofchangesinmarineecosystemsbecausetheaggregationoflargenumbersofbirdsatpredictablelocationsmeansthatdatacanbeobtainedthatintegrateoceaniceffectstakingplaceoverawideareaaroundthecolony(Gastonetal.2003).Thick-billedmurrechicksarefedfor15-30daysbeforedepartingtoseawithfoodthatiscarriedexternallyintheparent’sbillfromthefeedinggroundstothebreedingcolony	Frequency: 1
+NER: Weconcludethatthetrendsweobservedrelatedtorealchangesinfishpopulations	Frequency: 1
+NER: Ourevidencefromthedietofnestlingthick-billedmurressuggeststhataswitchfromanArctictoaSubarcticfishcommunityoccurredfrom1997onwards	Frequency: 1
+NER: Whilepredictingchangesintrophicdynamicsfromglobalwarmingiscomplexanddifficult	Frequency: 1
+NER: ItispossiblethatglobalwarmingcouldincreaseproductivityofsomeArcticwatersintheshortterm(Derocheretal.2004).AsTynanandDeMaster(1997:315)observed,“[o]neofthecentralquestionsregardingclimatechangeandtheeffectsonArcticmarinemammalsiswhetherareductionofseaicewillincreaseproductivityinawaythatmaintainssuitabledensitiesofimportantpreyspecies	Frequency: 1
+NER: suchasarcticcod.	Frequency: 1
+NER: theanswertothisquestionappearstobe“no	Frequency: 1
+NER: andopenwatershiftnorthwardtoareasoverthelessproductivewatersofthedeeppolarbasinasopposedtoovertheshallowcontinentalshelfwheretheycurrentlyoccur	Frequency: 1
+NER: Forexample	Frequency: 6
+NER: Page46of154	Frequency: 1
+NER: andarethereforefoundonicecoverovertheshallowcontinentalshelfareas(Derocheretal.2004).Asseaicedeclinesthesespeciesareforcedfurtheroffshoretofindsuitablehabitatforpuppingandfeeding	Frequency: 1
+NER: subsequentconditionandprobablysurvivalofpolarbearsistheavailabilityofringedsealpupsfromaboutmid-Aprilthroughtobreak	Frequency: 1
+NER: globalwarmingwillaltertheavailabilityofpolarbearprey	Frequency: 1
+NER: inwaysincludingthefollowing:•Reductionsinseaice	Frequency: 1
+NER: willalterringedsealdistributionandabundance;•Globalwarmingwillreduceringedsealabundancebecausewarmertemperaturesandincreasedrainwilldamageanddestroyringedseallairsanddecreaseringedsealrecruitment;•WarmertemperatureswilllikelyaltertrophicdynamicsinwaysthatwillreduceArcticcod	Frequency: 1
+NER: polarbearpopulationswilldecline.3.ReducedAccesstoandAlterationofDenningAreasManyfemalepolarbearsreturntospecificdenareasonland(Derocheretal.2004).Inorderforabeartoreachapreferredterrestrialdensite	Frequency: 1
+NER: WrangelIslandinRussia	Frequency: 1
+NER: andtheArcticNationalWildlifeRefugeontheBeaufortSeacoastintheUnitedStates(Amstrup2002).Largeinterannualvariationinthedistancebetweentheiceanddenningareasisalreadyoccurring(Derocheretal.2004).Asglobalwarmingprogresses	Frequency: 1
+NER: Forthesereasons	Frequency: 1
+NER: actuallossesofseaicemaybemuchgreaterthanillustratedinFigure11.Underanyofthesescenarios,pregnantfemalepolarbearswilllikelybeunabletoreachmanyofthemostimportantdenningareasintheSvalbardArchipelago	Frequency: 1
+NER: andFutureSummerSea-IceExtentSource:AdaptedfromLunnetal.(2002a:23)andACIA(2004a:25,30).PolarBearPopulationAbbreviationsCS–ChukchiSeaSB	Frequency: 1
+NER: LaptevSeaAnotherimpactofglobalwarmingonpolarbeardenningwillbethethinningofseaiceandlikelyincreaseddriftratesoficefloes(Derocheretal.2004).InnorthernAlaska	Frequency: 1
+NER: inHudsonBay	Frequency: 1
+NER: makingthebanksunsuitablefordenning(Derocheretal.2004).Globalwarmingcouldalsoimpactpopulationswherefemalesdeninsnow(Derocheretal.2004).Insufficientsnowwouldpreventdenconstructionorresultinuseofpoorsiteswheretheroofcouldcollapse(Derocheretal.2004).Toomuchsnowcouldnecessitatethereconfigurationofthedenbythefemalethroughoutthewinter(Derocheretal.2004).Changesinamountandtimingofsnowfallcouldalsoimpactthethermalpropertiesofthedens(Derocheretal.2004).Giventhehighlyaltricialnatureofpolarbearcubsandtheirneedtonurseforthreemonthsbeforeemergingfromtheden	Frequency: 1
+NER: majorchangesinthethermalpropertiesofdenscouldnegativelyimpactcubsurvival(Derocheretal.2004).TwopolarbearcubsthatwerebornunexpectedlyinDecember,1978inanoutdooruninsulatedcageatapproximately-45°bothdiedwithin2days(BlixandLentfer1979).Finally	Frequency: 1
+NER: rainisprojectedtoincreasethroughouttheArcticinwinter(ACIA2004a),andincreasedraininlatewinterandearlyspringcausesdencollapse(StirlingandSmith2004)andcouldsuffocatemotherswithcubs(Derocheretal.2004).AfterMarch1990broughtunseasonablerainsouthofChurchill	Frequency: 1
+NER: likewalkingthewrongwayonanescalator	Frequency: 1
+NER: Ificebeginstomovemorequicklyandmovefurtherdistances	Frequency: 1
+NER: bearsontheseaicemayneedtoexpendmoreenergytoremainnearpreferredhabitats(Derocheretal.2004).Inaparallelbetweentheseaiceandterrestrialhabitatfragmentation	Frequency: 1
+NER: itislikelythatglobalwarmingwillresultinlandscape	Frequency: 1
+NER: butshowastrongpreferenceforseaice(Derocheretal.2004).Polarbearswillquicklyabandonseaiceforlandoncethesea-iceconcentrationdropsbelow50%(Derocheretal.2004).Researchersbelievethisislikelyduetotheincreasedenergeticcostsoflocomotionsincemovingthroughhighlyfragmentedseaiceisdifficultandlikelymoreenergyintensivethanwalkingoverconsolidatedseaice(Derocheretal.2004;Figure12).Figure12	Frequency: 1
+NER: butitislikelythatswimmingismorecostly(Derocheretal.2004).Derocheretal.(2004)suggestthatashabitatpatchsizesdecrease	Frequency: 1
+NER: resultinginreducedresidencytimeandthusincreasedmovementrates(Derocheretal.2004).Asdescribedonpage8,above	Frequency: 1
+NER: bearseverywherearelikelytofacesomelevelofincreasedenergeticcostsinawarmerclimatewithlessiceandmoreopenwater.5.DemographicEffectsDerocheretal.(2004)predictacascadeofdemographicimpactsonpolarbearpopulationsasaresultofglobalwarming.	Frequency: 1
+NER: Polarbearcharacteristicsincludingspecializeddiet	Frequency: 1
+NER: habitatspecialization	Frequency: 1
+NER: longlifespan	Frequency: 1
+NER: Declinesinfatreservesduringcriticaltimesinthepolarbearlifecyclewillleadtoanarrayofimpacts(Derocheretal.2004).Adeclineinbodyconditionwillreducetheproportionofpregnantfemalesthatareabletoinitiatedenning(Derocheretal.2004).Femaleswithlowerfatstoreswilllikelyproducemoresinglecublitters	Frequency: 1
+NER: cubmortalitycouldincreaseduetohypothermia(Derocheretal.2004).Becausefemalepolarbearsaccruebodyfatthroughouttheirlivesuntilapproximately15yearsofage	Frequency: 1
+NER: Derocheretal.(2004)cautionthatreducedreproductiveratesinfemalesmaybedifficulttoobserve	Frequency: 1
+NER: withanaverageageof2.25years(Stirling1998).Aftersub	Frequency: 1
+NER: andthusthenumberofdefensekills	Frequency: 1
+NER: interactmorewithhumans	Frequency: 1
+NER: andsufferahigherdeathrateinthewinterof1974	Frequency: 1
+NER: defensekillsalsodroppedfromahighofsevenbearskilledperwinterbackdowntothenormaltwo(Stirling1998).InChurchill,researchersalsonoticedthatinyearswhenallbearscameashoreinpoorercondition	Frequency: 1
+NER: likelybecauseadultmalepolarbearsareusuallyinthebestphysicalcondition(Stirling1998).Defensekillsof“problembears”areofmostconcernwhentheyarenotincludedinanarea’shuntingquota	Frequency: 1
+NER: mostjurisdictionsnowincludedefensekillsintheoverallhuntingquota	Frequency: 1
+NER: Someproblemsoccursimplybyhavingpeopleinpolarbearhabitat	Frequency: 1
+NER: Lunnetal.(2002b:47).1997199819992000Occurances¹159170197147Bearscaptured1031058759BearskilledbyDepartmentpersonnel2010Bearskilledbypublic3122Handlingdeaths3021Naturaldeaths3001Bearssenttozoos0000¹AllbearsreportedtoorobservedbyManitobaConservationstaffintheChurchillcontrolzoneandperipheralareaThereare	Frequency: 1
+NER: andoneinteractionthatresultedinhumaninjury	Frequency: 1
+NER: outsideofChurchill	Frequency: 1
+NER: andalloccurredduringsummerorfall(Clark2003).InWapuskNationalparkthenumberofinteractionsappearedtoincreaseinyearswithearlieron	Frequency: 1
+NER: asdid9Clark(2003)chosetheterm“perceivedaggressiveinteraction”tomaketheimportantpointthatnotallpolarbearinteractionsperceivedasaggressivebyhumansaretheresultofpolarbearsthatareinfactaggressive	Frequency: 1
+NER: Page54of154	Frequency: 1
+NER: butduetosmallsamplesizetherelationshipswerenotstatisticallysignificant(Clark2003).Clark(2003)foundnorelationshipbetweentheratesofinteractionandparkvisitation	Frequency: 1
+NER: suggestingthatsea-iceavailabilityandtheamountoftimethebearsareforcedonlandmaybeamoreimportantvariableintherateofinteractionsthanparkvisitationitself	Frequency: 1
+NER: ’s(2004)hypothesisthatlongerice-freeperiodsincreasethenumberofpolarbear-humaninteractions	Frequency: 1
+NER: includingthefactthatattractantssuchasfoodmotivatebearsintoencounterswithpeople	Frequency: 1
+NER: thefurthernorthshipscansailinopenwaterontrans	Frequency: 1
+NER: therebyavoidingtheshallowshelfwaters(whichrequireshipsofshallowdraft	Frequency: 1
+NER: andheavyshippingtrafficcoulddisturbthebearsduringcriticaltimes(FWS1995).Increasedshippingwillalsogreatlyincreasetheriskofanoilspill(FWS1995).ThethreatsposedtopolarbearsbyoilarediscussedinAppendixB.Page55of154	Frequency: 1
+NER: Impactstopolarbearsandthemechanismsofextinctionarebeingrigorouslydocumented	Frequency: 1
+NER: summarizesontheirwebsite,“[t]hereislittledoubtthatpolarbearsandotherice	Frequency: 1
+NER: orwillbe	Frequency: 1
+NER: suchasthecontrolofoverhuntinginthe1950sand1960s	Frequency: 1
+NER: theUNFCCCitselfwasunabletosetemissionstargetsorlimitations	Frequency: 1
+NER: includingreportingonlevelsofgreenhousegasemissionsandpoliciesandmeasurestoreducethem(UNFCCC2004).AnnexIIisasubsetofAnnexIcountrieswhichincludesthe23highlydevelopedcountrieswhicharerequiredtofinanciallyandotherwisesupporttheeffortsofthedevelopingcountries(UNFCCC2004).Countrieswitheconomiesintransition(“EITs”)include14countriesinEasternandCentralEuropeandtheformerSovietUnionwhicharelistedinAnnexIbutdonothavetheadditionalresponsibilitiesoftheotherAnnexIcountries	Frequency: 1
+NER: Non-AnnexIpartiesincludeallpartiesnotincludedinoneoftheformercategories	Frequency: 1
+NER: andaremostlydevelopingcountries(UNFCCC2004).Non-AnnexIpartieshavegeneralcommitmentstorespondtoclimatechangebuthavefewerobligationsandareexpectedtorelyuponexternalsupport	Frequency: 1
+NER: Theyear2000hascomeandgonewithouttheUNFCCC’sgoalofreducinggreenhousegasemissionsfromAnnexIcountriesto1990levelsbeingmet	Frequency: 1
+NER: MorethantenyearsaftertheUNFCCCcameintoforce,“dangerousanthropogenicinterferencewiththeclimatesystem”remainsundefined(InternationalClimateChangeTaskforce2005).Thereisagrowingbodyofevidence	Frequency: 1
+NER: thatanthropogenicgreenhousegasemissionshavealreadycaused“dangerous”climatechange	Frequency: 1
+NER: onereporthasproposedthatglobalwarmingmustbelimitedto2°Cabovepre-industrialtemperaturesinordertoavoiddangerousclimatechange(InternationalClimateChangeTaskforce2005).Undercurrentconditions	Frequency: 1
+NER: °Cwillrequirethatthatnetwarminginfluencesontheglobalclimatebytheyear2100benogreaterthanwhatwouldbeassociatedwithatmosphericcarbondioxideconcentrationsofnomorethan400ppm(InternationalClimateChangeTaskforce2005).Theatmosphericcarbondioxideconcentrationisalready380ppm(comparedtoapre-industrialconcentrationof280ppm)andrisingatmorethan2ppmannually(InternationalClimateChangeTaskforce2005).Largeandrapidcutsingreenhousegasemissionsareneededinordertopreventcarbondioxideconcentrationsfromrisingabove400ppm	Frequency: 1
+NER: evenifglobalaveragetemperatureincreaseswerelimitedto2°C	Frequency: 1
+NER: °-3.5°C)(New2005),aswellasmassivereductionsinseaice	Frequency: 1
+NER: evenifaverageglobaltemperatureincreaseswerelimitedto2°C	Frequency: 1
+NER: Scientistshavealreadystated“itisdifficulttoavoidtheconclusionthatPage57of154	Frequency: 1
+NER: eveniftheKyototargetsweremet	Frequency: 1
+NER: TherefusaloftheUnitedStatestoratifytheKyotoProtocol	Frequency: 1
+NER: theoverallandmanycountry-specificKyototargetsareunlikelytobemetbasedoncurrentprogressanddata	Frequency: 1
+NER: ChangesinGreenhouseGasEmissionsbyAnnexICountries,1990-2001Source	Frequency: 1
+NER: andinternationallycomparableinformationthatisessentialforsoundpolicymakingisstilllackinginmanyareas(UNFCCC2004).Manycountrieshaveyettobuildasoundinstitutionalframeworkandanumberhaveyettoevenreportontheirinstitutionalarrangementsorhavepointedoutthattheirsystemsareweak(UNFCCC2004).TheProtocolwillonlysucceedatmeetingitsmodestgoalsifthepartiesfulfilltheircommitments	Frequency: 1
+NER: yetmechanismsforenforcementhavenotyetbeentestedandarelikelyineffective	Frequency: 1
+NER: andalevellikelytoleadtoagreaterthan2°Caverageglobaltemperaturerise)wouldrequireglobalemissionstodropbelow1990levelswithinafewdecades	Frequency: 1
+NER: despitegrowingpopulationsandanexpandingworldeconomy	Frequency: 1
+NER: Kyotoonlysetstargetsforactionby2012.Thereisnocurrentregulatorymechanismgoverninggreenhousegasemissionsintheyearsbeyond2012.Discussionsfortargetsforthesecondcomplianceperiodfrom2012-2016havenotyetbegun(EIA2004).WhiletheEuropeanUniondelegationattemptedtobegindiscussionsattheConferenceofthePartiesinMilan	Frequency: 1
+NER: Becausetheclimaterespondstochangesingreenhousegasconcentrationswithatimelag	Frequency: 1
+NER: ThegoaloftheUNFCCCistostabilizegreenhousegasconcentrationsintheatmosphereatalevelthatpreventsdangerousanthropogenicinterferencewiththeclimatesystem(EIA2004).Yetscientistshavealreadystated“itisdifficulttoavoidtheconclusionthatpotentiallydangerousanthropogenicinterferenceintheclimatesystemisalreadyunderway”(Stottetal.2004:613)(discussingthecontributionofpastgreenhousegasemissionstothedeadlyEuropeanheatwaveof2003),andthattheresimplyisno“safe”levelofelevatedcarbondioxideconcentrations(Stainfordetal.2005).3.UnitedStatesClimateInitiativesareIneffectiveBecausetheUnitedStatesisresponsibleforapproximately24%ofworldwidecarbondioxideemissions	Frequency: 1
+NER: andavarietyofactionsbyCongressandtheExecutiveBranch	Frequency: 1
+NER: Beginningin1978,Congressestablisheda“nationalclimateprogram”toimproveunderstandingofglobalclimatechangethroughresearch	Frequency: 1
+NER: Twoyearslater	Frequency: 1
+NER: onthelevelofcarbondioxideintheatmosphere	Frequency: 1
+NER: L.No.96	Frequency: 1
+NER: VII,§711,94Stat.611,774	Frequency: 1
+NER: directedthePresidenttoestablisharesearchprogramtoimproveunderstandingofglobalchange	Frequency: 1
+NER: andprovidedforscientificassessmentseveryfouryearsthatanalyzecurrenttrendsinglobalchange.	Frequency: 1
+NER: XXIV,§2402,104Stat.4058,4058-59(1990).Finally	Frequency: 1
+NER: hasyettoeffectivelycontrolgreenhousegasemissions	Frequency: 1
+NER: Section103(g)directstheEnvironmentalProtectionAgency(“EPA”)toestablisha“basicengineeringresearchandtechnologyprogramtodevelop	Frequency: 1
+NER: EPAconcludesthatitcannotandshouldnotregulate[greenhousegas]emissionsfromU.S.motorvehiclesundertheCAA.BasedonathoroughreviewoftheCAA	Frequency: 1
+NER: EPAbelievesthattheCAAdoesnotauthorizeregulationtoaddressglobalclimatechange	Frequency: 1
+NER: evenif[carbondioxide]wereanairpollutantgenerallysubjecttoregulationundertheCAA	Frequency: 1
+NER: efficientlong-termpolicy,(2)encouragethedevelopmentofadvancedtechnologiesthatwillenabledramaticreductionsin[greenhousegas]emissions	Frequency: 1
+NER: inthefuture	Frequency: 1
+NER: Theinternationalnatureofglobalclimatechangealsohasimplicationsforforeignpolicy	Frequency: 1
+NER: EPAdeclinesthepetitioners'requesttoregulate[greenhousegas]emissionsfrommotorvehicles.68Fed	Frequency: 1
+NER: Reg.52922,52925(footnoteomitted).TheGeorgeW.BushAdministration’sclimateinitiativereferencedintheEPAnoticeabove	Frequency: 1
+NER: UnitedStatesemissionsintensityisexpectedtodecreaseby14%by2012,whiletotalemissionscontinuetoincrease(GAO2003a).TheBushplan	Frequency: 1
+NER: fullimplementationandsuccessoftheplanwillresultinUSgreenhousegasemissionsin2012thatare30%higherthan1990emissions	Frequency: 1
+NER: theGAOcouldconfirmthatemissionssavingswouldberealizedfromonlythreeoftheBushplanelements(GAO2003b),anextremelyinauspiciousfindingfortheultimatesuccess(andthegoodfaithintentions)ofthealreadymodestproposal	Frequency: 1
+NER: existingregulatorymechanismsrelatingtoglobalwarmingareinadequatetoensurethecontinuedsurvivalofthepolarbear	Frequency: 1
+NER: andproposalstoopenthecurrentlyprotectedUnitedStatesArcticNationalWildlifeRefuge	Frequency: 1
+NER: whichcontainsthehighestconcentrationofpolarbearmaternitydensinAlaska	Frequency: 2
+NER: Norwegian	Frequency: 2
+NER: RussianandGreenlandterritory	Frequency: 1
+NER: InCanada	Frequency: 2
+NER: developmentofoilandgasleasesintheMackenzieRiverDeltaandintheBeaufortSeawouldextendoilandgasdevelopmentalongvirtuallytheentireBeaufortSeaCoastoccupiedbytheSouthernPage62of154	Frequency: 1
+NER: ScientistscalloilandgasdevelopmentintheNorwegianandRussianArctica“threattopolarbearhabitatformanyreasons”(Derocheretal.2002).AppendixBsummarizesthelevelofpast	Frequency: 1
+NER: andfutureprojectedoilandgasdevelopmentbycountry	Frequency: 1
+NER: B.HuntingThegenesisofinternationalpolarbearconservationeffortswastheresponsetosevereoverhuntingofsomepolarbearpopulationsinthe1950sand1960s	Frequency: 1
+NER: hadtheiroriginsduringthistime	Frequency: 2
+NER: Despitetheseimportantpastsuccesses	Frequency: 2
+NER: ThePBSGmostrecentlypublishedworldwidepolarbearharveststatisticsandestimatesofsustainableharvestin2001(Lunnetal.2002a).Asof2001,mostpolarbearpopulationswereharvestedbelow	Frequency: 1
+NER: InJanuary,2005theGovernmentofNunavutannouncedanincreaseinoverallharvestquotaforNunavut	Frequency: 1
+NER: wherealargepercentageoftheworld’spolarbearhuntingtakesplace	Frequency: 1
+NER: orover28%(GovernmentofNunavut2005).IfNunavuthunterskillallormostofthebearsallocatedbytheoverallquota	Frequency: 1
+NER: M’ClintockChannel	Frequency: 2
+NER: GulfofBoothia	Frequency: 4
+NER: ViscountMelvilleSound	Frequency: 3
+NER: SouthernHudsonBay	Frequency: 2
+NER: KaneBasin	Frequency: 3
+NER: Thethreatfrompotentialoverhuntingisofparticularconcernbecausetheimpactsofglobalwarmingwillexacerbatetheimpactofanyunsustainableharvest	Frequency: 1
+NER: Globalwarming’simpactonadultbodyconditionandreproductiverateshasalreadybeendocumentedintheWesternHudsonBaypopulationandtheseimpactswillbereplicatedinotherpopulations(tothedegreetheyarenotalreadyoccurringbutundocumented)asglobalwarmingprogresses	Frequency: 2
+NER: ThereisagrowingbodyofevidencethatPOPssuchasPCBsareadverselyimpactingpolarbears’immunesystem	Frequency: 1
+NER: thyroidsystems	Frequency: 2
+NER: Globalwarmingwillinteractwithpollutiontransportandaccumulationindiversewayswhichmayexacerbateimpactstopolarbears	Frequency: 1
+NER: ananimalthatisacommonrabiescarrier(Amstrup2003).Therelativelackofparasitesanddiseaseexposureapparentinpolarbearscouldmakethemmorevulnerabletonewpathogens(Derocheretal.2004).ContaminantlevelsintheArcticalreadyimpacttheendocrinesystem	Frequency: 1
+NER: reproductivesystem	Frequency: 1
+NER: possiblyamplifyingthisimpact(Derocheretal.2004).Nutritionalstresscouldalsocausefurthersuppressionofthepolarbearimmunesystem(Derocheretal.2004).ItisalsopossiblethatnewparasitesanddiseasescouldexpandtheirrangenorthwardastheArcticclimatewarms(Derocheretal.2004).Someresearchersbelievethatawarmingclimatecouldincreasediseasesthatcausemassmortalitiesofseals(FWS1995).Disease	Frequency: 1
+NER: butcouldemergeasamuchmoreseriousthreatintheforeseeablefuture	Frequency: 1
+NER: Stirling(1998)reportsasingleinstanceofawolfpacklearningtopreyonpolarbearcubstravelingfromtheirmaternitydenstotheseaicesouthofChurchillonHudsonBay	Frequency: 1
+NER: Thereisnoindicationthatscientificresearchposesanythreattothepolarbear	Frequency: 1
+NER: Twostruckitdown	Frequency: 1
+NER: Noneupheldit	Frequency: 1
+NER: therecoverygoalofcriticalhabitat	Frequency: 1
+NER: ,CV03-02509SI(emphasisadded).Conservationgroupshavealsobroughtlitigationthathasincreasedtherateofcriticalhabitatdesignation	Frequency: 1
+NER: Ratherthancelebratetherevivalofthemoribundprogram	Frequency: 1
+NER: theFWShasopposedeverydesignationandhasdraftedalengthy“disclaimer”thatappearsineverycriticalhabitatproposal	Frequency: 1
+NER: Theanalysisbasedonthelargestdatasetandlongesttimehorizonfoundthatspecieswithcriticalhabitatweremorethantwiceaslikelytoberecoveringasthosewithoutit(SucklingandTaylorinpress).Movingbeyondcorrelationandtoanunderstandingofthemechanismsthroughwhichcriticalhabitatbenefitsspecies	Frequency: 1
+NER: somebycounties	Frequency: 1
+NER: TheFWShasalreadydesignatedImportantHabitatAreasforpolarbearswithinUnitedStatesJurisdiction(FWS1995;Figure14).Ataminimum	Frequency: 1
+NER: Bothtypesareessentialforpolarbears	Frequency: 1
+NER: polarbearsconcentrateattheNorthWaterpolynyainSmithSoundandnorthwesternBaffinBay	Frequency: 1
+NER: InAlaska	Frequency: 3
+NER: Pingok,Cross	Frequency: 2
+NER: PointPoleakooninSmithBay	Frequency: 3
+NER: CapeBeaufort	Frequency: 3
+NER: CapeDyer,andCapeThompson(FWS1995).OtherareasofhighdensitypolarbeardenningworldwideincludetheislandsofKongKarlsLand	Frequency: 1
+NER: HerschelIsland	Frequency: 1
+NER: Theydiscourageemphasisonmonitoringtheglobalpopulationsizeasthisisimpracticalandnotparticularlyusefulbecausebearsindifferentareaswillresponddifferentlytoclimatechange(Derocheretal.2004).Parameterssuchasadultsurvivalrateswillhavealargeimpactonpopulationtrendbutaredifficultandexpensivetomeasure	Frequency: 1
+NER: seeAmstrup(2003:605-6).Page68of154	Frequency: 1
+NER: whetherthepetitionpresents“substantialscientificorcommercialinformationindicatingthatthepetitionedactionmaybewarranted	Frequency: 1
+NER: Inshort	Frequency: 1
+NER: ”TheFWSmustapplythissamestandardtoitsdeterminationofwhethertodesignatedistinctpopulationsegmentswiththeglobalpolarbearspeciesforthepurposesoflistingundertheESA.Atthe90-DayFindingStagetheFWSmustevaluatewhethereachpolarbearpopulation“mayqualify”asadistinctpopulationsegment	Frequency: 1
+NER: wepresentsubstantialinformationthateachhigher-levelpolarbearpopulationclusteralsoqualifiesasadistinctpopulationsegment	Frequency: 1
+NER: I.CRITERIAFORDESIGNATIONOFADISTINCTPOPULATIONSEGMENTUNDERTHEENDANGEREDSPECIESACTTheESAprovidesforthelistingofallspeciesthatwarranttheprotectionsaffordedbytheAct	Frequency: 1
+NER: ”16U.S.C.§1532(16).TheU.S.FishandWildlifeService(“FWS”)andtheNationalMarineFisheriesService(“NMFS”)havepublishedapolicytodefinea“distinctpopulationsegment”forthepurposesoflisting	Frequency: 1
+NER: PetitionerrequeststhattheFWSconsiderwhethereachofthefourpolarbearpopulationclustersqualifiesasadistinctpopulationsegment	Frequency: 1
+NER: Id.at1134.Page70of154	Frequency: 1
+NER: andreclassifyingspeciesundertheESA(“DPSPolicy”).61Fed	Frequency: 1
+NER: Reg.4722(February7,1996).Underthispolicy	Frequency: 1
+NER: populationsegmentsthatareboth“discrete”and“significant”areconsideredforlistingundertheESA.12UndertheDPSPolicy	Frequency: 1
+NER: managementofhabitat	Frequency: 2
+NER: conservationstatus	Frequency: 1
+NER: orregulatorymechanismsexistthataresignificantinlightofsection4(a)(1)(D)oftheAct.61Fed	Frequency: 1
+NER: Thisconsiderationmayinclude	Frequency: 1
+NER: thefollowing:1.Persistenceofthediscretepopulationsegmentinanecologicalsettingunusualoruniquetothistaxon.2.Evidencethatlossofthediscretepopulationwouldresultinasignificantgapintherangeofataxon.3.Evidencethatthediscretepopulationsegmentrepresentstheonlysurvivingnaturaloccurrenceofataxonthatmaybemoreabundantelsewhereasanintroducedpopulationoutsideitshistoricalrange.4.Evidencethatthediscretepopulationsegmentdiffersmarkedlyfromotherpopulationsofthespeciesinitsgeneticcharacteristics.61Fed	Frequency: 1
+NER: Reg.4722.Asdetailedbelow	Frequency: 1
+NER: qualifiesforlistingasadistinctpopulationsegment.12TheESArequiresthatanydistinctpopulationsegmentofavertebratespeciesbeconsideredforlisting	Frequency: 1
+NER: andinparticularbasedonanalysesofbearsinmark-recapturestudies	Frequency: 1
+NER: Whileseveralofthepopulationsaresharedbetweenjurisdictions	Frequency: 1
+NER: whichisasignificantdifferenceinmanagementcomparedtoneighbouringCanada	Frequency: 1
+NER: SuchdifferencesinmanagementbasedonjurisdictionfurthersupporttheconclusionthatthepolarbearpopulationsrecognizedbythePBSGmeetthe“discreteness”prongoftheDPSpolicy	Frequency: 1
+NER: The20populationsarealsoeach“significant”inaccordwiththeDPSpolicy	Frequency: 1
+NER: Eachofthepolarbearpopulationsexistsinanecologicalandgeographicsettingthatdiffersfromthatofeachoftheotherpopulations	Frequency: 1
+NER: whichiscurrentlycircumpolar	Frequency: 1
+NER: Polarbearpopulationsoccurinareaswithdifferingphysicalhabitatfeatures	Frequency: 1
+NER: andspecificpreyavailability	Frequency: 1
+NER: Althoughtheremaybelimitedspatialsegregationamongindividualpolarbears	Frequency: 1
+NER: andtheunitstheydescribearemanagedaspopulations.13Amstrup(2003)refersto19populationsratherthanthe20describedintheLunnet.al(2002)publicationcitedbyAmstrup	Frequency: 1
+NER: Furtherinformationontheboundaries	Frequency: 1
+NER: andmanagementofeachofthesepopulationscanbefoundinLunnetal.(2002a).1.Chukchi/BeringSeasPopulationorStock(CS)(UnitedStates-Russia)TheChukchiSeapopulation14spansbothUnitedStatesandRussianjurisdiction	Frequency: 1
+NER: NoreliablepopulationestimateexistsfortheChukchiSeapopulation(Lunnetal.2002a;AnglissandLodge2004).In1988,acombinedestimatefortheChukchiSeaandSouthernBeringSeastocksof3,000to5,000animalswasproducedbasedonpastdensitystudies(AnglissandLodge2004).AcrudepopulationestimatefortheChukchiseastockof1,200to3,200animalswasderivedbysubtractingtheBeaufortSeaestimateof1,800fromthetotalestimateforbothpopulations(AnglissandLodge2004).ThePBSGcurrentlyestimatesthesizeoftheChukchiseapopulationat2,000+,withthecertaintyoftheestimateclassifiedaspoor(Lunnetal.2002a).TelemetrydatashowthatpolarbearsarewidelydistributedonthepackiceofthenorthernBering	Frequency: 1
+NER: nearPointBarrow	Frequency: 1
+NER: AnglissandLodge(2004:195).DarkshadedarearepresentsdistributionoverlapbetweentheChukchi/BeringSeasandSouthernBeaufortSeapopulations	Frequency: 1
+NER: acrosstheeasternboundaryofthepopulationsintotheBeaufortSea(AnglissandLodge2004).ThewesternboundarybetweentheEasternSiberianSeastockwasdesignatedonthebasisofmovementsofadultfemalepolarbearscapturedintheBeringandChukchiSeasregion(AnglissandLodge2004).FemalepolarbearscapturedandradiocollaredonWrangelIslandexhibitednomovementintotheEasternSiberianSea	Frequency: 1
+NER: termmovementinthewesternChukchiSea(AnglissandLodge2004).Tothesouth	Frequency: 1
+NER: TheseresearchersconcludethatnearBarrow	Frequency: 1
+NER: NearTuktoyaktuk	Frequency: 1
+NER: NorthwestTerritories	Frequency: 2
+NER: Canada,50%arefromtheSouthernBeaufortSeaand50%fromtheNorthernBeaufortSea(Amstrupetal.2004).Forfurtherinformationonthesenewtechniquesandthecontoursofpolarbearpopulationutilizationdistributions	Frequency: 1
+NER: nearWainwright	Frequency: 1
+NER: CapeDyer	Frequency: 2
+NER: andCapeThompson(FWS1995).Inaddition,theChukchi/BeringSeaspopulationandtheSouthernBeaufortSeapopulation	Frequency: 1
+NER: Page74of154	Frequency: 1
+NER: andawesternboundarynearIcyCape	Frequency: 1
+NER: withabouthalfofthebearsdenningonpackice	Frequency: 1
+NER: maternitydenningonlandmayonceagainbeincreasing(Stirling2002).Ofthebearsthatdodenonland	Frequency: 1
+NER: adisproportionatenumberdenwithinorclosebytheboundariesoftheArcticNationalWildlifeRefuge	Frequency: 1
+NER: ofthelongitudinalrangeoverwhichthemainlanddenswereobserved(Amstrup1993).MoredensarelocatedintheArcticRefugeandthe1002Areathanwouldbeexpectedifpolarbearsdenneduniformlyalongthecoast(Amstrup1993).Inadditiontothe20denswithintheArcticRefuge	Frequency: 1
+NER: Cross	Frequency: 1
+NER: ThediversityofmarinemammalsandseabirdsintheeasternBeaufortSeaissignificantlylowerthaninsomeotherpartsofthemaritimeArctic	Frequency: 1
+NER: marinemammaldiversityisrestrictedtopolarbears	Frequency: 1
+NER: ringedseals(Phocahispida),beardedseals(Erignathusbarbatus),bowheadwhales(Baleanamysticetus),andwhitewhales(Dephinapterusleucas).BaffinBay	Frequency: 1
+NER: intheChukchiSea	Frequency: 1
+NER: andtheysubsequentlyproducetheirfirstcubsayearslateraswell(Stirling2002).Mostcubsinthesetwopopulationsareweanedat2.5yearsofage	Frequency: 1
+NER: suchasWesternHudsonBay	Frequency: 1
+NER: Figure1.4.QueenElizabeth(QE)(Canada)TheQueenElizabethpopulationoccursinnorthernCanadanorthoftheViscountMelvilleSound	Frequency: 1
+NER: NorwegianBay	Frequency: 2
+NER: andKaneBasinpopulations	Frequency: 1
+NER: whichischaracterizedbyheavymulti-yearice	Frequency: 1
+NER: withtheexceptionofanoccasionaldefensekill(StirlingandTaylor1999;Lunnetal.2002a).Becauseofthelownumbersandlowrateofreproductionthatislikelyinthispopulation	Frequency: 1
+NER: wheremostcubsareweanedat2.5yearsofage	Frequency: 1
+NER: itappearsthatmostofthebearsinthispopulationareconcentratedalongthecoastaltidecracksandridgesalongthenorth	Frequency: 1
+NER: lowdensitiesofpolarbears(StirlingandTaylor1999;Lunnetal.2002a).TheNorwegianBaypopulationhasarelativelyhighdegreeofgeneticdifferentiationfromotherpolarbearpopulationsbothregionallyandglobally(Paetkauetal.1999).Paetkauetal.(1999:1580)stated“[a]ssumingthatthegeneticdatareflectactualratesofmovement	Frequency: 1
+NER: amoreconservativemanagementstrategyismeritedtoaccountfortheextrariskthisisolationpresents.	Frequency: 1
+NER: Figure1.Acurrentestimateof1,700isbasedonapreliminaryanalysisofbothhistoricalandcurrentmark-recapturedata	Frequency: 1
+NER: asbreak-upoccurs	Frequency: 1
+NER: polarbearsbegintomovewesttospendthesummeronthemulti-yearpack(StirlingandTaylor1999;Lunnetal.2002a).Informationonthemovementsofadultfemalepolarbearsmonitoredbysatelliteradiocollars	Frequency: 1
+NER: BaffinBayandNorwegianBaypopulations(Lunnetal.2002a;StirlingandTaylor1999).8.M'ClintockChannel(MC)(Canada)TheM’ClintockChannelpopulationisboundedonthewestbytheNorthernBeaufortSeapopulation,onthenorthbytheViscountMelvilleSoundandLancasterSoundpopulations	Frequency: 1
+NER: andontheeastbytheGulfofBoothia	Frequency: 1
+NER: andinterpretationsbylocalInuithuntersofhowlocalconditionsinfluencethemovementsofpolarbearsinthearea(StirlingandTaylor1999;Lunnetal.2002a).10.FoxeBasin(FB)(Canada)TheFoxeBasinpopulationisboundedonthewestbytheM’ClintockChannelandGulfofBoothiapopulations	Frequency: 1
+NER: andonthesouthbytheWesternandSouthernHudsonBaypopulations	Frequency: 1
+NER: Figure1.Thecurrentestimateof2,300fortheFoxeBasinpopulationwasdevelopedin1996fromamark-recaptureprogrambasedontetracyclinebiomarkers(StirlingandTaylor1999;Lunnetal.2002a).TheFoxeBasinpopulationoccupiesFoxeBasin	Frequency: 1
+NER: polarbearswereconcentratedonSouthamptonIslandandalongtheWagerBaycoast(StirlingandTaylor1999;Lunnetal.2002a).SignificantnumbersofbearshavealsobeenencounteredontheislandsandcoastalregionsthroughouttheFoxeBasinarea(StirlingandTaylor1999;Lunnetal.2002a).11.WesternHudsonBay(WH)(Canada)TheWesternHudsonBaypopulationisboundedonthenorthbytheFoxeBasinpopulation	Frequency: 1
+NER: Figure1.TheWesternHudsonBaypopulationislikelythemostintenselystudiedandwellunderstoodofallpolarbearpopulationsworldwide	Frequency: 1
+NER: andthefactthathighertemperaturesandsnow-freeconditionsformostofthattimemakefieldworkeasierthaninmorenortherlyareas(Stirling1998).Page79of154	Frequency: 1
+NER: andpopulationboundariesoftheWesternHudsonBaypopulationhavebeenstudiedsincethelate1960s(StirlingandTaylor1999;Lunnetal.2002a).Over80%oftheadultpopulationhasbeenmarked	Frequency: 1
+NER: generatingextensiverecordsfrommark-recapturestudiesandthereturnoftagsfrombearskilledbyInuithunters(StirlingandTaylor1999;Lunnetal.2002a).ThePBSGclassifiesthecertaintyofthe1,200bearpopulationestimateas“good”(Lunnetal.2002a).TheWesternHudsonBaypopulationdiffersfromotherpolarbearpopulationsinseveralimportantecologicalandbehavioralregards	Frequency: 1
+NER: withtheWesternHudsonBaypopulationdenningontheManitobacoastandtheSouthernHudsonBaydenningontheOntariocoastofHudsonBay(StirlingandTaylor1999;Lunnetal.2002a).TheWesternHudsonBaypopulationalsodiffersfromallotherpolarbearpopulationsinthatfemalebearsdonotalldenclosetothecoastline	Frequency: 1
+NER: ThefirstpossibilityisthatsoftersnowduetorelativelywarmertemperaturesinWesternHudsonBaycomparedtootherareasoftheArcticcouldallowyounger	Frequency: 1
+NER: leadingtolargersealpopulationsandeasierhuntingforpolarbears	Frequency: 1
+NER: withthecertaintyofthatestimateclassifiedas“fair”(Lunnetal.2002a).TheKaneBasinpopulationoccursinareasunderthejurisdictionofbothCanadaandDenmark	Frequency: 1
+NER: TheboundariesoftheKaneBasinpopulationhavebeendefinedastheNorthWaterPolynyatothesouth	Frequency: 1
+NER: andtothenorthbytheKaneBasinpopulation.Figure1.TheBaffinBaypopulationoccursinareasunderthejurisdictionofbothCanadaandGreenland(Denmark).ThePBSGestimatesthecurrentpopulationsizeat2,200andclassifiesthecertaintyoftheestimateas“fair”(Lunnetal.2002a).Baseduponthemovementsofadultfemaleswithsatelliteradiosandrecapturesoftaggedanimals	Frequency: 1
+NER: althoughBaffinBaybearsdifferedsignificantlyfromDavisStraitandLancasterSoundbears(Lunnetal.2002a;Paetkauetal.1999).Recentworkhasrevealedthatanunknownproportionofthepopulationistypicallyoffshoreduringthespring(Lunnetal.2002a;StirlingandTaylor1999).15.DavisStrait(DS)(Canada-Denmark(Greenland))TheDavisStraitpopulationisboundedonthewestbytheSouthernHudsonBayandFoxeBasinpopulations	Frequency: 1
+NER: morerecently	Frequency: 1
+NER: Figure1.ThepopulationsizeoftheBarentsSeaisessentiallyunknown	Frequency: 1
+NER: withthePBSGreportinga2,000-5,000animalabundanceestimatewitha“poor”certaintyofestimate(Lunnetal.2002a).Surveysconductedin2004resultedinanewpopulationestimateof3,000animals	Frequency: 1
+NER: witha“poor”degreeofcertainty	Frequency: 1
+NER: butoccuroutsideoftheterritorialjurisdictionsofanyindividualnation(Lunnetal.2002a).ThePBSGliststhepopulationestimatefortheArcticBasinas“unknown”(Lunnetal.2002a).Itisthoughtthatpolarbearsprobablyoccuratverylowdensitieshere	Frequency: 1
+NER: AdaptedfromPaetkauetal.(1999:1578).ClusterPopulationCluster1(NorwegianBay)NorwegianBayViscountMelvilleSoundM’ClintockChannelLancasterSoundGulfofBoothiaBaffinBayCluster2(RemainingCanadianArcticArchipelagoandPopulationstotheEast)KaneBasinWesternHudsonBayFoxeBasinDavisStraitCluster3(SouthernmostPopulationsinStudy)SouthernHudsonBay*NorthernBeaufortSeaSouthernBeaufortSeaChukchiSeaFranzJosefLand-NovayaZemlyaSvalbardCluster4(PolarBasinPopulations)EastGreenland*SamplesfromSouthernHudsonBaywerenotavailable	Frequency: 1
+NER: LaptevSeaandQueenElizabethwerenotanalyzedbutwouldlikelyfallinCluster4.TheArcticBasinpopulationwasunanalyzedbutwouldintuitivelyfitinthisclusteralso	Frequency: 1
+NER: isolatedpopulationswouldbemoresevereandlonglastingthanforotherpopulations”(Paetkauetal.1999:1580).Thefirst	Frequency: 1
+NER: tomoveevenrelativelyshortdistancesthroughareaswithpoorhuntingopportunities	Frequency: 1
+NER: Paetkauetal.(1999)cautionedthattheirresultsdonotjustifytheconclusionthatpolarbearpopulationsdonotdiffersignificantlyintermsofadaptivegenetictraits	Frequency: 1
+NER: Paetkauetal.(1999)alsodiscussedthesignificanceoftheirresultsfordefiningmanagementunits(“MUs”).Paetkauetal.(1999)discusstwodefinitionsforMUs	Frequency: 1
+NER: theirworkisimportanttotheunderstandingofthestatusofandthreatstothepolarbear	Frequency: 1
+NER: Thegeographical	Frequency: 1
+NER: ShouldtheFWSchoosenottodesignatePage86of154	Frequency: 1
+NER: productionfacilities	Frequency: 1
+NER: supportfacilities,andtransportationhubssprawlsfromtheNortheasternportionoftheNationalPetroleumReserve	Frequency: 1
+NER: Alaska(“NationalReserve”)totheCanningRiverandtheEasternBoundaryoftheArcticNationalWildlifeRefuge(“ArcticRefuge”)(NRC2003;Tables8,9,and10).Sevenofthe31currentlyproducingoilfieldsareoffshore(MMS2003;2004;Table7;Figure17).Anadditionalthreeonshorefieldsareintheplanningstagesfordevelopmentbuthavenotyetbegunproduction(MMS2003;2004;Table7).Reasonablyforeseeablefuturedevelopmentincludes16Page87of154	Frequency: 1
+NER: ExistingArcticSlopeOilFieldsandInfrastructureSource	Frequency: 1
+NER: FieldinformationistakenfromStateofAlaska	Frequency: 1
+NER: DepartmentofNaturalResources(2000).FootnotesforSatellitesidentifytheassociatedproductionunit:¹DuckIslandUnit;²KuparukRiverUnit;³MilnePointUnit;ºPrudhoeBayUnit	Frequency: 1
+NER: Prospect	Frequency: 1
+NER: Table8	Frequency: 1
+NER: stagingpads)1366398108113115--ExplorationSites34263103104106103--Offshoreexplorationislands00212131313--Offshoreproductionislands0000234--Airstrips1111516161616Page91of154	Frequency: 1
+NER: NRC(2003:43).FacilityorFeature1968197319771983198819942001Roads0100139294358370400Peatroads30101101101969696Causeways0023888Tractortrails	Frequency: 1
+NER: Productionpads	Frequency: 1
+NER: tundrascar0686868686867	Frequency: 1
+NER: tundrascar110250272263258258258	Frequency: 1
+NER: tundrascar0177179177178178177	Frequency: 1
+NER: siteinprocessofrecovery0121274681100	Frequency: 1
+NER: Thusfar	Frequency: 1
+NER: Whilenotallexistingandfutureoilandgasdevelopmentiswithinpolarbearhabitat	Frequency: 1
+NER: includingbyincreasinghuman-bearinteractionsandhunteraccesstopolarbearhabitat	Frequency: 1
+NER: Page93of154	Frequency: 1
+NER: withtheouteredgeofthelandfasticestabilizingbeyondthelocationoftheninewelllocationsbymid-Decembertomid	Frequency: 1
+NER: asinglegaswellthatsuppliesnaturalgastothetownofInuvik(DevonCanadaCorporation2004).ThelargestpotentialfuturedevelopmentintheregionistheMackenzieGasProject	Frequency: 1
+NER: Asoilandgasinfrastructureisintroduced	Frequency: 1
+NER: C.NorwayNorway’soilandgassectoriswelldevelopedandaccountedfor45.9%ofthevalueofNorwegianexportsand24.8%ofoverallgovernmentrevenuein2003(AndresenandGooderham2004).Despitethesestatistics	Frequency: 1
+NER: theSnøhvitfield,wasapprovedin2002andisexpectedtobeginproducingin2005(AndresenandGooderham2004;LarstadandGooderham2004).InordertopromotethediscoveryofadditionalgasresourcesnearSnøhvit	Frequency: 1
+NER: withplanscallingforproductiontobeginin2006(AndresenandGooderham2004).WhilethegovernmenthasrecognizedthespecialenvironmentalconstraintsofoilproductionintheBarentsSearegion(AndresenandGooderham2004;LarstadandGooderham2004),thishasnotstoppedexplorationanddevelopmentactivities	Frequency: 1
+NER: PaamiutBasin(approx.11,200km2)D.Denmark(Greenland)TheGreenlandandDanishgovernmentshavebeenactivelypromotingoilandgasexplorationanddevelopmentoffthecoastofGreenland	Frequency: 1
+NER: GreenlandwaslicensedtotheprivateoilcompanyEnCanacorporationandNUNAOILA/S	Frequency: 1
+NER: andBaffinBaytooilexploration(Figure21).Followingthislicensinground	Frequency: 1
+NER: increasingoilexplorationanddevelopmentofftheWestCoastofGreenlandposeasignificantthreattotheBaffinBay,DavisStrait	Frequency: 1
+NER: oilexplorationanddevelopmentofftheEastCoastofGreenlandmayincreaserapidlyinthefutureaswell	Frequency: 1
+NER: E.RussiaParallelplansforoilandgasdevelopmentintheRussianBarentsSeaarealsomovingforward(Derocheretal.2002).TheRussiangovernmenthasapprovedplansforaprivatelyownedoilpipelinefromRussia’soilfieldstoMurmanskinNorth-westRussia(WWF2003).Largeoffshoreoilandgasfieldsarelikelytobedevelopedwithinafewyears(WWF2003).Shouldthepipelinebebuilt	Frequency: 1
+NER: thesurvivalofthecubsislikelytobelow	Frequency: 1
+NER: whentheyhavelesstolosereproductivelythaninthespring(Amstrup1993).Oilandgasdevelopmenthasthehighestpotentialtoimpactpolarbearpopulationsviadisturbanceofdenningwherepolarbeardenningislocallyconcentrated	Frequency: 1
+NER: thehighestdensityoflanddensoccursalongthecoastoftheeasternBeaufortSeawithintheArcticNationalWildlifeRefuge(“ArcticRefuge”)(FWS1995).Bluffsalongbeachesandcutbanksalongriversprovidetopographicreliefformaternitydensdugintodriftedsnow(FWS1995).Landdensarenotlimitedtotheimmediatecoastline	Frequency: 1
+NER: Somehaveoccurredinlandapproximately48kilometersfromshore(FWS1995;Figure22).Figure22	Frequency: 1
+NER: BeaufortSeaRegionSource	Frequency: 1
+NER: TheNRC(2003)hasestimatedthattheArcticRefugehas3.2billionbarrelsof“economicallyrecoverablereserves”–thatis	Frequency: 1
+NER: WithintheArcticRefuge	Frequency: 1
+NER: ofthelongitudinalrangeoverwhichthemainlanddenswereobserved(Amstrup1993).MoredensarelocatedintheArcticRefugeandthe1002areathanwouldbeexpectedifpolarbearsdenneduniformlyalongthecoast(Amstrup1993).Inadditiontothe20denswithintheArcticRefuge	Frequency: 1
+NER: butnottoprecisedenninglocations(FWS1995).Femalesthatdennedonlandweremorelikelytodenonlandagaininsubsequentyears	Frequency: 1
+NER: andthosedenningonpackiceweremorelikelytoreturntopackice(FWS1995).PolarbeardenshavealsobeenfoundrecentlyintheareaoftheproposedLibertywelldevelopment(MMS2003).BarrierislandsinshallowwateralongthenorthernandwesterncoastsofAlaskaarealsoimportantdenninghabitat(FWS1995).Flaxman	Frequency: 1
+NER: butdemonstratesavariationinthebehavioralresponseofpolarbears(FWS1995).Theseresponsesrangefromnormaldenningandemergencebehavior	Frequency: 1
+NER: wascaptured	Frequency: 1
+NER: wascapturedandreleasedadjacenttoherden	Frequency: 1
+NER: ahigherproportionofthepopulationwoulddeninthevicinityoftheArcticRefuge	Frequency: 1
+NER: Ifthisweretooccur	Frequency: 1
+NER: Onestudyhasalreadysuggestedthatthepercentageofbearsdenningonlandisincreasing(FWS1995;Amstrup2000).Moreover	Frequency: 1
+NER: wherethebearswouldbeexposedtohighlevelsofdisturbancefromoilandgasactivities	Frequency: 1
+NER: gasandmineralactivities(Lentfer1990).Activitiessuchasdumping	Frequency: 1
+NER: andstoragefacilitiesmaydamageordestroyfeedingareas	Frequency: 1
+NER: includingdeletingknowndenningareasandmigrationroutesfromleasesaleofferings	Frequency: 1
+NER: restrictingexplorationanddevelopmentactivitiesindenninghabitatduringcriticaltimesoftheyear,layingseismiclines	Frequency: 1
+NER: andminimizingcumulativeimpactsofexplorationanddevelopmentactivitiesbyminimizingtheareaofdevelopmentsprawl	Frequency: 1
+NER: theexpansionofoildevelopmentacrosstheArcticposesaseriousthreat	Frequency: 1
+NER: Thefollowingisexcerptedfromadescriptionoftheexperiment	Frequency: 1
+NER: Thethreeanimalswerecoaxedindividuallyalongapassagewayleadingtoasmallpoolcontaining7000Lofseawatercoveredwitha1cmsurfaceslickofcrudeoil	Frequency: 1
+NER: Asthebearsstretchedoutoverthepooltoreachsealblubbersuspendedinaccessiblyfromthetopofthecage	Frequency: 1
+NER: ThePage101of154	Frequency: 1
+NER: Onerubbeditscoatalongthecagebars	Frequency: 1
+NER: Ingestedoilcausedvomitinganddiarrhea	Frequency: 1
+NER: distributedtovarioustissues	Frequency: 1
+NER: andexcretedbybileandurine	Frequency: 1
+NER: Aubin1990).Theexperimentshowedthatoilwillsoakapolarbear’spelageandpersistforseveralweekswhereitwillbegroomedandingested	Frequency: 1
+NER: andotherorgansandsystems	Frequency: 1
+NER: evenintheabsenceofthethermaleffect(Lentfer1990;NRC2003;Stirling1998).Thus	Frequency: 1
+NER: availabledatasuggestthatifoilisspilledinleadsoccupiedbypolarbears	Frequency: 1
+NER: bearsalreadyinpoorconditionfromimpactsduetoglobalwarmingwouldbeatevenhigherrisk	Frequency: 1
+NER: OilspillsarecommonplaceinAlaska’sArctic	Frequency: 1
+NER: Eachyearbetween1977and1999therewereanaverageof234reportedspills	Frequency: 1
+NER: theriskofsuchaspillisveryreal	Frequency: 1
+NER: offshoreoilproductionhasthusfaraccountedforaverysmallpercentageofthetotaloilproductioninAlaska	Frequency: 1
+NER: Eachadditionaloffshoreoildevelopmentincreasestheriskofalargeoilspillinpolarbearhabitat	Frequency: 1
+NER: Lentfer(1990)statedthatthefocusofmitigationmeasuresforoilspillsshouldbethosethatpreventthespillfromhappeninginthefirstplace	Frequency: 1
+NER: becausespillsin-icecoveredwatersmaybedifficultorimpossibletocleanup	Frequency: 1
+NER: thereisstillnoeffectivemethodforcleaningorcontrollinganoilspillindriftingorpackiceinArcticwaters	Frequency: 1
+NER: wheredifficultweatherconditionsarecommonplace(Norrisetal.2002;DFDickensAssociatesLtd.2004;MMS2004).Acriticaldeficiencyisthecontinuedinabilitytoreliablydetectandmapoiltrappedin	Frequency: 1
+NER: oramongseaice(DFDickensAssociatesLtd.2004).Thisdeficiencyaffectsallaspectsofresponsetospillsinice	Frequency: 1
+NER: buthavelimitedusefulnessincoldwaterwithice	Frequency: 1
+NER: becausetheanalysisrepresentsaminimumestimateoftherisk	Frequency: 1
+NER: Theanalysisissubjective	Frequency: 1
+NER: MMS(2003)alsostatesthatpolarbearscouldbeindirectlyimpactedbyanoilspillduringaheavyiceyearinwhichtheoilcausedalossofplanktonandbenthicinvertebratesandaffectedthefoodchain	Frequency: 1
+NER: IV-121)alsoexpects82smallcrudeoilspillsofthreebarrelseach	Frequency: 1
+NER: andwalruspupsandincreasinghabitatcontaminationbyperhapsabout1-2%.”TheMMSalsobrieflyanalyzestheimpactsfromanoilspillgreaterthan180,000barrels(aspill75%thesizeoftheapproximately240,000barrelsspilledduringtheExxonValdezdisasterof1989).TheMMS(2003)estimatesthatupto128polarbearsand2,590ringedsealscouldbecontaminatedwithoil	Frequency: 1
+NER: TheMMSalsopurportstoanalyzecumulativeimpactstothepolarbearandconcludesthat“(p)otentialcumulativeeffectson	Frequency: 1
+NER: AlaskaandonstateandprivatelandsinAlaska	Frequency: 1
+NER: andanincreaseinArcticshippingasglobalwarmingdecreasesicecover	Frequency: 1
+NER: FortheNorthstarprojectalone	Frequency: 1
+NER: FWSmodelsdemonstratedthatupto78bearscouldbekilledbyaspillinopenwater	Frequency: 1
+NER: theFWSestimateda.4-1.3%chancethatanoilspillwouldresultinthedeathofoneormorebearsduringthe16-monthperiodfollowingtheissuanceofincidentaltakeauthorityforNorthstar(FWS2003).Thelikelihoodofanoilspillincreaseswiththetimeperiodconsidered.	Frequency: 1
+NER: Inthisway	Frequency: 1
+NER: andotheri[c]e-dependentpinnipedswouldbeofprimaryconcernandwouldwarrantcloseattentionandeffective[mitigation]practices”(MMS2004	Frequency: 1
+NER: WhilethereisconsiderableinformationthatglobalwarminghasaffectedtheArcticoverthepastseveraldecades	Frequency: 1
+NER: Inthecumulativeassessment	Frequency: 1
+NER: climatechangeisnotspeculative,andallclimatemodelspredictfuturewarmingintheArctic	Frequency: 1
+NER: TheMMS’sauthorizationoflarge-scaleoilandgasdevelopmentinpolarbearhabitatwithoutadequateanalysisormitigationofimpactstothepolarbearisasubstantialthreattothespecies	Frequency: 1
+NER: Page105of154	Frequency: 1
+NER: butoffshoreofCanada	Frequency: 1
+NER: withoutadequateavoidanceormitigationstrategiesforthepolarbear	Frequency: 1
+NER: C.AcuteandChronicSpillsofOtherToxicSubstancesOthertoxicsubstancesassociatedwithoil	Frequency: 1
+NER: In1988,onepolarbearwasdiscoveredtohavediedafteringestingasubstanceincludingethyleneglycolandRhodamineBdye(Lentfer1990).Ethyleneglycolisextremelytoxic	Frequency: 1
+NER: anditssweettastemayencourageconsumption(Lentfer1990).Thisparticularbearwaslocatedonlybecauseitwaswearingaradiocollar	Frequency: 1
+NER: demonstratingthatotherbearsmaydieinasimilarwaybutneverbediscovered(Lentfer1990).OtheritemssuchasStyrofoam	Frequency: 1
+NER: andassociatedwastesthathavecirculatedintheoilwell	Frequency: 1
+NER: aswellassolidsandligandsthatoriginatedinthewell	Frequency: 1
+NER: crudeoil,spillmaterials,andothersubstancesweredisposedofinopengravel-bermedareascalledreservepitsthattypicallycontainedupto51millionlitersofwaste(NRC2003).Reservepitscreatedmanypollutionproblems	Frequency: 1
+NER: Safedisposalviatheinjectionmethodrequiresthatporous	Frequency: 1
+NER: whichcannotthenbeusedasasourceofdrinkingwater(NRC2003).Whiletheinjectionmethodappearsenvironmentallysuperior	Frequency: 1
+NER: itisnotwithoutproblems	Frequency: 1
+NER: Ships,andOtherVehicles17Noisegeneratedbyseismicexploration	Frequency: 1
+NER: roadconstructionandtraffic	Frequency: 1
+NER: andalterthedistributionofpolarbearsandpolarbearprey(Lentfer1990).PolarbearswillbeimpactedbyairandmarinetrafficassociatedwithexplorationactivitiesfortheBeaufortSeaMultipleLeaseSale(MMS2003).Ringedsealpuppinginfloating-shorefast-icehabitatswithinabout150meters(490feet)oftheon-iceshotlinesforseismicsurveys	Frequency: 1
+NER: visibilityconditionsfrequentlyresultinlow-flyingaircraftwhichdisturbanimals(MMS2003).InCanada	Frequency: 1
+NER: polarbearsweresightedduring32ofthe115activitiescoveredbyincidentaltakeregulations(FWS2003).Approximatelytwo-thirdsofthesightings(171of258)occurredduringproductionactivities	Frequency: 1
+NER: revealingthatoilandgasactivitiesthatoccuronorneartheBeaufortSeacoasthaveagreaterpossibilityofencounteringpolarbearsthanactivitieselsewhere(FWS2003).Sixty-onepercentofpolarbearsightings(157of258)consistedofobservationsofpolarbearstravelingthroughorrestingnearthemonitoredareaswithoutaperceivedreactiontohumanpresence	Frequency: 1
+NER: suchasgarbagedumpstersandlandfills	Frequency: 1
+NER: wheretheseattractantsalteredthebear’sbehavior(FWS2003).Sixty-fivepercentofbear-humaninteractions(66of101)involvedLevelBharassmentasdefinedbytheMMPA(seepage135forfurtherdiscussionofharassmentandtheMMPA(FWS2003).)TheMMS(2003)predictsthatupto10bearswillbekilledasaresultofincreasedinteractionsduetotheBeaufortSeaMultipleLeaseSale	Frequency: 1
+NER: andgenerallyshouldnotbeviewedasathreattopolarbears	Frequency: 1
+NER: Todate	Frequency: 1
+NER: currentlyposesathreattonearlyhalfofallpolarbearpopulations.	Frequency: 1
+NER: orapproximately2	Frequency: 1
+NER: aminorityofpolarbearpopulationsweresufferingfromoverharvest	Frequency: 1
+NER: whilehuntinginthemajoritywasmanagedsustainably	Frequency: 1
+NER: InJanuary,2005,theGovernmentofNunavut	Frequency: 1
+NER: wherealargepercentageoftheworld’spolarbearhuntingoccurs	Frequency: 1
+NER: ifallormostofthequotaistakeneachyear	Frequency: 1
+NER: ortheproportionofthepopulationthatcanberemovedbyhumanswithoutcausingacontinuingpopulationdecline(Amstrup2000).Becausepolarbearshavelowreproductiveoutput	Frequency: 1
+NER: foreignvisitorstotheArctickilledasmanypolarbearsaspossible(Amstrup2003).Morethan150,000polarbearsmayhavebeenkilledorcapturedinEurasiasincethebeginningoftheeighteenthcentury(Stirling1998).PolarbearshistoricallyoccurredonSt	Frequency: 1
+NER: Internationalconcernregardingoverharvestofpolarbearsledtothefirstinternationalmeetingofallfivecountrieswithpolarbearpopulations	Frequency: 1
+NER: anincreaseof115polarbears	Frequency: 1
+NER: IncreasesinNunavutPolarBearHarvestQuotasSource	Frequency: 1
+NER: Wewillupdatetheinformationonthethreatposedbyhuntingasappropriateatthattime	Frequency: 1
+NER: Alreadyhalfofthe20polarbearpopulationsgloballyarethreatenedbyoverharvest	Frequency: 1
+NER: andunsustainableharvestoftheChukchi/BeringSeapopulationinChukotka	Frequency: 1
+NER: Informationonhuntinginthesetwopopulationsisreviewedbelow	Frequency: 1
+NER: andincreasedeconomicpressures(AnglissandLodge2004).Duetolackoffundingandenforcementthereisnothingtostopit(Amstrup2003).Asmanyas200-400bearsmaybekilledeachyearinChukotka(AnglissandLodge2004;MarineMammalCommission2004),andthelevelofpoachingappearstobeincreasing(Amstrup2000).Whiletheexactnumberofbearskilledisnotknown	Frequency: 1
+NER: andthereforeuncontrolledpolarbearpoachingoverabroadareainRussiacouldhavefar	Frequency: 1
+NER: AlaskanNativeharvestfromtheChukchi/BeringSeapopulationhasbeendeclining(AnglissandLodge2004).The1996-2000meanharvestwas44.8bearsandthesexratiowas64M:36F(AnglissandLodge2004).ThedeclineintheAlaskanharvestmaybeduetoareductioninpopulationsizefromtheillegalharvestinChukotka	Frequency: 1
+NER: thereiscurrentlynolocalorgovernmentcontrolonthenumberofbearstaken;providingthepopulationisnotdepleted[inwhichcaseharvestcouldberestrictedpursuanttotheMarineMammalProtectionAct]andthetakingisnotwasteful(AnglissandLodge2004).OnOctober16,2000,thegovernmentsoftheU.S.andRussiasignedthe“AgreementontheConservationandManagementoftheAlaska-ChukotkaPolarBearPopulation,”whichwillprovideforharvestguidelinesandquotasonceitisimplemented(Schliebeetal.2002;AnglissandLodge2004).NativepeopleofAlaskaandChukotkawillplayacentralroleinimplementingthistreaty	Frequency: 1
+NER: femaleswithcubs,orcubslessthanoneyearold	Frequency: 1
+NER: statedthattheannualsustainableharvestfromtheSouthernBeaufortSeapolarbearpopulationwouldbesharedbetweenthetwojurisdictions	Frequency: 1
+NER: andrequiredtheannualreviewofharvestlevels(Lunnetal.2002a).AprincipalassumptionoftheAgreementwasthatpolarbearsharvestedwithintheregionidentifiedcamefromasingleSouthernBeaufortSeapopulationwhichnumberedapproximately1800bears(Lunnetal.2002a).Sincetheinitiationofthislocaluseragreementin1988,thecombinedAlaska	Frequency: 1
+NER: Canadameanharvestfromthisstockhasbeen55.1bearsperyear	Frequency: 1
+NER: Potentialbiologicalremovalis59,andadjustedpotentialbiologicalremovallevel[adjustedupwardbecauseofa2M:1Fharvestratio]is88(AnglissandLodge2004).Between1995-2000,theaverageAlaskaharvestforthispopulationwas32.2bearswithasexratioof71M:20F(AnglissandLodge2004).TheAlaskaquotaundertheagreementis40bears(Schliebeetal.2002).TheharvestinCanadaisregulatedbyaquotasystem(AnglissandLodge2004).ThereisnofurtherregulationinAlaskaaslongasthepopulationisnotlistedasdepletedundertheMarineMammalProtectionAct(AnglissandLodge2004).B.CanadianPopulationsPolarbearpopulationsinCanadaaremanagedbythefederalgovernment	Frequency: 1
+NER: andQuébec	Frequency: 1
+NER: whicharecollectivelyrepresentedbytheFederal-ProvincialTechnicalCommitteeforPolarBearResearch(“PBTC”)andtheFederal-ProvincialAdministrativeCommitteeforPolarBearResearch(“PBAC”)(Lunnetal.2002b).NativeLandClaimshaveresultedinCo-ManagementBoardsformostofCanada’spolarbearpopulations(FWS2001).RepresentativesoftheInuvialuitGameCouncil(“IGC”),NunavutWildlifeManagementBoard(“NWMB”),MakivikCorporationandtheLabradorInuitAssociationhavealsobeeninvitedtobemembersofthePBTCandPBAC(Lunnetal.2002b).ThestatusofpolarbearsinCanadaisdeterminedbythenumberofindividualsineachpopulation	Frequency: 1
+NER: andtherateatwhichbearsareharvested(Lunnetal.2002b).ThequotaofbearstakenbyeachjurisdictionisbasedonrecommendationsbytheFederal-ProvincialCommittees	Frequency: 1
+NER: combinedpolarbearsquotasinCanadahaveexceeded600bearsforallpopulationsinCanada	Frequency: 1
+NER: thoughoverallthecombinedquotahasnotbeenexceededinanyrecentyearforwhichdataareavailable(Lunnetal.2002b;Table13).Table13	Frequency: 1
+NER: Quotas¹andKnownNumbersofPolarBearsKilled²inCanada,1996-97through1999-2000Source	Frequency: 1
+NER: Numbersmaychangeasmoreinformationisreceivedfromthecommunities²Allknownkills	Frequency: 1
+NER: andbearsthatdiewhilebeinghandledbyscientists3Throughtheendofthe1997-98season,19oftheManitobaquotaof27fortheWesternHudsonBaypopulationwereadministeredbytheNWTandallkillsunderthisloanedquotaincludedintheNWTtotal	Frequency: 1
+NER: Nunavutbeganreportingquotasandharveststatisticsin1998/995Permissiblekill6ThetotalallowablekillinQuébeciscontrolledthroughagreementswithNatives;lengthofhuntingseasonisadjustedandonlycertainsexandagecategoriescanbetaken7YukonquotaisadministeredbytheNWTbutkillsareincludedintheYukontotalPage116of154	Frequency: 1
+NER: ViscountMelvilleSound(subjecttoCanadaliftingthemoratoriumonharvestfromthispopulation),WesternHudsonBay	Frequency: 1
+NER: M’ClintockChannel(onlyforpolarbearslawfullytakenonorbeforeMay31,2000),LancasterSound	Frequency: 1
+NER: andconsequentlyonlybearslawfullyhuntedpriortoMay31,2000maybeimported(FWS2001).Sincetheimportofpolarbeartrophieswasauthorizedin1997,597importpermitshavebeenissued(MarineMammalCommission2004;Table14).Table14	Frequency: 1
+NER: MarineMammalCommission(2004:129).YearNumberofPolarBearTrophiesImported19971321998601999142200076200171200248200368RegulationofhuntinginCanadaiscomplex	Frequency: 1
+NER: Canada’sCo-Managementsystemalsorequiresthatmanagementchanges	Frequency: 1
+NER: Nwfnd	Frequency: 1
+NER: NWTerr	Frequency: 1
+NER: NunavutOnt	Frequency: 1
+NER: Qué	Frequency: 1
+NER: TagsaredistributedbytheHTCsApersonwhopossessesatag	Frequency: 1
+NER: TagsaredistributedbytheHTOsPermissiblekillbyTreatyIndiansInuitsandIndiansInuitonlyareissuedpolarbeartagsQuota27(19onloantoNunavut;8retainedforthePolarBearAlertProgram)6Bysettlement:2000-01quotais103(97	Frequency: 1
+NER: alsoincludesbearsconstructingdensNoYesYesProofoforiginofuntannedbearDocumentedproofDocumentedproof(nosealonhideimplementedtodate)TagonhideandexportpermitTagonhideandexportpermitSealonhide	Frequency: 1
+NER: WildlifeandFisheriesDiscretionofSuperintendentofWildlifeDiscretionofDistrictManagerDiscretionofMinisterDiscretionofDirector	Frequency: 1
+NER: FieldServicesBranchSellingofhidebyhunterSubjecttoconditionsofMinisterialpermitYes	Frequency: 1
+NER: BaffinBay	Frequency: 2
+NER: Theapproximately28%increaseinhuntingoverallinNunavutcouldleadtounsustainableharvestinadditionalpopulations	Frequency: 1
+NER: Between17and37polarbearswereharvestedannuallyfromtheM’ClintockChannelpopulationthroughoutthe1990s(Table16).CanadainitiatedanewstudyoftheM’ClintockChannelpopulationin1998(FWS2001).BothpreliminaryandupdatedresultsfromthisstudyindicatedthattheM’ClintockChannelpopulationestimateof700bearswasfartoohighandthatthepopulationwassufferingfromoverharvest(FWS2001).Anewpopulationestimateofbetween238and399bears	Frequency: 1
+NER: andwouldlikelytake25yearstodouble(FWS2001).Table16	Frequency: 1
+NER: PolarBearHarvestinM’ClintockChannel,1989/1990through1998/1999Source	Frequency: 1
+NER: GreenlandhuntershavealsoharvestedpolarbearsinwesternKaneBasinandSmithSound(StirlingandTaylor1999;Lunnetal.2002a).FewpolarbearswereencounteredbyresearchersalongtheGreenlandcoast1994through1997,possiblybecauseofintenseharvestpressurethere(StirlingandTaylor1999;Lunnetal.2002a).Basedonpreliminarydatafromongoingresearch	Frequency: 1
+NER: Greenlanddoesnotlimitthenumberofpolarbearsharvested	Frequency: 1
+NER: andpreliminarypopulationestimatesandthemostrecentharvestinformationindicatethatthepopulationmaybeover	Frequency: 1
+NER: andGreenlandharvestsfromthispopulationaswell	Frequency: 1
+NER: BecausetheimpactofglobalwarmingonparameterssuchasadultbodyconditionandreproductiverateshasalreadybeendocumentedinWesternHudsonBay	Frequency: 1
+NER: theNorthwestTerritoriesquotafellfrom503to93bearsduetothecreationofNunavutasanewjurisdiction(Lunnetal.2002b;Table13(page115)).The2000-1quotawas97bearsintheNorthwestTerritories(Lunnetal.2002b).TheNorthwestTerritoriesnowharvestfromthreepopulations	Frequency: 1
+NER: Manitobahasdesignatedthepolarbearasaprotectedspecies	Frequency: 1
+NER: theGovernmentofNunavutincreaseditsharvestquotato56bearsin2005,whichitselfisexceedsthesustainablekillfortheWesternHudsonBaypopulation	Frequency: 1
+NER: Newfoundlandexceededthisquotabyonebear(Lunnetal.2002b).Whilehuntingregulationisreviewedannually	Frequency: 1
+NER: Underthenewlawthereisnoopenseasonforpolarbears	Frequency: 1
+NER: andalltransactionsmustberecorded(Lunnetal.2002b).Datacollectiononpolarbearharvestmayimproveunderthenewregulatoryscheme(Lunnetal.2002b).InJanuary1999,theCommitteeontheStatusofSpeciesatRiskinOntario(COSSARO)listedthepolarbearas“Vulnerable”intheprovince(Lunnetal.2002b).6.QuébecQuébec’sharvestquotais62polarbears(Lunnetal.2002b).PolarbearsmayonlybekilledinQuébecbynativepeoplepursuanttotheirtraditionalrightsasrecognizedbythegovernmentsofQuébecandCanada(Lunnetal.2002b).ThelawinQuébecprovidesthatharvestlevelsshouldbeguaranteedtonativehuntersaslongastheprinciplesofconservationarerespected(Lunnetal.2002b).Afternegotiationonanagreementonapolarbearhuntingseason	Frequency: 1
+NER: withCanada	Frequency: 1
+NER: adultmalebearswhichmaybetakenallyearlong;(4)cubsyoungerthan12monthsandtheirmothersarefullyprotectedinthemunicipalitiesofQaanaaq/ThuleandUpernavikofNWGreenlandandIttoqqortormiitandTasiilaq/AmmassalikofE.Greenland	Frequency: 1
+NER: motorizedvehicles	Frequency: 1
+NER: toworktowardstheintroductionofquotasandothercatch	Frequency: 1
+NER: becausesometimesmorethanonehunteronahuntwillreportapolarbearkill,eventhoughonlyonebearwasshot(Jessen2002).Generally	Frequency: 1
+NER: Disko6110052SeeaboveIlulissat1120015SeeaboveAasiaat4310338SeeaboveQasigiannguit0020253SeeaboveKangaatsiaq16101206SomemayhavebeentakenfromDavisStraitmanagementunitKangerlussuaq	Frequency: 1
+NER: Strom0000010SeeaboveSisimiut01411124SeeaboveManiitoq40514220LikelytakenfromDavisStraitmanagementunitNuuk0014002SeeaboveSWGreenlandIvittuut0000000LikelytakenfromtheEastGreenlandpopulationPaamiut1211510SeeaboveNarsaq1000200SeeaboveQaqortoq0020041SeeaboveNanortalik10636911SeeaboveEastGreenlandAmmassalik1514222391314Illoqqortoormiut/Scoresbysund28352626344352GreenlandTotal132121137135149198181	Frequency: 1
+NER: DepartmentofFisheries,Hunting,Commerce	Frequency: 1
+NER: Page123of154	Frequency: 1
+NER: D.NorwayTheSvalbardArchipelagoisunderNorwegiansovereigntypursuanttotheSvalbardTreatyof1920(Derocheretal.2002).PolarbearhuntinginSvalbardhasbeenbannedsince1973,however	Frequency: 1
+NER: theGovernorofSvalbardortheHeadofStationinJanMayencankillorgivepermissiontokillanypolarbearswhichremainclosetopermanentortemporaryhumansettlementsandthusareperceivedtopresentariskofinjurytopeopleorother“substantial”damage(Derocheretal.2002).AllsuchkillingsareeitherapprovedbyorinvestigatedbytheGovernor(Derocheretal.2002).Thereare250privatecabinsonSvalbard	Frequency: 1
+NER: andtherewereninebearsshotbetween1997-2000;nochargeswerebroughtinanyoftheseinstances(Derocheretal.2002).NorwayalsocontinuestoexportpolarbearskinsandpartspursuanttoCITESregulation(Derocheretal.2002).Between1996-2000,Norwayexported16hidesand636polarbear“pieces”(Derocheretal.2002).E.RussiaPolarbearhuntingintheRussianArctichasbeenbannedsince1956(Belikovetal.2002).However	Frequency: 1
+NER: thereisanongoingillegalkillinChukotka	Frequency: 1
+NER: discussedunder“Bering/ChukchiSeaPopulation,”above.	Frequency: 1
+NER: RussiahasalsoconsideredopeningharvestwithintheBarentsSea-Svalbardpopulation	Frequency: 1
+NER: whichissharedwithNorway(Derocheretal.2002).AppendixD	Frequency: 1
+NER: Thesepollutantshavecausedandwillcontinuetocauseadverseimpactsontheimmunesystems	Frequency: 1
+NER: andreproductivesystemsofpolarbears	Frequency: 1
+NER: mayalsothreatenpolarbears	Frequency: 1
+NER: theArcticisoneofthemostpristineplacesleftontheearth	Frequency: 1
+NER: YettheArcticalsocontainshighloadsofmanytoxicpollutantsthataretransportedfromdifferentsourcesbyanumberofmechanisms	Frequency: 1
+NER: andwithintheArctic(AMAP2002).Intheglobalclimatesystem	Frequency: 1
+NER: theArcticcoolstheairandwaterwarmedinmoretemperateregions(AMAP2002).Cooleraircanholdlessmoisture	Frequency: 1
+NER: andinthetoplayeroftheocean	Frequency: 1
+NER: wherebiologicalproductivityishighest(AMAP2002).SeaicecancarrycontaminantsacrosstheArcticanddeposittheminthebiologicallyproductivemeltingzoneoftheNorthAtlantic(AMAP2002).OceancurrentsareaslowbutimportantpathwayforcontaminantstoandwithintheArctic(AMAP2002).Forradionuclidesinparticular	Frequency: 1
+NER: theenergyfromsunlightbreaksupthissystem	Frequency: 1
+NER: andisofspecialconcerninanapexpredatorsuchasthepolarbearPage125of154	Frequency: 1
+NER: scavengerscanbringthesepollutantsbackintothefoodweb	Frequency: 1
+NER: keepingthemcirculatingforlongperiodsevenwithoutadditionalinputs(AMAP2002).Bothbiomagnificationandbioaccumulationleadtoextraordinarilyhighconcentrationsofsomecontaminantsinpolarbeartissue	Frequency: 1
+NER: II.PERSISTENTORGANICPOLLUTANTSPersistentOrganicPollutants(“POPs”)includeawiderangeoftoxicsubstancesproducedbyman	Frequency: 1
+NER: PCDD	Frequency: 1
+NER: discussedbelow	Frequency: 1
+NER: ChemicalsthatareinthecategoryofchlorinatedpesticidesincludeDDT	Frequency: 1
+NER: heptachlor	Frequency: 3
+NER: inductionorincrease	Frequency: 1
+NER: IncreasedlivertumorsChlordanesTreproductionInducesliverenzymesSuppressesimmunesystemNon	Frequency: 1
+NER: TreproductionInducesliverenzymesSuppressesimmunesystemTthyroidweightOver-stimulationofadrenalcortexHCBFetotoxic	Frequency: 1
+NER: SthyroidstimulationhormoneSthyroidweightNon	Frequency: 1
+NER: TumorpromoterBeta	Frequency: 1
+NER: HCHEstrogenicInducesliverenzymesSuppressesimmunesystemSthyroidweightNon	Frequency: 1
+NER: TreproductionInducesliverenzymesNon	Frequency: 1
+NER: TumorpromoterMirexTreproductionInducesliverenzymesSuppressesimmunesystemNon	Frequency: 1
+NER: InducestumorsToxaphenesFetotoxic	Frequency: 1
+NER: TreproductionInducesliverenzymesSuppressesimmunesystemSthyroidweight	Frequency: 1
+NER: SthyroidstimulationhormoneMutagenic	Frequency: 1
+NER: OverstimulationofadrenalglandEndosulfanFetotoxic	Frequency: 1
+NER: TreproductionInducesliverenzymesSuppressesimmunesystemNon-mutagenicDioxin	Frequency: 1
+NER: furans	Frequency: 3
+NER: dioxin-likePCBs	Frequency: 1
+NER: andmetabolitesFetotoxic	Frequency: 1
+NER: SupressesimmunesystemTthyroidhormonesTVitaminANon-mutagenictumorpromoters	Frequency: 1
+NER: SthyroidstimulationhormoneNon	Frequency: 1
+NER: Inhibitscell	Frequency: 2
+NER: hexachlorobenzene	Frequency: 2
+NER: DDT	Frequency: 2
+NER: Restrictionsand	Frequency: 1
+NER: PCBconcentrationsinpolarbearsdeclinedthroughthe1990’s(AMAP2004;Lieetal.2004).However	Frequency: 1
+NER: andfurtherdecreasesinPCBcontaminationmaybeslight(AMAP2004;AMAP2002).Onereasonforthisisthatpeakconcentrationsofchemicalsarelower	Frequency: 1
+NER: andtakelongertodecreasefartherfromthesource	Frequency: 1
+NER: TheU.S.andJapanaremajorsourcesofdioxinsandfurans(AMAP2002).HexachlorobenzeneconcentrationsintheArcticareunexplained	Frequency: 1
+NER: leadingtothehypothesisthatthereareasyetunknownsourcesforthiscontaminant(AMAP2002).Lindaneandendosulfanarestillinwidespreaduse	Frequency: 2
+NER: withanannualworldwideproductionofover200,000tons(AMAP2002).PBDElevelsintheArcticincreasedfrom1982to1996,andactuallydoubledinonethreeyearperiod(AMAP2002).WhilePBDElevelsinanimalsarestilllowcomparedtoPCBlevels	Frequency: 1
+NER: ifleftuncheckedPBDElevelsmaybesimilartoPCBlevelswithinafewdecades(AMAP2002).Ingeneral	Frequency: 1
+NER: includingmercury	Frequency: 1
+NER: couldposeathreattoArcticecosystemsandwildlife	Frequency: 1
+NER: inadditiontoman-	Frequency: 1
+NER: abriefdiscussionisappropriateheresincethesesubstanceshaveknownharmfulimpactstootherspecies	Frequency: 1
+NER: includinghumans	Frequency: 1
+NER: Mercuryistoxictoplantsandanimals	Frequency: 1
+NER: especiallyinfetusesandtheveryyoung	Frequency: 1
+NER: highlevelsofmercurycancauseerraticbehavior	Frequency: 1
+NER: andweightloss	Frequency: 1
+NER: re-enteringtheatmosphereforfurthertransport(AMAP2002).Highertemperatures	Frequency: 1
+NER: interferewithabsorptionofnutrients	Frequency: 1
+NER: Researchersfirstnoticedin1995thatmercurylevelsintheairdroppedsharplyaround“polarsunrise,”thetimewhenthesunreturnsafterthelongArcticwinter(AMAP2002).Foraperiodeachspring	Frequency: 1
+NER: disturbedcalciumandvitaminDmetabolism	Frequency: 1
+NER: andboneloss(AMAP2002).Cadmiumisremovedveryslowlyfromthebodyandcanbioaccumulate(AMAP2002).CadmiumlevelsvarywidelythroughouttheArctic	Frequency: 1
+NER: Leadcontaminationcanleadtoalteredbehaviorfromeffectstobrainandnervetissue	Frequency: 1
+NER: kidneydamage	Frequency: 1
+NER: Exposuretoradioactivitycandamagelivingcells	Frequency: 1
+NER: causecancer	Frequency: 1
+NER: andinterferewithreproductionandpopulationhealth	Frequency: 1
+NER: aswellasahandfulofplantswithin1000kmoftheArctic(AMAP2002).Thereis	Frequency: 1
+NER: apexpredatorswithextremelyhighfatcontentdiets	Frequency: 1
+NER: KaraSea	Frequency: 1
+NER: andhormonesystems	Frequency: 1
+NER: andhumans	Frequency: 1
+NER: andthereforethepolarbeardiet	Frequency: 1
+NER: polarbearshavedelayedimplantation	Frequency: 1
+NER: femaleswhohadlosttheircubshadhighercontaminantconcentrations(includingPCBs	Frequency: 1
+NER: DDTs	Frequency: 1
+NER: HCHs	Frequency: 1
+NER: chlorobenzenes,andchlordanes)thanfemaleswhosecubssurvived(AMAP2002).Inanotherstudy	Frequency: 1
+NER: thelevelsofthemalehormonetestosterone,whichplaysavitalroleinsexualdevelopment,werelowinbearswithhighPCBloads(AMAP2002).A1999studysurveyed52experiencedpolarbearhuntersregardingobservationsofaberrantbearsincludingpathologicalchangesandanomaliesininternalorgans(Lunnetal.2002a;AMAP2004).Thirteenanomalieswerereportedincludingadditionalnipplesorclaws	Frequency: 1
+NER: unilateralcollapseoflung	Frequency: 1
+NER: partialmelanism,missinglimbs,andamalformednewborn,	Frequency: 1
+NER: Page131of154	Frequency: 1
+NER: bearswithhigherPCBconcentrationsproducedfewerantibodiesinresponsetovaccinationsthanbearswithlowerPCBconcentrations(AMAP2004;Lieetal.2004;Skaareetal.2002).Inaddition	Frequency: 1
+NER: highPCBconcentrationswerecorrelatedwithdecreasesinIgG(themajorimmunoglobulinclassinblood),indicatingapossiblesuppressionofantibody-mediatedimmunity(Skaareetal.2002;Lieetal.2004).AreasonableassumptionflowingfromthisstudyisthatthedemonstratedimpactofPCBsontheimmunesystemmayincreasethesusceptibilityofpolarbearstoinfection(Lieetal.2004;AMAP2004).HighPCBconcentrationshavealsobeenshowntoimpactthyroidhormonesandretinol	Frequency: 1
+NER: aswellasgrowth	Frequency: 1
+NER: recentresearchindicatesthatPOPsimpacttheendocrinesystem	Frequency: 1
+NER: immunesystem	Frequency: 1
+NER: andscientistswarntoexpectsurprises	Frequency: 1
+NER: butitisclearthatcertainchangesflowfromthisshift(AMAP2002).OneresultisincreasedandmoreefficientPage132of154	Frequency: 1
+NER: dumpsitesatnow-abandoneddefenseradarstations	Frequency: 1
+NER: solidwastedumpsinsmallArcticcommunities	Frequency: 1
+NER: minetailings	Frequency: 1
+NER: andrunoffcanleachcontaminantsintogroundwater(AMAP2003).Globalwarmingmayhaveotherimpactsaswell	Frequency: 1
+NER: withtheHudsonBayregionparticularlyvulnerableduetohighratesofpermafrostmeltandalargedrainagebasin(AMAP2002).Mercurydepositioncouldalsoincrease(AMAP2002).ThemeltingofglaciersmayturnthemfromDDTsinksintonetsourcesofcontinuingDDTcontamination(AMAP2002).GlobalwarmingislikelytocausechangesinhumanbehaviorthatwillinfluencethelevelofcontaminantsintheArcticaswell.	Frequency: 1
+NER: warmingtemperatureswilllikelycontributetohumanpopulationsshiftsnorthward,whichwillinturntoleadtoincreasedlocalreleasesofcontaminantsclosertotheArctic(AMAP2003).Globalwarmingmayalsocausebiologicalresponsesthatcanincreasethethreatfromcontaminants,suchasreorganizationswithinthefoodchain(AMAP2003).Changesatlowertrophiclevelsofthefoodwebcouldhavesevereconsequencesforatop-levelpredatorlikethepolarbearforcontaminantsthatbiomagnify(AMAP2003).Biomagnificationisoftenexponentialsothatevenasmallincreaseincontaminationatbottomofthefoodchaincanhavealargeimpactonthetoplevel(AMAP2003).Aprominentexampleoflargescale	Frequency: 1
+NER: bottomupchangefromwarmingtemperatureswasprovidedbytheSurfaceHeatBudgetoftheArcticOcean(“SHEBA”)experiment(AMAP2003).WhenthesamplingdatawerecomparedtoSovietdatagathered20yearsearlier	Frequency: 1
+NER: promotingspeciesmoretypicaloffreshwaterecosystems(AMAP2003).Thelossofrelativelylargediatomscouldreducethesizeofherbivores	Frequency: 1
+NER: likemanytoppredatorsintheArctic	Frequency: 1
+NER: undergoaperiodoffastingforcedbytheirinabilitytohuntsealswhentheyareconfinedtolandbythemeltingoftheseaice(AMAP2003).Pregnantfemalesthatdenonlandmayundergofastsofaslongas8months(Derocheretal.2004).Theburningofstoredfatthroughmetabolismduringtimesoffastingresultsinreleaseofarchivedfat-solublecontaminants	Frequency: 1
+NER: anincreaseofcontaminantburdenintheremainingfatreservoir	Frequency: 1
+NER: globalwarmingandmeltingofseaiceisdecreasingthefeedingperiodandincreasingthefastingperiodforbearsinWesternHudsonBay(Derocheretal.2004;AMAP2003).Onecumulative	Frequency: 1
+NER: atatimewhentheanimalcanleastaffordit(AMAP2003).Polarbearpopulationsalsoutilizearangeofpreythatcanexplainregionalvariationincontaminantburdens(AMAP2003).Forexample,ChukchiandBeringSeabearsfeedmoreheavilyonPacificwalruswhicharelesscontaminatedthanringedsealsbecausetheyfeedatalowertrophiclevel	Frequency: 1
+NER: whereasbearsfromSvalbardfeedonmoreheavilycontaminatedseals(AMAP2003).Similarly	Frequency: 1
+NER: TheauthorssuggestthatspaceusestrategymaybethemostimportantdeterminantofvariationinPCBconcentrationintheBarentsSeaarea	Frequency: 1
+NER: RegulatoryMechanismsareInadequatetoAddressOtherThreatstoPolarBearsI.INTERNATIONALAGREEMENTONTHECONSERVATIONOFPOLARBEARSDeterminedtohaltthedeclineoftheworld’spolarbearpopulations	Frequency: 1
+NER: TheAgreementispoliticallysignificantasthefirsttimethesefivecircumpolarnationsreachedunanimousagreementonaframeworktoresolveacircumpolarissue(Stirling1998).Itisalsosignificantasanexampleofascientificallysoundmanagementschemeincorporatingbothdatacollectionandadaptivemanagement(Stirling1998).In1976,theUSSenateunanimouslygranteditsadviceandconsenttothePolarBearAgreement.22AllfivepartiesratifiedtheAgreementby1978.TheAgreementwasinitiallyinforceforfiveyears	Frequency: 1
+NER: butbecamepermanentuponagreementbythepartiesin1981.ArticleIIoftheAgreementrequireseachcountryto“takeappropriateactiontoprotecttheecosystemofwhichpolarbearsareapart	Frequency: 1
+NER: Althougheachpartymustenactimplementinglegislationwherenecessary	Frequency: 1
+NER: thePolarBearAgreementiswidelyregardedasanearlyexampleofagreatwildlifemanagementsuccessstory	Frequency: 1
+NER: FollowingthePolarBearAgreement	Frequency: 1
+NER: globalwarming	Frequency: 1
+NER: Rec.30,432(Sept.15,1976).Page135of154	Frequency: 1
+NER: includingglobalwarmingandtheimpactsofpollutants	Frequency: 1
+NER: subjecttocertainstatutoryexceptions.2316U.S.C.§1371.Takingisdefinedtoincludethe“harassment”ofmarinemammals.16U.S.C.§1362(13).“Harassment”includesanyactofpursuit	Frequency: 1
+NER: includingbutnotlimitedto	Frequency: 1
+NER: andareasofsimilarsignificance“fromtheadverseeffectsofman’saction;”(3)recognitionthatmarinemammals“affectthebalanceofmarineecosystemsinamannerthatisimportanttootheranimalsandanimalproducts”andthatmarinemammalsandtheirhabitatsshouldthereforebeprotectedandconserved;and(4)directingthattheprimaryobjectiveofmarinemammalmanagementistomaintain“thehealthandstabilityofthemarineecosystem	Frequency: 1
+NER: ”Id.§1361(2)-(6).CongressionalintenttoprotectmarinemammalhabitatisalsoreflectedinthedefinitionoftermssetoutinsectionoftheMMPA.Theterms“conservation”and“management”ofmarinemammalsarespecificallydefinedtoincludehabitatacquisitionandimprovement.16U.S.C.§1362(2).TheSecretariesofCommerceandtheInteriorhaveprimaryresponsibilityforimplementingtheMMPA.TheDepartmentofCommerce	Frequency: 1
+NER: Theremainingmarine23BecauseneitherofthetwoUnitedStatespopulationsofthepolarbeararecurrentlydesignatedas“depleted”(AnglissandLodge2004),NativesubsistencehuntingisallowedwithoutlimitationbytheMMPA.However	Frequency: 1
+NER: asnotedbelow	Frequency: 1
+NER: Section112oftheMMPAconfersgeneralrulemakingauthorityontheSecretaryoftheInteriorto“prescribesuchregulationsasarenecessaryandappropriatetocarryoutthepurposesof[theMMPA].”16U.S.C.§1382(a).UScitizenswhoengageinaspecifiedactivityotherthancommercialfishingwithinaspecifiedgeographicalregionmaypetitiontheSecretaryoftheInterior24toauthorizetheincidental	Frequency: 1
+NER: theirhabitat	Frequency: 1
+NER: andtheiravailabilityforsubsistenceuses,	Frequency: 1
+NER: Since1993,theoilandgasindustry(“Industry”)hassoughtincidentaltakeauthorityforbothpolarbearsandwalrusfromFWSforoilandgasdevelopmentactivitiesinAlaska	Frequency: 1
+NER: andmigrationpatterns(FWS1993,1995,2003).Inits1995HabitatConservationStrategyforPolarBearsinAlaska(“PolarBearStrategy”),theFWSidentifiedImportantHabitatAreas(“IHAs”)forpolarbears	Frequency: 1
+NER: includingrecurringleadsandpolynyas	Frequency: 1
+NER: thedesignationoftheseIHAshasprovidedlittleornorealprotectiontopolarbearsortheiressentialhabitat	Frequency: 1
+NER: theFWSalsoincludedaVillageCommunicationPlan	Frequency: 1
+NER: andstatementontheimportanceoftheArcticRefugetopolarbearmaternitydenning(includingthepositionthatanyCongressionalactiontoopentheRefugetooilandgasdevelopmentmaynecessitateareviewofcompliancewiththePolarBearAgreement),andaproposaltocoordinateinternationalcooperativeconservationefforts(FWS1995).Page137of154	Frequency: 1
+NER: thereisnocertaintythatalldenswithinanareatobeimpactedbydevelopmentactivitieswillbelocated(FWS2003).Therearenumerousotherreasonswhythisregulatorystructurehasbeeninsufficienttoprotectpolarbears	Frequency: 1
+NER: OneexampleofhowandwhythisissoistheFWSresponsetotheUSMarineMammalCommission’scommentsontheFWS’smostrecentruleauthorizingincidentaltakeofmarinemammalsassociatedwithongoingoilandgasdevelopmentinAlaskaandtheBeaufortSea	Frequency: 1
+NER: butoccurringoutsidethegeographicrangeof	Frequency: 1
+NER: Inthefinalruleauthorizingtakeofpolarbears	Frequency: 1
+NER: thecommentsfromtheMarineMammalCommission),andthereforepromulgatedregulationsinsufficientlyprotectiveofpolarbears	Frequency: 1
+NER: ThedraftReport	Frequency: 1
+NER: aswellastheecosystemofwhichpolarbearsareapart.”(FWS1997:20).Inreachingthisconclusion	Frequency: 1
+NER: theReportrecognizesthatboththeincidentaltakeregimeandthe1993HabitatConservationStrategyareinadequatetocomplywiththeaffirmativemandateoftheAgreement(FWS1997:18)26	Frequency: 1
+NER: itisclearthatcurrentpolarbearhabitatandecosystemprotectionsareinadequatetoprotectpolarbears	Frequency: 1
+NER: Duetotheshortcomingsofexistingregulatorymechanisms	Frequency: 1
+NER: varietyorgeographicallyorgeneticallydistinctpopulationofanimal	Frequency: 1
+NER: andAboriginaltraditionalknowledge	Frequency: 1
+NER: timelinesforaction;(4)withinninemonthsofreceivingtheassessment	Frequency: 1
+NER: SARAwouldstillbeinadequatetoprotectallpolarbearpopulationsforanumberofreasons	Frequency: 1
+NER: SARAprovidesprotectiononlytospeciesinCanada	Frequency: 1
+NER: SARAdoesnotprotectpolarbearpopulationsoutsideofCanada	Frequency: 1
+NER: Over30yearsofexperiencewiththelistedendangeredorthreatenedspeciesorofalistedextirpatedspeciesifarecoverystrategyhasrecommendeditsreintroduction(SARAArt.32and33;SARARegistry2005).SARAalsoprovidesforthepreparationofaRecoveryStrategyforSchedule1species	Frequency: 1
+NER: aswellasanActionPlantoimplementRecoveryStrategiesforextirpated	Frequency: 1
+NER: andManagementPlanforspeciesofspecialconcern(SARARegistry2005).SARAalsoprovidesfortheprotectionofthehabitatnecessaryforthesurvivalandrecoveryoflistedspecies	Frequency: 1
+NER: termed“criticalhabitat”(SARAArts.56-64;SARARegistry2005).28SARAdoesprovideforpublicinvolvementinthelistingprocess	Frequency: 1
+NER: FriendsoftheEarthv	Frequency: 1
+NER: ConsolidatedRailCorp	Frequency: 1
+NER: SARAdoesnotprovideaneffectivemechanismforcombatingglobalwarming	Frequency: 1
+NER: ItshouldalsobenotedthatthecriteriaforlistingunderSARA	Frequency: 1
+NER: setforthinTable19,aredifferentthanthecriteriaforlistingundertheEndangeredSpeciesAct	Frequency: 1
+NER: ThelistingcriteriausedbyCOSEWICarebasedontheIUCN(2001)RedListassessmentcriteria	Frequency: 1
+NER: Table19	Frequency: 1
+NER: AdaptedfromSARARegistry2005.ENDANGEREDTHREATENEDA.DECLININGTOTALPOPULATION	Frequency: 1
+NER: whicheverislonger	Frequency: 1
+NER: Populationwithaveryrestrictedareaofoccupancyornumberoflocationssuchthatispronetotheeffectsofhumanactivitiesorstochasticeventswithinaveryshorttimeperiodinanuncertainfuture	Frequency: 1
+NER: themanufacture	Frequency: 1
+NER: severaltreatiesnowregulatesomePOPsaswell	Frequency: 1
+NER: includingthenotorious“dirtydozen”whichincludesPCBs	Frequency: 1
+NER: andtoxaphene	Frequency: 1
+NER: TheConventiononLong	Frequency: 1
+NER: TheU.S.andJapanaremajorsourcesofdioxinsandfurans(AMAP2002).Hexachlorobenzeneconcentrationsinthearcticareunexplained	Frequency: 1
+NER: manycomponentsofoilandgasdevelopmentsuchasroads	Frequency: 1
+NER: gravelmines	Frequency: 1
+NER: Whilethepolarbearcountrieshavevariouslawsandregulationsgoverningoilandgasdevelopment	Frequency: 1
+NER: whiletheUS	Frequency: 1
+NER: andNorwayallhaverulesrequiringpublicdisclosureandanalysisofimpactstotheenvironmentincludingPage143of154	Frequency: 1
+NER: Considerationofcumulativeimpactsiscriticallyimportantandwillbecomeevenmoresoasglobalwarmingandotherimpactstothepolarbearadvance	Frequency: 1
+NER: LiteratureCitedACIA.2004a	Frequency: 1
+NER: CambridgeUniversityPress	Frequency: 2
+NER: X.Dai	Frequency: 4
+NER: D.J.Griggs	Frequency: 4
+NER: B.Hweitson	Frequency: 1
+NER: J.T.Houghton	Frequency: 1
+NER: I.Isaksen	Frequency: 1
+NER: M.McFarland	Frequency: 1
+NER: V.P.Meleshko	Frequency: 1
+NER: M.Oppenheimer	Frequency: 1
+NER: J.E.Penner	Frequency: 1
+NER: S.Pollonais	Frequency: 1
+NER: ContributionofWorkingGroupItotheThirdAssessmentReportoftheIntergovernmentalPanelonClimateChange[Houghton	Frequency: 3
+NER: K.Maskell	Frequency: 3
+NER: USA.881pp	Frequency: 3
+NER: Availableathttp://www.ipcc.ch/.AMAP.2002.ArcticPollution2002.ArcticMonitoringandAssessmentProgramme(AMAP),Oslo	Frequency: 1
+NER: Norway.xii+112pp	Frequency: 1
+NER: andfromtheArctic	Frequency: 1
+NER: ArcticMonitoringandAssessmentProgramme(AMAP),Oslo	Frequency: 2
+NER: Norway.xi+65pp	Frequency: 1
+NER: Availableathttp://www.amap.no/.AMAP.2004.AMAPAssessment2002	Frequency: 1
+NER: Norway.xvi+310pp	Frequency: 1
+NER: S.C.1993.HumandisturbancesofdenningpolarbearsinAlaska	Frequency: 1
+NER: Arctic46(3):246-250.Amstrup	Frequency: 1
+NER: TheNaturalHistoryofanArcticOilField[Truett,J.C.andS.R.Johnson(eds.)].AcademicPress	Frequency: 1
+NER: SanDiego	Frequency: 1
+NER: Amstrup	Frequency: 1
+NER: P.EReynolds	Frequency: 1
+NER: BiologicalScienceReportUSGS	Frequency: 1
+NER: G.A.,B.C.Thompson	Frequency: 1
+NER: andJ.A.Chapman(eds.)].TheJohnsHopkinsUniversityPress	Frequency: 1
+NER: -679.Andresen	Frequency: 1
+NER: R.P.andK.L.Lodge.2004.AlaskaMarineMammalStockAssessments,2003.UnitedStatesDepartmentofCommerce	Frequency: 1
+NER: Anisimov	Frequency: 1
+NER: O.,B.Fitzharris	Frequency: 1
+NER: J.O.Hagen	Frequency: 1
+NER: R.Jefferies	Frequency: 1
+NER: F.Nelson	Frequency: 1
+NER: ClimateChange2001	Frequency: 4
+NER: J.J.,Canziani	Frequency: 2
+NER: Leary,N.A.,Dokken	Frequency: 1
+NER: D.J.,White	Frequency: 2
+NER: K.S.(eds)].CambridgeUniversityPress	Frequency: 2
+NER: USA.Availableathttp://www.ipcc.ch/.Baede	Frequency: 1
+NER: A.P.M.,E.Ahlonsou	Frequency: 1
+NER: Availableathttp://www.ipcc.ch/.Baur	Frequency: 1
+NER: D.C.1996.ReconcilingpolarbearprotectionunderUnitedStateslawsandtheInternationalAgreementfortheConservationofPolarBears.2AnimalLaw9.Belikov	Frequency: 1
+NER: Ursus10:119-127.Belikov	Frequency: 1
+NER: S.E.,A.N.Boltunov	Frequency: 1
+NER: N.G.Ovsianikov	Frequency: 1
+NER: Proceedingsofthe13thWorkingMeetingoftheIUCN	Frequency: 7
+NER: Greenland[Lunn	Frequency: 6
+NER: ScottandBorn	Frequency: 6
+NER: SwitzerlandandCambridge	Frequency: 4
+NER: Availableathttp://pbsg.npolar.no/.Best	Frequency: 1
+NER: CanadianJournalofZoology63:1033-36.Blix	Frequency: 1
+NER: A.S.andJ.W.Lentfer.1979.Modesofthermalprotectioninpolarbearcubs	Frequency: 1
+NER: R67-74.Born	Frequency: 1
+NER: SwitzerlandandCampbridge	Frequency: 6
+NER: Availableathttp://pbsg.npolar.no/.Braathen	Frequency: 1
+NER: M.,A.E.Derocher,Ø.Wiig	Frequency: 1
+NER: E.G.Sørmo	Frequency: 2
+NER: E.Lie	Frequency: 3
+NER: J.U.Skaare	Frequency: 2
+NER: R.K.andE.S.Richardson.2002.ObservationsofpolarbearpredatorybehaviourtowardCaribou	Frequency: 1
+NER: Arctic55:193-196.Page146of154	Frequency: 1
+NER: D.2003.Polarbear-humaninteractionsinCanadiannationalparks,1986-2000.Ursus14(1):65	Frequency: 1
+NER: J.C.2005.ImpactStudiesofa2°GlobalWarmingontheArcticSeaIceCover	Frequency: 1
+NER: Pp.43	Frequency: 1
+NER: Availableathttp://www.panda.org/about_wwf/where_we_work/arctic/index.cfm	Frequency: 3
+NER: A.E.,N.J.Lunn	Frequency: 1
+NER: ItegratedComparativeBiology44:163	Frequency: 1
+NER: OilInIceReport.pdf	Frequency: 1
+NER: Durner,G.M.,S.C.Amstrup	Frequency: 1
+NER: U.S.GeologicalSurvey	Frequency: 1
+NER: EnergyInformationAdministration(“EIA”).2004.InternationalEnergyOutlook2004.EnergyInformationAdministration	Frequency: 1
+NER: U.S.DepartmentofEnergy	Frequency: 1
+NER: PolarBear	Frequency: 1
+NER: speciesDetails_e.cfm?SpeciesID=167.DownloadedonJanuary10,2004.Ferguson	Frequency: 1
+NER: Reg.60402-60412.(November16,1993).FWS.1995.HabitatConservationStrategyforPolarBearsinAlaska	Frequency: 1
+NER: ChangeinfindingsoftheM’ClintockChannelPopulationandrevisionofregulationsin50CFR18.30.66Fed	Frequency: 1
+NER: Reg.1901-1907.(January10,2001).FWS.2003.Marinemammals;incidentaltakeduringspecifiedactivities;finalrule.68Fed	Frequency: 1
+NER: Reg.66744-66761.(November28,2003).FWS.2004a	Frequency: 1
+NER: Lettersofauthorizationtotakemarinemammals.69Fed	Frequency: 2
+NER: Reg.39499.(June30,2004).FWS.2004b	Frequency: 1
+NER: GAO-04	Frequency: 1
+NER: PreliminaryObservationsontheAdministration’sFebruary2002ClimateInitiative	Frequency: 1
+NER: GAO-04-131T	Frequency: 1
+NER: October1,2003.USGeneralAccountingOffice	Frequency: 1
+NER: Gaston	Frequency: 1
+NER: inNortheastSaskatchewan	Frequency: 1
+NER: TheCanadianField-Naturalist117(4):648-649.Gough	Frequency: 1
+NER: W.A.,A.R.Cornwell	Frequency: 1
+NER: Iqualuit	Frequency: 1
+NER: January7,2005.http://www.gov.nu.ca/Nunavut/English/news/2005/jan/.DownloadedonJanuary24,2005.Page148of154	Frequency: 1
+NER: Availableathttp://www.geus.dk	Frequency: 1
+NER: NewExploration	Frequency: 1
+NER: Availableathttp://www.bmp.gl	Frequency: 2
+NER: PressRelease	Frequency: 1
+NER: ExplorationforOilandGasinWestGreenland	Frequency: 1
+NER: Harwood	Frequency: 1
+NER: asassessedthroughaharvest-basedsamplingprogram	Frequency: 1
+NER: Arctic53:422-431.Holdren	Frequency: 1
+NER: PolicyHistory	Frequency: 1
+NER: May,2003.Availableathttp://stephenschneider.stanford.edu/Publications/	Frequency: 1
+NER: Holst	Frequency: 1
+NER: TheInstituteforPublicPolicyResearch	Frequency: 1
+NER: Availableathttp://www.ipcc.ch/.IPCC.2001b	Frequency: 1
+NER: O.F.,Leary	Frequency: 1
+NER: N.A.,Dokken	Frequency: 1
+NER: Availableathttp://www.ipcc.ch/.IPCC.2001c	Frequency: 1
+NER: Availableathttp://www.ipcc.ch/.Page149of154	Frequency: 1
+NER: DownloadedonFebruary8,2005.Jessen	Frequency: 1
+NER: Norway.207pp	Frequency: 1
+NER: Lentfer	Frequency: 2
+NER: seaicerelationships.Pp.165	Frequency: 1
+NER: J.W.(Convener).1990.WorkshoponMeasurestoAssessandMitigatetheAdverseEffectsofArcticOilandGasActivitiesonPolarBears	Frequency: 1
+NER: U.S.DepartmentofCommerceNationalTechnicalInformationService	Frequency: 1
+NER: E.,H.J.S.Larsen	Frequency: 1
+NER: andJ.U.Skaare.2004.Doeshighorganochlorine(OC)exposureimpairtheresistancetoinfectioninpolarbears(Ursusmaritimus)?PartI	Frequency: 1
+NER: N.J.,M.Taylor	Frequency: 1
+NER: W.Calvert	Frequency: 2
+NER: I.Stirling	Frequency: 2
+NER: M.Obbard	Frequency: 2
+NER: C.Elliott	Frequency: 2
+NER: G.Lamontagne	Frequency: 1
+NER: D.Clark	Frequency: 2
+NER: E.Bowden	Frequency: 1
+NER: SandBorn	Frequency: 1
+NER: M.Branigan	Frequency: 1
+NER: J.Nagy	Frequency: 1
+NER: R.Otto	Frequency: 1
+NER: ImagesofNature	Frequency: 2
+NER: Page150of154	Frequency: 1
+NER: Availableathttp://www.mmc.gov	Frequency: 1
+NER: USA.1526pp	Frequency: 1
+NER: cproject	Frequency: 2
+NER: beaufortsale	Frequency: 2
+NER: Nakićenović	Frequency: 1
+NER: N.,J.Alcamo	Frequency: 1
+NER: G.Davis	Frequency: 1
+NER: B.deVries	Frequency: 1
+NER: J.Fenham,S.Gaffin	Frequency: 1
+NER: K.Gregory	Frequency: 1
+NER: T.Y.Jung	Frequency: 1
+NER: K.Raihi,A.Roehrl	Frequency: 1
+NER: H-H.Rogner	Frequency: 1
+NER: M.Schlesigner	Frequency: 1
+NER: P.Shukla	Frequency: 1
+NER: S.Smith	Frequency: 1
+NER: R.Swart	Frequency: 1
+NER: N.Victor	Frequency: 1
+NER: CambridgeUniversityPress,Cambridge	Frequency: 1
+NER: Norris	Frequency: 1
+NER: S.,L.Rosentrater	Frequency: 1
+NER: Switzerland.27pp	Frequency: 1
+NER: Availableathttp://www.panda.org/downloads	Frequency: 1
+NER: NorwegianPolarInstitute.2003.PolarBearsonThinIce?Websiteathttp://npiweb.npolar.no/.DownloadedonJanuary12,2005.NorwegianPolarInstitute.2005.TheNorwegian-RussianPolarBearPopulationNumbers3000Animals	Frequency: 1
+NER: A.E.Derocher	Frequency: 3
+NER: andB.M.Jenssen.2003.SpaceUseStrategyisanImportantDeterminantofPCBConcentrationsinFemalePolarBearsintheBarentsSea	Frequency: 1
+NER: S.Larsen	Frequency: 1
+NER: PartA,67:959-977.Page151of154	Frequency: 1
+NER: E.W.Born	Frequency: 1
+NER: F.Messier	Frequency: 1
+NER: P.Gloersen	Frequency: 1
+NER: H.Zwally	Frequency: 1
+NER: Causesof	Frequency: 1
+NER: EncyclopediaofBiodiversity[Levin	Frequency: 1
+NER: S.A.,(ed.)].AcademicPress	Frequency: 1
+NER: USA.Rosentrater	Frequency: 1
+NER: Rothrock	Frequency: 1
+NER: andG.A.Maykut.1999.ThinningoftheArcticsea	Frequency: 1
+NER: T.J.Evans	Frequency: 1
+NER: S.B.Kalxdorff	Frequency: 1
+NER: M.C.,J.E.Walsh	Frequency: 1
+NER: M.Dyurgerov	Frequency: 1
+NER: V.Romanovsky	Frequency: 1
+NER: A.Bernhoft,A.E.Derocher	Frequency: 1
+NER: R.Norstrom	Frequency: 1
+NER: D.M.1998.RecentincreaseinthelengthofthemeltseasonofperennialArcticseaice	Frequency: 1
+NER: GeophysicalResearchLetters25:655-8.SpeciesatRisk.2005.PolarBear	Frequency: 1
+NER: GovernmentofCanada	Frequency: 2
+NER: D.A.,T.Aina,C.Christensen	Frequency: 1
+NER: S.Knight	Frequency: 1
+NER: A.Martin	Frequency: 1
+NER: C.Piani	Frequency: 1
+NER: D.Sexton	Frequency: 1
+NER: L.A.Smith	Frequency: 1
+NER: R.A.Spicer	Frequency: 1
+NER: SynthesisofEffectsofOilonMarineMammals[Geraci	Frequency: 1
+NER: J.R.andD.J.St	Frequency: 2
+NER: Aubin(eds.)]AcademicPress	Frequency: 2
+NER: Stirling	Frequency: 4
+NER: I.1990.Polarbearsandoil	Frequency: 1
+NER: iceedges	Frequency: 1
+NER: andleadstomarinemammalsandbirds	Frequency: 1
+NER: AnnArbor	Frequency: 2
+NER: I.2002.PolarbearsandsealsintheEasternBeaufortSeaandAmundsenGulf	Frequency: 1
+NER: Arctic46(3):240-245.Stirling	Frequency: 1
+NER: Pp.167-181In	Frequency: 1
+NER: UnitedKingdom	Frequency: 1
+NER: COSEWICAssessmentandUpdateStatusReportonthePolarBearUrsusmaritimusinCanada	Frequency: 1
+NER: D.Andriashek	Frequency: 1
+NER: I.andN.A.Øritsland.1995.RelationshipsbetweenestimatesofringedsealandpolarbearpopulationsintheCanadianArctic	Frequency: 1
+NER: CanadianJournalofFisheriesandAquaticSciences52:2594-2612.Stirling	Frequency: 1
+NER: andM.R.Allen.2004.HumancontributiontotheEuropeanheatwaveof2003.Nature432:610-613.Suckling	Frequency: 1
+NER: K.andM.Taylor	Frequency: 1
+NER: Tynan,C.T.andD.P.Demaster.1997.ObservationsandpredictionsofArcticclimaticchange:	Frequency: 1
+NER: Availableathttp://www.ucsusa.org/global_environment/	Frequency: 3
+NER: SurveyofU.S.FishandWildlifeServiceEcologicalServiceEmployees	Frequency: 1
+NER: UnitedNationsFrameworkConventiononClimateChange	Frequency: 1
+NER: B.2004.Toxicpolarbears	Frequency: 1
+NER: WWFArcticBulletin3.04:6.Availableathttp://www.panda.org	Frequency: 1
+NER: Walton	Frequency: 1
+NER: M1-17.Williams	Frequency: 1
+NER: April30,2003.Websiteathttp://www.wwf.org.uk/News	Frequency: 1
+NER: Severalbooksandlongerreportsarenotincludedonthecompactdisk	Frequency: 1
+NER: butpresumablyarealreadyintheposessionofFWS.Thereferencesnotincludedareasfollows	Frequency: 1
+NER: FWS.1995.HabitatConservationStrategyforPolarBearsinAlaska	Frequency: 1
+NER: CONNECTICUT	Frequency: 1
+NER: AMERICAN ELECTRIC POWER : COMPANY, INC.	Frequency: 2
+NER: SPACE INSTITUTE	Frequency: 1
+NER: LORETTA A. PRESKA	Frequency: 1
+NER: Constitution	Frequency: 2
+NER: Legislature	Frequency: 1
+NER: Judiciary	Frequency: 3
+NER: U.S. Const	Frequency: 1
+NER: Baker	Frequency: 3
+NER: Carr	Frequency: 3
+NER: Nixon	Frequency: 2
+NER: Riese Org.	Frequency: 1
+NER: Desiderio v. National Ass’n	Frequency: 1
+NER: Secs	Frequency: 1
+NER: F.3d	Frequency: 2
+NER: Jaghory	Frequency: 1
+NER: Framers	Frequency: 1
+NER: the “State Plaintiffs	Frequency: 1
+NER: the Open Space Institute, Inc.	Frequency: 1
+NER: OSI	Frequency: 1
+NER: the Open Space Conservancy, Inc.	Frequency: 1
+NER: the Audubon Society of New Hampshire	Frequency: 1
+NER: American Electric Power Company, Inc.	Frequency: 1
+NER: American Electric Power Service Corporation	Frequency: 1
+NER: the Southern Company	Frequency: 1
+NER: Southern	Frequency: 1
+NER: Tennessee Valley Authority	Frequency: 1
+NER: TVA	Frequency: 3
+NER: Xcel Energy Inc.	Frequency: 1
+NER: Cinergy Corporation	Frequency: 1
+NER: Cinergy	Frequency: 4
+NER: the State Plaintiffs	Frequency: 1
+NER: the Private Plaintiffs	Frequency: 2
+NER: The State Plaintiffs	Frequency: 1
+NER: OSI Compl	Frequency: 13
+NER: State Compl	Frequency: 6
+NER: 09/19/05	Frequency: 11
+NER: State Plaintiffs	Frequency: 2
+NER: .74	Frequency: 1
+NER: the United States Environmental Protection Agency	Frequency: 1
+NER: EPA	Frequency: 7
+NER: Private Plaintiffs	Frequency: 1
+NER: American	Frequency: 1
+NER: Congress	Frequency: 16
+NER: The Global Climate Protection Act	Frequency: 1
+NER: P.L. 100-204	Frequency: 1
+NER: Title XI	Frequency: 1
+NER: the Executive Branch	Frequency: 1
+NER: See National Climate Program Act	Frequency: 1
+NER: the Energy Security Act, Pub	Frequency: 1
+NER: the Office of Science and Technology Policy	Frequency: 1
+NER: the National Academy of Sciences	Frequency: 1
+NER: the Energy Security Act	Frequency: 1
+NER: the Global Climate Protection Act	Frequency: 2
+NER: State	Frequency: 6
+NER: the Global Change Research Act	Frequency: 1
+NER: XXIV	Frequency: 1
+NER: George H. W. Bush	Frequency: 1
+NER: Senate	Frequency: 2
+NER: Kyoto Protocol	Frequency: 1
+NER: William Jefferson Clinton	Frequency: 1
+NER: S. Res	Frequency: 1
+NER: 105th Cong	Frequency: 1
+NER: the Clean Air Act	Frequency: 1
+NER: Control of Emissions	Frequency: 1
+NER: New Highway Vehicles	Frequency: 1
+NER: Engines	Frequency: 1
+NER: George W. Bush	Frequency: 1
+NER: Bush	Frequency: 1
+NER: Unions for Jobs	Frequency: 1
+NER: the Association of the Bar of the City of New York	Frequency: 1
+NER: Court	Frequency: 12
+NER: the Memorandum of Law in Support of Defendants’ Motions	Frequency: 1
+NER: the Memorandum of Law in Support of Tennessee Valley Authority	Frequency: 1
+NER: Federal Discretionary Function Grounds	Frequency: 1
+NER: the Court of §	Frequency: 1
+NER: Defendants Southern	Frequency: 1
+NER: Xcel	Frequency: 1
+NER: TVA Memo	Frequency: 1
+NER: the Federal Rules of Civil Procedure	Frequency: 1
+NER: Belden	Frequency: 1
+NER: Makarova	Frequency: 2
+NER: Malik v. Meissner	Frequency: 1
+NER: See Steel Co.	Frequency: 1
+NER: spring[s	Frequency: 1
+NER: Mansfield, C. & L.M.R. Co.	Frequency: 1
+NER: Swan	Frequency: 1
+NER: Schlesinger	Frequency: 1
+NER: Reservists Committee	Frequency: 1
+NER: 196The	Frequency: 1
+NER: jurisdiction.6 Defendants	Frequency: 1
+NER: Plaintiffs	Frequency: 3
+NER: AEP	Frequency: 1
+NER: 11:11.8 Defendants	Frequency: 1
+NER: the Supreme Court	Frequency: 3
+NER: multifariou	Frequency: 1
+NER: Vieth	Frequency: 2
+NER: Jubelirer	Frequency: 1
+NER: Tennessee Copper Co.	Frequency: 1
+NER: State of New York v.	Frequency: 1
+NER: Shore Realty Corp.	Frequency: 1
+NER: 2d Cir	Frequency: 1
+NER: Chevron U.S.A., Inc.	Frequency: 1
+NER: Council, Inc.	Frequency: 1
+NER: Defendants	Frequency: 1
+NER: New England Legal Foundation	Frequency: 1
+NER: Costle	Frequency: 1
+NER: Unavoidably	Frequency: 1
+NER: Executive	Frequency: 1
+NER: DOE	Frequency: 1
+NER: Frankfurter	Frequency: 1
+NER: Felix Frankfurter	Frequency: 1
+NER: Reflections on the Reading of Statutes	Frequency: 1
+NER: Pla intiffs’	Frequency: 1
+NER: pendi ng motion s	Frequency: 1
+NER: Plaint iffs’	Frequency: 2
+NER: Plaintif	Frequency: 1
+NER: TH	Frequency: 1
+NER: DIST RICT CO	Frequency: 1
+NER: GREENPEA	Frequency: 1
+NER: C.	Frequency: 1
+NER: CIT	Frequency: 1
+NER: COLORADO	Frequency: 1
+NER: CI TY OF ARCATA	Frequency: 1
+NER: CALI	Frequency: 2
+NER: CI TY	Frequency: 1
+NER: OAKLAN	Frequency: 1
+NER: Plaintiff s	Frequency: 1
+NER: PETER WA TSON	Frequency: 1
+NER: ERRILL	Frequency: 1
+NER: Defe ndants	Frequency: 2
+NER: Peter Watson	Frequency: 1
+NER: OPIC	Frequency: 4
+NER: Pete r Merrill	Frequency: 1
+NER: Bank of the United States	Frequency: 1
+NER: Defenda	Frequency: 1
+NER: motion.1 FACTUAL BACKGROUND Plaintiffs	Frequency: 1
+NER: the National Environmental Policy Act	Frequency: 1
+NER: NEPA	Frequency: 2
+NER: the Administrative Procedure Act	Frequency: 1
+NER: APA	Frequency: 2
+NER: insuranc e	Frequency: 1
+NER: cts	Frequency: 3
+NER: curre	Frequency: 1
+NER: ncy inconver tibility	Frequency: 1
+NER: gua	Frequency: 1
+NER: Ex-Im	Frequency: 3
+NER: g	Frequency: 4
+NER: bara O’Boy le	Frequency: 1
+NER: U	Frequency: 1
+NER: ser vices	Frequency: 1
+NER: guara ntee	Frequency: 1
+NER: i nsuranc	Frequency: 1
+NER: purc hase g oods or	Frequency: 1
+NER: Unit ed States ’	Frequency: 1
+NER: chang es	Frequency: 1
+NER: alle ge	Frequency: 1
+NER: nvironme	Frequency: 1
+NER: ntal impac t resultin g	Frequency: 1
+NER: th e NEPA	Frequency: 1
+NER: de clarato ry	Frequency: 1
+NER: injunc	Frequency: 1
+NER: ecludes	Frequency: 1
+NER: the moving pa rty	Frequency: 1
+NER: R. Civ	Frequency: 2
+NER: dispos e of	Frequency: 1
+NER: fac	Frequency: 1
+NER: Celotex C orp	Frequency: 1
+NER: Cat trett	Frequency: 1
+NER: su mmary	Frequency: 1
+NER: jud gment	Frequency: 1
+NER: the co urt ma y	Frequency: 1
+NER: Freeman	Frequency: 3
+NER: Arpaio	Frequency: 1
+NER: Celotex	Frequency: 2
+NER: pa rty	Frequency: 1
+NER: reasona ble	Frequency: 1
+NER: Keenan	Frequency: 1
+NER: F.	Frequency: 2
+NER: Richards	Frequency: 1
+NER: co urt	Frequency: 1
+NER: rch	Frequency: 1
+NER: B. Plaintiffs	Frequency: 1
+NER: Pl aintiffs ’ alleg ed injurie s rega rding th e implica	Frequency: 1
+NER: chang	Frequency: 1
+NER: Article II	Frequency: 1
+NER: Friends of the Earth, Inc.	Frequency: 1
+NER: Laidlaw Envtl	Frequency: 1
+NER: Inc.	Frequency: 1
+NER: Lujan	Frequency: 1
+NER: De	Frequency: 1
+NER: vio	Frequency: 1
+NER: Defende rs	Frequency: 4
+NER: gover nment ag	Frequency: 1
+NER: See Citizens for Better Fo	Frequency: 1
+NER: Howeve	Frequency: 1
+NER: Douglas Cou nty	Frequency: 1
+NER: Wil dlife	Frequency: 1
+NER: Ecologic al Rights Foundation v.	Frequency: 1
+NER: Pacific Lumber Co.	Frequency: 1
+NER: Demonstrate An Injury In Fact	Frequency: 1
+NER: Cantrell	Frequency: 1
+NER: Agric	Frequency: 1
+NER: mi ght	Frequency: 1
+NER: o verlooke	Frequency: 1
+NER: Salmon River Concerned Citizens	Frequency: 1
+NER: Robertson	Frequency: 1
+NER: proba ble	Frequency: 1
+NER: Citize	Frequency: 1
+NER: Bett	Frequency: 1
+NER: Ci ty	Frequency: 1
+NER: Sausa lito	Frequency: 1
+NER: nhouse	Frequency: 1
+NER: OPIC a nd Ex-I m	Frequency: 1
+NER: Declara	Frequency: 1
+NER: Michael C. MacCracken	Frequency: 1
+NER: Mac Cracken Decl	Frequency: 1
+NER: Center for Biological Diversity	Frequency: 2
+NER: Abraham	Frequency: 1
+NER: F. Supp	Frequency: 1
+NER: 1155	Frequency: 1
+NER: N.D. Cal	Frequency: 1
+NER: reg	Frequency: 1
+NER: the Ninth Circuit	Frequency: 1
+NER: Citizens for Better Forestry	Frequency: 2
+NER: erns	Frequency: 1
+NER: OPIC a nd Ex-I	Frequency: 2
+NER: dir ectly	Frequency: 1
+NER: indire	Frequency: 1
+NER: Richard Heede	Frequency: 1
+NER: Pla intiff’s	Frequency: 1
+NER: evidenc e	Frequency: 1
+NER: green house	Frequency: 1
+NER: fac tor	Frequency: 1
+NER: conse quent wid esprea	Frequency: 1
+NER: MacCrac ken Decl.	Frequency: 1
+NER: Phillip Dustan	Frequency: 1
+NER: Brian Jeffrey Johnson	Frequency: 1
+NER: Mark Andre	Frequency: 1
+NER: Carol D. Ellinghouse	Frequency: 1
+NER: inf erence	Frequency: 2
+NER: Th e Court	Frequency: 1
+NER: Plainti	Frequency: 1
+NER: suffi	Frequency: 1
+NER: projec ts	Frequency: 1
+NER: aten Plai ntiffs’ c oncrete	Frequency: 1
+NER: Redressability	Frequency: 1
+NER: challeng	Frequency: 1
+NER: Citizens for Better Fo	Frequency: 1
+NER: Idaho Conservation League	Frequency: 2
+NER: Dep’t of Transp	Frequency: 1
+NER: ncy	Frequency: 2
+NER: c ompany	Frequency: 1
+NER: bui	Frequency: 1
+NER: the asser ted injury	Frequency: 1
+NER: tandi ng	Frequency: 1
+NER: the Ex-Im’s	Frequency: 1
+NER: OPI C	Frequency: 1
+NER: stateme nts	Frequency: 1
+NER: credibi lity determin ations	Frequency: 1
+NER: OPI C. (Boyle De c.	Frequency: 1
+NER: Harvey Himberg	Frequency: 1
+NER: Himbe rg Dec l.”	Frequency: 1
+NER: rgue	Frequency: 1
+NER: lar ge	Frequency: 1
+NER: ene	Frequency: 1
+NER: P laintiffs s	Frequency: 1
+NER: exa mple	Frequency: 1
+NER: sta ted th	Frequency: 1
+NER: f orwa	Frequency: 1
+NER: Tab	Frequency: 1
+NER: whe n	Frequency: 1
+NER: 10.)4 Defendants	Frequency: 1
+NER: ny authority	Frequency: 1
+NER: ced stan dard	Frequency: 1
+NER: arding causati	Frequency: 1
+NER: p rocedur al	Frequency: 1
+NER: Plaint iffs hav e suffic	Frequency: 1
+NER: agenc y’s	Frequency: 1
+NER: stu	Frequency: 1
+NER: Plaintiffsseekreviewofanagency’sconductunderthegeneralreviewprovisionsoftheAPA,ratherthanpursuanttospecificauthorizationinthesubstantivestatute,suchasNEPA	Frequency: 1
+NER: Plaintiffsmustdemonstratetheagencyactiontheyarechallengingwasa“finalagencyaction	Frequency: 1
+NER: JSWDocument117Filed08/23/05Page8of13UnitedStatesDistrictCourtFortheNorthernDistrictofCalifornia123456789101112131415161718192021222324252627289landsanddevelopinglanduseplans	Frequency: 1
+NER: TheCourtlikenedtheplaintiff’sclaimtooneattemptingtochallengea“‘weaponsprocurementprogram’oftheDepartmentofDefenseora‘druginterdictionprogram’oftheDrugEnforcementAgency	Frequency: 1
+NER: interalia	Frequency: 1
+NER: Id.at2380.TheCourtconcludedthattheplaintiffwasimproperlyseekingtocompelcompliancewithbroadstatutorymandates	Frequency: 1
+NER: PlaintiffspointtoevidencedemonstratingthatbothEx-ImandOPIC:(1)evaluatedwhethertheprojectstheysupportcontributetotheproductionofgreenhousegasesandclimatechange;(2)conductedtheseevaluationsbasedontheaggregateportfoliosofprojectstheysupport	Frequency: 1
+NER: JSWDocument117Filed08/23/05Page9of13UnitedStatesDistrictCourtFortheNorthernDistrictofCalifornia1234567891011121314151617181920212223242526272810significantenvironmentalimpact.(Ex	Frequency: 1
+NER: Tab1;Plaintiffs’Ex.3.)NeitherEx-ImnorOPICconductedenvironmentalassessmentsinmakingthesedeterminations	Frequency: 1
+NER: AstheSupremeCourtitselfnotedinNationalWildlifeFederation	Frequency: 1
+NER: butrather	Frequency: 1
+NER: theCourtdeniesDefendants’motionforsummaryjudgmentonthisbasis	Frequency: 1
+NER: DefendantscontendthattheplainlanguageofOPIC’sorganicstatuterevealsthatCongressintendedtoshieldOPICfromjudicialreviewofcompliancewithvariousstatutoryobligations	Frequency: 1
+NER: Inc.v	Frequency: 1
+NER: ThestatutoryprovisionsprecludingjudicialreviewinSpencerEnterprisesandSouthwestWilliamsonCountyareclearanddirect	Frequency: 1
+NER: Incontrast	Frequency: 1
+NER: theNinthCircuithasheldthatNEPAdidnotapplytoactionstakenpursuanttootherenvironmentalstatutes	Frequency: 1
+NER: Thomas,807F.2d776(9thCir.1986);DouglasCountyv	Frequency: 1
+NER: CongresscomprehensivelyamendedFIFRA	Frequency: 1
+NER: Atthistime	Frequency: 1
+NER: butinstead	Frequency: 1
+NER: Id.at778.CongressthenamendedFIFRAagainin1975,1978and1984whenitwasclearthatEPAhadinterpretedFIFRAasnotrequiringcompliancewithNEPA.Thecourtnotedthat“whenCongressrevisitsastatutegivingrisetoalongstandingadministrativeinterpretationwithoutpertinentchange	Frequency: 1
+NER: thecourtheldthatCongressdidnotintendNEPAtoapplytoFIFRAregistrations	Frequency: 1
+NER: Id.at1503.TheMerrellcourtfoundthattheprocedurescreatedbyCongressinESAdisplacedNEPA’sproceduralandinformationalrequirementsandthus	Frequency: 1
+NER: TheMerrellCourtalsofounditsignificantthatCongressamendedESAagain,afteranothercircuitcourtheldthatNEPAdidnotapplywhentheSecretaryoftheInteriorlistedaspeciesasthreatenedorendangeredandsuggestedindictathattheprocessofdesignatingcriticalhabitatmightbethefunctionalequivalentofNEPAprocedures	Frequency: 1
+NER: ThecourtalsofoundthatNEPAdidnotapplyforanadditionalreason-designatingcriticalhabitatdoesnothingtoalterthenaturalCase3:02-cv-04106-JSWDocument117Filed08/23/05Page12of13UnitedStatesDistrictCourtFortheNorthernDistrictofCalifornia1234567891011121314151617181920212223242526272813physicalenvironment	Frequency: 1
+NER: ConspicuouslyabsentfromtherecordisanyevidencethatCongressamendedOPIC’sstatuteafterOPICinterpreteditsstatutetodisplaceNEPA.Defendants’onlyevidenceevincinganyCongressionalintentonthisissueisadiscussionregardingthedeletionofareferencetoNEPA	Frequency: 1
+NER: butthisdiscussionoccurredatthetimewhenthestatutewasnotyetapplicabletoOPIC.(Defendants’Ex.4h.)Basedonthisrecord	Frequency: 1

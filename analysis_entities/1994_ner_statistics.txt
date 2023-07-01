@@ -1,0 +1,477 @@
+NER: F. Supp	Frequency: 25
+NER: LEXIS 18736	Frequency: 2
+NER: al ., Plaintiffs	Frequency: 1
+NER: JAMES LYONS	Frequency: 2
+NER: Ag	Frequency: 1
+NER: Defendan ts	Frequency: 1
+NER: Defendant-Intervenors	Frequency: 1
+NER: NATIVE FOREST COUNCIL	Frequency: 1
+NER: BABBITT	Frequency: 1
+NER: THE SIERRA CLUB	Frequency: 1
+NER: Plaintiff	Frequency: 1
+NER: MICHAEL ESPY	Frequency: 1
+NER: C92-479WD	Frequency: 5
+NER: LEXIS 18669	Frequency: 1
+NER: PROCEDURAL	Frequency: 2
+NER: Interior	Frequency: 10
+NER: associ ation	Frequency: 1
+NER: FSEIS	Frequency: 62
+NER: ROD	Frequency: 65
+NER: the Unit ed States	Frequency: 1
+NER: federa	Frequency: 2
+NER: affirmativ e. None	Frequency: 1
+NER: summar	Frequency: 1
+NER: CORE	Frequency: 1
+NER: LEXISNEXIS®	Frequency: 1
+NER: Cabinet	Frequency: 2
+NER: cer	Frequency: 1
+NER: The Federal Advisory Committee Act	Frequency: 2
+NER: U.S.C.S.	Frequency: 2
+NER: obt aining advice	Frequency: 1
+NER: U.S.C.S. App 2	Frequency: 1
+NER: FA CA	Frequency: 1
+NER: HN8 Congress's	Frequency: 2
+NER: the Endangered Species Act	Frequency: 7
+NER: bitat	Frequency: 1
+NER: eed	Frequency: 1
+NER: Headnote Energy & Utilities Law >	Frequency: 1
+NER: The United States Court of Appeals	Frequency: 2
+NER: California Rail	Frequency: 1
+NER: Coos Bay Wagon Road Lands Act	Frequency: 1
+NER: Bureau of Land Management	Frequency: 3
+NER: Act	Frequency: 2
+NER: The Federal Land Policy and Management Act	Frequency: 1
+NER: U.S.C.S. § 1702(j	Frequency: 1
+NER: U.S.C.S. § 475	Frequency: 1
+NER: Congress	Frequency: 8
+NER: the National Forest Management Act	Frequency: 3
+NER: the Ninth Circuit	Frequency: 6
+NER: Forest	Frequency: 2
+NER: EIS	Frequency: 25
+NER: proba	Frequency: 1
+NER: di sclose	Frequency: 1
+NER: the United States Forest Service	Frequency: 2
+NER: HN24 Agencies	Frequency: 1
+NER: the National Environmental Policy Act	Frequency: 3
+NER: al ternative	Frequency: 1
+NER: The Council on Environmental Quality's	Frequency: 1
+NER: CEQ	Frequency: 9
+NER: the requiremen ts of the National Environmental Policy Act	Frequency: 1
+NER: The National Environmental Policy Act	Frequency: 2
+NER: NEPA	Frequency: 31
+NER: incomp	Frequency: 1
+NER: the pla n. The National Environmental Policy Act	Frequency: 1
+NER: William L. Dwyer	Frequency: 3
+NER: OPINION	Frequency: 1
+NER: FOREST	Frequency: 1
+NER: the Secretaries of Ag	Frequency: 1
+NER: twen ty	Frequency: 1
+NER: Moseley	Frequency: 11
+NER: W.D. Wa	Frequency: 3
+NER: Espy	Frequency: 7
+NER: Lujan	Frequency: 6
+NER: D.	Frequency: 4
+NER: Babbitt	Frequency: 5
+NER: the Bureau of Land Management	Frequency: 2
+NER: statutor y	Frequency: 1
+NER: S eattle Audubon Society	Frequency: 1
+NER: SAS	Frequency: 8
+NER: the Northwest Forest Resource Council	Frequency: 1
+NER: Northwest Forest Resource Council	Frequency: 4
+NER: Thomas	Frequency: 10
+NER: Northwest Forest Resource Council v. Dombeck	Frequency: 2
+NER: Di	Frequency: 1
+NER: Columbia	Frequency: 1
+NER: Dombeck	Frequency: 7
+NER: Fed	Frequency: 7
+NER: R. Civ	Frequency: 1
+NER: the Forest Service	Frequency: 13
+NER: BLM	Frequency: 36
+NER: Forest Service	Frequency: 7
+NER: Evans	Frequency: 6
+NER: aff'd	Frequency: 2
+NER: FWS	Frequency: 7
+NER: ESA	Frequency: 18
+NER: Congress enacte d	Frequency: 1
+NER: section 318	Frequency: 1
+NER: ISC	Frequency: 2
+NER: log spotte	Frequency: 1
+NER: injunc	Frequency: 1
+NER: the Forest Service's	Frequency: 1
+NER: NFMA	Frequency: 16
+NER: the Forest Servi	Frequency: 1
+NER: managi ng	Frequency: 2
+NER: 1494	Frequency: 1
+NER: Portland Audubon	Frequency: 3
+NER: De	Frequency: 1
+NER: the Interior and Related Agencies Appropriation Act	Frequency: 1
+NER: Order on Defendants'	Frequency: 1
+NER: adopte d	Frequency: 1
+NER: va	Frequency: 1
+NER: The Multiple-Use Sustained-Yiel d Act	Frequency: 1
+NER: MUSY	Frequency: 6
+NER: cts the Forest Service	Frequency: 1
+NER: the National Forests	Frequency: 1
+NER: California Railroad	Frequency: 1
+NER: Coos Bay	Frequency: 1
+NER: the Federal Land Policy and Management Act	Frequency: 2
+NER: FLPMA	Frequency: 6
+NER: contributi ng	Frequency: 1
+NER: 1701(a)(7	Frequency: 1
+NER: 1712(c	Frequency: 2
+NER: the Na tional Environmental Policy Act	Frequency: 1
+NER: Federal	Frequency: 1
+NER: The Council on Environmental Quality	Frequency: 1
+NER: The Forest Service	Frequency: 3
+NER: li	Frequency: 1
+NER: the Clean Water Act	Frequency: 1
+NER: CWA	Frequency: 1
+NER: Port land	Frequency: 1
+NER: Cabi	Frequency: 1
+NER: Native	Frequency: 1
+NER: American	Frequency: 1
+NER: The Forest Ecosystem Management Assessment Team	Frequency: 1
+NER: wa	Frequency: 2
+NER: FEMAT	Frequency: 13
+NER: Jack Ward Thomas	Frequency: 1
+NER: delinea tion of areas	Frequency: 1
+NER: late su ccessional old	Frequency: 1
+NER: LSOG	Frequency: 8
+NER: rese rves	Frequency: 1
+NER: LS	Frequency: 1
+NER: OG	Frequency: 1
+NER: National Park Serv	Frequency: 1
+NER: National Marine Fisheries Service	Frequency: 2
+NER: Environmental Protection Agency	Frequency: 1
+NER: tal EIS	Frequency: 1
+NER: FE MAT	Frequency: 2
+NER: a Draft Supplemental Environmental Impact Statement on Management of Habitat	Frequency: 1
+NER: DSEIS	Frequency: 2
+NER: pe riod	Frequency: 1
+NER: The Departments of Agricu	Frequency: 1
+NER: concer	Frequency: 1
+NER: 9992	Frequency: 1
+NER: Alternativ	Frequency: 2
+NER: admi nistered	Frequency: 1
+NER: the National Park Service	Frequency: 1
+NER: Adaptive	Frequency: 1
+NER: The Fish & Wildlife Service	Frequency: 1
+NER: monitori ng	Frequency: 1
+NER: opportuniti es	Frequency: 1
+NER: bei ng	Frequency: 1
+NER: Interagency Steering Committee	Frequency: 1
+NER: the Secret ary of the Interior	Frequency: 1
+NER: EPA	Frequency: 5
+NER: the White House Office on Environmental Policy	Frequency: 1
+NER: a Regional Interagency Executive Co mmittee	Frequency: 1
+NER: the Fo rest Service	Frequency: 2
+NER: Bureau of Indian Affairs	Frequency: 1
+NER: boundari es	Frequency: 1
+NER: Research and Monitoring Committee	Frequency: 1
+NER: ROD SAS	Frequency: 1
+NER: James Lyons	Frequency: 1
+NER: Agriculture	Frequency: 1
+NER: th e Forest Service	Frequency: 1
+NER: APA	Frequency: 2
+NER: Washington Envi ronmental Council	Frequency: 1
+NER: Pilchuck Audubon Society	Frequency: 1
+NER: National Audubon Society	Frequency: 1
+NER: Portland Audubon Soci	Frequency: 1
+NER: Wilderness Society	Frequency: 1
+NER: Klamath Forest Alliance	Frequency: 1
+NER: Northc	Frequency: 1
+NER: Environmental Center	Frequency: 1
+NER: P acific Rivers Council	Frequency: 1
+NER: Western Ancient Forest Alliance	Frequency: 1
+NER: udubon Society	Frequency: 1
+NER: Oregon Natural Resources Council	Frequency: 4
+NER: The Sierra Club	Frequency: 1
+NER: su ed	Frequency: 1
+NER: Native Fo rest Council	Frequency: 1
+NER: Forest Conservation Council	Frequency: 1
+NER: 706(2	Frequency: 1
+NER: NFRC	Frequency: 1
+NER: Wash ington Contract Loggers Association	Frequency: 1
+NER: Burgess Logging Company, Inc.	Frequency: 1
+NER: Jackie Bryan Cox	Frequency: 1
+NER: Freres Lumber Company, Inc.	Frequency: 1
+NER: Norman V. Persons	Frequency: 1
+NER: Gregory A. Miller	Frequency: 1
+NER: N o. C92-479WD	Frequency: 1
+NER: declar	Frequency: 1
+NER: gional interagency executive committee	Frequency: 1
+NER: the Federal Advisory Committee Act	Frequency: 2
+NER: rulin g	Frequency: 1
+NER: jurisdictio n	Frequency: 1
+NER: WD	Frequency: 1
+NER: Additiona	Frequency: 1
+NER: uld	Frequency: 1
+NER: st anding	Frequency: 1
+NER: Resources Ltd.	Frequency: 5
+NER: Inc.	Frequency: 6
+NER: Robertson	Frequency: 3
+NER: Idaho Conservation League	Frequency: 3
+NER: Jamison	Frequency: 1
+NER: Friends of Endangered Species, Inc.	Frequency: 1
+NER: Jantzen	Frequency: 1
+NER: Ethyl Corp.	Frequency: 1
+NER: Citizens to Preserve Overton Park	Frequency: 1
+NER: Volpe	Frequency: 1
+NER: L. Ed	Frequency: 12
+NER: S. Ct	Frequency: 10
+NER: revi	Frequency: 1
+NER: Pacific Portland Cement Co.	Frequency: 1
+NER: Food Mach. & Chem. Corp.	Frequency: 1
+NER: il	Frequency: 1
+NER: C. Administrative Record	Frequency: 1
+NER: al ternatives	Frequency: 1
+NER: D. Declarations Outside Record HN3	Frequency: 1
+NER: Asarco	Frequency: 1
+NER: 1159	Frequency: 1
+NER: Animal Defense Counsel	Frequency: 1
+NER: Hodel	Frequency: 2
+NER: E. Adequacy of	Frequency: 1
+NER: di scretion	Frequency: 2
+NER: Glover	Frequency: 1
+NER: BIC Corp.	Frequency: 1
+NER: Allen Pen Co., Inc.	Frequency: 1
+NER: Springfield Photo Mount Co., Inc.	Frequency: 1
+NER: Nation-Wide Check Corp. Inc.	Frequency: 1
+NER: Forest Hills	Frequency: 1
+NER: Endangered Species Committee	Frequency: 2
+NER: Sears Savings Bank	Frequency: 1
+NER: Federal Savings	Frequency: 1
+NER: Friends of the Earth v. Hintz	Frequency: 1
+NER: Hurst	Frequency: 1
+NER: U.S. Postal Service	Frequency: 1
+NER: See National Wildlife Federation	Frequency: 1
+NER: Burford	Frequency: 1
+NER: U.S. Army Corps of Engineers	Frequency: 1
+NER: NFC	Frequency: 4
+NER: applie	Frequency: 1
+NER: meani	Frequency: 1
+NER: The District of Columbia c	Frequency: 1
+NER: FACA	Frequency: 4
+NER: Administration	Frequency: 1
+NER: Court	Frequency: 1
+NER: wrot	Frequency: 1
+NER: the Second Circuit	Frequency: 1
+NER: National Nutritional Foods Ass'n	Frequency: 1
+NER: Califano	Frequency: 1
+NER: pendi ng	Frequency: 1
+NER: Center for Auto Safety	Frequency: 1
+NER: Tiemann	Frequency: 1
+NER: the Administrative Procedure Act	Frequency: 1
+NER: Washington Legal Foundation v. Dept	Frequency: 1
+NER: Justice	Frequency: 2
+NER: Public Citizen v. Dept	Frequency: 1
+NER: Eleventh Circuit	Frequency: 1
+NER: distribut	Frequency: 1
+NER: National Nutritional	Frequency: 1
+NER: A. Authority	Frequency: 1
+NER: analy	Frequency: 1
+NER: Dilley	Frequency: 1
+NER: Alexander	Frequency: 1
+NER: standa	Frequency: 1
+NER: physi cal	Frequency: 1
+NER: ag	Frequency: 1
+NER: National Forest	Frequency: 1
+NER: 1604(a	Frequency: 1
+NER: Interi	Frequency: 1
+NER: Fe deral	Frequency: 1
+NER: the Fish and Wildlife Service	Frequency: 1
+NER: arbitraril y	Frequency: 1
+NER: pre-European	Frequency: 1
+NER: le vel	Frequency: 1
+NER: suppre	Frequency: 1
+NER: pa tterns	Frequency: 1
+NER: F-14-15	Frequency: 1
+NER: clai	Frequency: 1
+NER: the fe deral	Frequency: 1
+NER: ag encies	Frequency: 1
+NER: Mendoza	Frequency: 1
+NER: FCC	Frequency: 3
+NER: Save the West	Frequency: 3
+NER: the United States Court of Appeal s	Frequency: 1
+NER: the District of Columbia	Frequency: 1
+NER: Sweet Home	Frequency: 9
+NER: the United States Court of Appeals	Frequency: 1
+NER: Palila	Frequency: 3
+NER: Hawaii Dept	Frequency: 1
+NER: Land and Natural Resources	Frequency: 1
+NER: c onsistent	Frequency: 1
+NER: applicati	Frequency: 1
+NER: Service	Frequency: 1
+NER: the Court of Appeals	Frequency: 1
+NER: Inte	Frequency: 1
+NER: Court of Appeals	Frequency: 1
+NER: Hawaii Department of Land and Natural Resources	Frequency: 1
+NER: the United States Supreme Court	Frequency: 1
+NER: Ci rcuit	Frequency: 1
+NER: Johnson	Frequency: 1
+NER: U.S. R.R. Retirement Board	Frequency: 1
+NER: Samuel Estreicher	Frequency: 1
+NER: Richard L. Revesz	Frequency: 1
+NER: Fe deral Administrative Agencies	Frequency: 1
+NER: Yale L.J. 679	Frequency: 1
+NER: the Supreme Court	Frequency: 1
+NER: Supreme Court	Frequency: 1
+NER: C. O&CLA Lands NFRC	Frequency: 1
+NER: recr eational facilities	Frequency: 1
+NER: Headwaters, Inc.	Frequency: 3
+NER: manageme	Frequency: 1
+NER: Pyramid Lake Paiute Tribe of Indians v. Dept. of	Frequency: 1
+NER: Navy	Frequency: 1
+NER: Headwaters	Frequency: 1
+NER: Platte River	Frequency: 1
+NER: Crane Trust	Frequency: 1
+NER: Federal Energy Regulatory Commission	Frequency: 1
+NER: these la nds	Frequency: 1
+NER: FWS Biological Op	Frequency: 1
+NER: the O&C Lands Act's	Frequency: 1
+NER: the O&C Lands Act	Frequency: 1
+NER: wh ich	Frequency: 1
+NER: 1714(c	Frequency: 1
+NER: HN14 FLMPA	Frequency: 1
+NER: federal la nd	Frequency: 1
+NER: Sagebrush Rebellion, Inc.	Frequency: 1
+NER: Sagebrush Rebellion	Frequency: 1
+NER: E. Organic Administration Act NFRC	Frequency: 1
+NER: the Organic Administration Act	Frequency: 1
+NER: necessiti es	Frequency: 1
+NER: nationa	Frequency: 1
+NER: F. Viability Regulation	Frequency: 1
+NER: Secretar	Frequency: 2
+NER: ma intain	Frequency: 1
+NER: the prim ary	Frequency: 1
+NER: lawfu	Frequency: 1
+NER: criteri	Frequency: 1
+NER: BL M	Frequency: 1
+NER: the Multiple-Use Sustained-Yield Act	Frequency: 1
+NER: California Lands Act	Frequency: 1
+NER: the Secretarie s	Frequency: 1
+NER: habitat adequa te	Frequency: 1
+NER: 3&4-174	Frequency: 1
+NER: sa lamander	Frequency: 1
+NER: capri ciously	Frequency: 1
+NER: CHALLENGES A.	Frequency: 1
+NER: ninet een national forests	Frequency: 1
+NER: 25809	Frequency: 1
+NER: the FEMA T Report	Frequency: 1
+NER: SEIS	Frequency: 1
+NER: collecti	Frequency: 1
+NER: alternat	Frequency: 1
+NER: Fina	Frequency: 1
+NER: Fo rest Conference	Frequency: 1
+NER: Forest Plans	Frequency: 1
+NER: F-111	Frequency: 1
+NER: Mumma	Frequency: 2
+NER: B. NEPA	Frequency: 1
+NER: Northwest Coalition for Alterna	Frequency: 1
+NER: Lyng	Frequency: 1
+NER: Andrus	Frequency: 3
+NER: Western Oil and Gas Ass'n	Frequency: 1
+NER: Esty	Frequency: 1
+NER: C. NEPA	Frequency: 1
+NER: Environmental Defense Fund, Inc. v. Corps of Engineers	Frequency: 1
+NER: usua	Frequency: 1
+NER: Hoffman	Frequency: 1
+NER: Alterna	Frequency: 1
+NER: Nehmer	Frequency: 1
+NER: United States Veterans' Admin	Frequency: 1
+NER: N.D. Cal	Frequency: 1
+NER: George Frampton	Frequency: 1
+NER: Assi stant	Frequency: 1
+NER: Frampton	Frequency: 1
+NER: the Wilderness Society	Frequency: 1
+NER: Lead Industries Assn	Frequency: 1
+NER: ElS	Frequency: 10
+NER: Forest Se	Frequency: 1
+NER: FE MAT's	Frequency: 1
+NER: HN25 Courts	Frequency: 1
+NER: Inland Empire Public Lands Council	Frequency: 1
+NER: Schultz	Frequency: 1
+NER: Foundation	Frequency: 1
+NER: N. Am	Frequency: 1
+NER: United States Dept	Frequency: 1
+NER: E. NEPA	Frequency: 1
+NER: Range of Alternatives Considered NEPA	Frequency: 1
+NER: alternativ es	Frequency: 1
+NER: The Council on Environmental Quality NEPA	Frequency: 1
+NER: al	Frequency: 2
+NER: rele ase	Frequency: 1
+NER: the Interagency Scientific Committee's	Frequency: 1
+NER: the Environmental Impact Statements	Frequency: 1
+NER: Council on Environmental Quality	Frequency: 1
+NER: Chapter 2	Frequency: 1
+NER: FSEIS App	Frequency: 1
+NER: C. HN27	Frequency: 1
+NER: Sierra Club	Frequency: 2
+NER: See Defenders of Wildlife	Frequency: 1
+NER: D.C. 252	Frequency: 1
+NER: Kilroy	Frequency: 1
+NER: Ruckelshaus	Frequency: 1
+NER: discusse	Frequency: 1
+NER: Biological Opinion	Frequency: 1
+NER: Id. The	Frequency: 1
+NER: associat	Frequency: 1
+NER: sta nds	Frequency: 1
+NER: st rategies	Frequency: 1
+NER: habi	Frequency: 1
+NER: 3& 4-243	Frequency: 1
+NER: Secr	Frequency: 1
+NER: 3&4-234	Frequency: 1
+NER: Greenpeace Action	Frequency: 1
+NER: Franklin	Frequency: 2
+NER: G. NEPA	Frequency: 1
+NER: Aguatic Species	Frequency: 1
+NER: the Aquatic/Watershed Group	Frequency: 1
+NER: functi	Frequency: 1
+NER: ACS	Frequency: 6
+NER: The National Marine Fisheries Service	Frequency: 1
+NER: hab itat	Frequency: 1
+NER: See Northern Alaska Environmental Center	Frequency: 1
+NER: H. NEPA	Frequency: 1
+NER: Incomplete Information NFC	Frequency: 1
+NER: Save the West contend th	Frequency: 1
+NER: environmen tal effect	Frequency: 1
+NER: comprehe	Frequency: 1
+NER: Cumulative Impacts HN30 Agencies	Frequency: 1
+NER: BLM, Medford Dist	Frequency: 1
+NER: analy ze	Frequency: 1
+NER: nonf ederal land	Frequency: 1
+NER: ar ising	Frequency: 1
+NER: App	Frequency: 1
+NER: J3-1	Frequency: 1
+NER: J. NEPA	Frequency: 1
+NER: Commitment of Resources	Frequency: 1
+NER: 3&4-321	Frequency: 1
+NER: K. NEPA	Frequency: 1
+NER: Methow Valley Citizens Council	Frequency: 1
+NER: L. NEPA	Frequency: 1
+NER: Water Qua lity	Frequency: 1
+NER: Air Quality	Frequency: 1
+NER: Climate Change NFC	Frequency: 1
+NER: N. NEPA	Frequency: 2
+NER: ec	Frequency: 1
+NER: HN34	Frequency: 1
+NER: Johnston v. Davis	Frequency: 1
+NER: econom	Frequency: 1
+NER: tu	Frequency: 1
+NER: Sigler	Frequency: 1
+NER: The Final SEIS	Frequency: 1
+NER: ap proach	Frequency: 1
+NER: su bject	Frequency: 1
+NER: natu ral resource	Frequency: 1
+NER: HN35	Frequency: 1
+NER: O. NEPA	Frequency: 1
+NER: Alleged Deprivation of Public Comment	Frequency: 1
+NER: HN36	Frequency: 1
+NER: Marsh	Frequency: 1
+NER: Enos v. Marsh	Frequency: 1
+NER: NF RC's	Frequency: 1
+NER: the Equal Access to Justice Act	Frequency: 1
+NER: Arnold & Porter LLP	Frequency: 1
+NER: LexisNexis	Frequency: 2
+NER: Reed Elsevier Inc.	Frequency: 1
+NER: copyr	Frequency: 1

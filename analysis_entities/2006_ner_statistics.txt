@@ -1,0 +1,1485 @@
+NER: TXU Power	Frequency: 63
+NER: TXU Generation Company LP	Frequency: 2
+NER: Oak Grove Management Company LLC	Frequency: 2
+NER: TXU Corporation	Frequency: 1
+NER: DEC	Frequency: 1
+NER: A355	Frequency: 1
+NER: Clean Air Act	Frequency: 4
+NER: the "Act	Frequency: 1
+NER: VENUE 2	Frequency: 1
+NER: the Act	Frequency: 4
+NER: the Oak Grove Steam Electric Station	Frequency: 1
+NER: .C.	Frequency: 2
+NER: Plaintiffs	Frequency: 5
+NER: EPA	Frequency: 27
+NER: the Texas Commission on Environmental Quality	Frequency: 1
+NER: TCEQ	Frequency: 5
+NER: the Permit Application	Frequency: 8
+NER: the Oak Grove Plant	Frequency: 157
+NER: the Clean Air Act	Frequency: 19
+NER: Complaint	Frequency: 4
+NER: Plaintiff CleanCOALition	Frequency: 1
+NER: Our Land Our Lives	Frequency: 3
+NER: Texans	Frequency: 1
+NER: Bremond, Wheelock	Frequency: 1
+NER: Marquez	Frequency: 1
+NER: Calvert	Frequency: 1
+NER: the Immediate Impact Area	Frequency: 14
+NER: the Dallas/Fort Worth	Frequency: 1
+NER: the "Transport Impact Area	Frequency: 1
+NER: the Transport Impact Area	Frequency: 13
+NER: CleanCOALition	Frequency: 1
+NER: the D/FW	Frequency: 4
+NER: TXU Generation Company	Frequency: 1
+NER: OGMC	Frequency: 69
+NER: CT Corporation System	Frequency: 3
+NER: North St. Paul Street	Frequency: 3
+NER: Oak Grove Management Company, LLC	Frequency: 2
+NER: the "Air Application Revision	Frequency: 1
+NER: TXU	Frequency: 37
+NER: 45Power	Frequency: 1
+NER: the "Permit Application"	Frequency: 1
+NER: Defendant TXU Corporation	Frequency: 1
+NER: Act	Frequency: 7
+NER: National Ambient Air Quality Standards	Frequency: 1
+NER: NAAQS	Frequency: 13
+NER: 7410	Frequency: 2
+NER: a State Implementation Plan	Frequency: 1
+NER: the Prevention of Significant Deterioration of air quality	Frequency: 1
+NER: PSD	Frequency: 10
+NER: the Texas Administrative Code	Frequency: 1
+NER: FED	Frequency: 2
+NER: PSD Program	Frequency: 2
+NER: the Best Available Control Technology	Frequency: 1
+NER: the Act (b	Frequency: 1
+NER: the PSD Program	Frequency: 2
+NER: OCMG	Frequency: 1
+NER: 2 See	Frequency: 1
+NER: Title V	Frequency: 1
+NER: Texas Title V Operating Permit Program	Frequency: 1
+NER: the Texas Title V Operating Permit Program and Section	Frequency: 1
+NER: the Texas Title V Operating Permit Program and Section 504(a	Frequency: 1
+NER: Waco Division	Frequency: 1
+NER: GROVE	Frequency: 1
+NER: Best Available Control Technology Violations	Frequency: 1
+NER: Texas Health and Safety Code	Frequency: 36
+NER: TEX.	Frequency: 1
+NER: The Oak Grove Plant	Frequency: 1
+NER: TXU Power's	Frequency: 4
+NER: Texas Health and Safety Code Section 382.0518(b)(1	Frequency: 1
+NER: Integrated Gasification Combined Cycle	Frequency: 1
+NER: IGCC	Frequency: 6
+NER: BACTs	Frequency: 1
+NER: British Thermal Units	Frequency: 1
+NER: the Unit 1	Frequency: 1
+NER: Unstored Boiler Components	Frequency: 2
+NER: SCR	Frequency: 2
+NER: Permit Application	Frequency: 2
+NER: HCI	Frequency: 1
+NER: Oak Grove Plant	Frequency: 1
+NER: TEX	Frequency: 2
+NER: Air Permit Applications	Frequency: 1
+NER: Texas Commission	Frequency: 1
+NER: Last Used Control Technology	Frequency: 2
+NER: The New Source Review Workshop Manual	Frequency: 1
+NER: The Permit Application	Frequency: 1
+NER: Alcoa Rockdale Permit	Frequency: 1
+NER: Alcoa Rockdale	Frequency: 1
+NER: the Alcoa Rockdale Permit	Frequency: 1
+NER: U.S. District Court	Frequency: 1
+NER: Austin Division	Frequency: 1
+NER: EPA New Source Review Workshop Manual	Frequency: 1
+NER: No Tier II or Tier III	Frequency: 1
+NER: HC1	Frequency: 1
+NER: Mercury	Frequency: 1
+NER: Clean Air Mercury Rule	Frequency: 1
+NER: Texas Health & Safety Code	Frequency: 1
+NER: HHHH	Frequency: 1
+NER: 45OGMC	Frequency: 1
+NER: § 60.4110	Frequency: 1
+NER: the Central Texas Compact	Frequency: 1
+NER: PM1 0	Frequency: 1
+NER: Early Action Compact Areas with Deferred Effective Dates	Frequency: 1
+NER: 2004))9	Frequency: 1
+NER: Fed	Frequency: 5
+NER: Section 382.0515	Frequency: 15
+NER: chapter 382	Frequency: 7
+NER: the Texas Health and Safety Code	Frequency: 13
+NER: the Newer Boiler Components	Frequency: 1
+NER: the Unstored Boiler Components	Frequency: 1
+NER: Chapter 382	Frequency: 6
+NER: 116.111(a)(2)(D	Frequency: 2
+NER: 116.111(a)(2)(I	Frequency: 2
+NER: NSPS	Frequency: 1
+NER: Texas SIP Violations	Frequency: 1
+NER: TEx.	Frequency: 1
+NER: NSR	Frequency: 1
+NER: Section II(G	Frequency: 1
+NER: Defendants	Frequency: 4
+NER: the Permit Application, Plaintiffs	Frequency: 1
+NER: C. Order Defendants	Frequency: 1
+NER: D. Order Defendants	Frequency: 1
+NER: E. Declare	Frequency: 1
+NER: F. Assess	Frequency: 1
+NER: G. Award Plaintiffs	Frequency: 1
+NER: H. Grant Plaintiffs	Frequency: 1
+NER: Frederick W. Addison	Frequency: 2
+NER: LOCKE LIDDELL & SAPP LLP	Frequency: 1
+NER: Suite 2200	Frequency: 2
+NER: Stephen L. Johnson	Frequency: 2
+NER: Administrator U.S. Environmental Protection Agency	Frequency: 1
+NER: Ariel Rios Building	Frequency: 1
+NER: Pennsylvania Avenue	Frequency: 1
+NER: 20460 Richard Greene	Frequency: 1
+NER: Region 6 Administrator Environmental Protection Agency	Frequency: 1
+NER: Fountain Place 12th Floor, Suite	Frequency: 1
+NER: Executive	Frequency: 1
+NER: Texas Commission on Environmental Quality P.O. Box	Frequency: 1
+NER: WOE	Frequency: 1
+NER: the Judicial Conference of the United States	Frequency: 1
+NER: Texas 75201 Telephone	Frequency: 1
+NER: TXU Corporation County of	Frequency: 1
+NER: Residence of First Listed Defendant Dallas	Frequency: 1
+NER: BASIS OF JURISDICTION	Frequency: 1
+NER: CITIZENSHIP	Frequency: 1
+NER: U.S. Government Not a Party	Frequency: 1
+NER: State	Frequency: 33
+NER: Principal Place of Business In This	Frequency: 1
+NER: Principal Place of Business In	Frequency: 1
+NER: Marine	Frequency: 1
+NER: Recovery of Overpayment & Enforcement of Judgment	Frequency: 1
+NER: Recovery of Overpayment of Veteran's	Frequency: 1
+NER: Airplane Cl 362	Frequency: 1
+NER: Airplane Product Med.	Frequency: 1
+NER: Motor Vehicle Property Damage Product Liability	Frequency: 1
+NER: Food & Drug	Frequency: 1
+NER: USC	Frequency: 5
+NER: R.R. & Truck	Frequency: 1
+NER: Airline Regs	Frequency: 1
+NER: Occupational Safety/Health	Frequency: 1
+NER: State Reapportionment	Frequency: 1
+NER: Antitrust Cl 430 Banks and Banking	Frequency: 1
+NER: Commerce	Frequency: 1
+NER: Racketeer Influenced and Corrupt Organizations Cl 480 Consumer Credit 0 490 Cable/Sat TV	Frequency: 1
+NER: Selective Service	Frequency: 1
+NER: Securities/Conunodities/ Exchange	Frequency: 1
+NER: Customer Challenge	Frequency: 1
+NER: Environmental Matters	Frequency: 1
+NER: Freedom of Information	Frequency: 1
+NER: Constitutionality of State	Frequency: 1
+NER: Ret. Inc.	Frequency: 1
+NER: HIA	Frequency: 1
+NER: Black Lung	Frequency: 1
+NER: SSID	Frequency: 1
+NER: Rent Lease & Ejectment	Frequency: 1
+NER: Housing/ Accommodations 0 444	Frequency: 1
+NER: Mandamus & Other 0 550 Civil Rights	Frequency: 1
+NER: IRS	Frequency: 1
+NER: Third Party	Frequency: 1
+NER: State Court	Frequency: 1
+NER: Multidistrict Appellate Court	Frequency: 1
+NER: IFP	Frequency: 1
+NER: MAG	Frequency: 1
+NER: Auri - ba-P6-0	Frequency: 1
+NER: 9nan 1	Frequency: 1
+NER: DATEI	Frequency: 1
+NER: R Veise	Frequency: 1
+NER: Fitq	Frequency: 1
+NER: Julie Teel	Frequency: 2
+NER: P.O. Box	Frequency: 1
+NER: CA 92167	Frequency: 1
+NER: John Buse	Frequency: 2
+NER: 5656 S. Dorchester Ave	Frequency: 1
+NER: Chicago-IL 60637 Telephone	Frequency: 1
+NER: TY FE L	Frequency: 1
+NER: CITY COUNCIL OF	Frequency: 1
+NER: BENCH	Frequency: 4
+NER: LLC	Frequency: 4
+NER: California Envitonmental Quality	Frequency: 1
+NER: Petitioner Center for Biological Diversity	Frequency: 1
+NER: Respondents City of Banning	Frequency: 1
+NER: the city Council of the City of Banning	Frequency: 1
+NER: Black Bench	Frequency: 2
+NER: Project	Frequency: 128
+NER: Banning	Frequency: 2
+NER: Court	Frequency: 27
+NER: the California Environmental Quality Act	Frequency: 2
+NER: The Center	Frequency: 3
+NER: Code of Civil Procedure sections	Frequency: 1
+NER: the California Code of Civil Procedure	Frequency: 1
+NER: the Public Resources Code	Frequency: 1
+NER: Respondent City of Banning	Frequency: 1
+NER: Joshua Tree	Frequency: 1
+NER: the Center's Climate, Air	Frequency: 1
+NER: Energy Program	Frequency: 1
+NER: BANNING	Frequency: 2
+NER: CEQA	Frequency: 23
+NER: Real Party in Interest SCC/BLACK	Frequency: 1
+NER: Applicant	Frequency: 1
+NER: Real Parties in Interest	Frequency: 1
+NER: the San Bernardino National Forest	Frequency: 3
+NER: San Bernardino National Forest	Frequency: 3
+NER: Chaparral	Frequency: 1
+NER: the Circulation Element of the City's	Frequency: 1
+NER: General Plan	Frequency: 1
+NER: Tentative Tract Petition for Writ of Mandate	Frequency: 1
+NER: I7	Frequency: 1
+NER: M011	Frequency: 1
+NER: Mandate 4	Frequency: 1
+NER: the City Planning Commission	Frequency: 2
+NER: the City Council	Frequency: 9
+NER: the General Plan Amendment	Frequency: 1
+NER: MOU	Frequency: 2
+NER: Mitigation Monitoring and Reporting Program	Frequency: 1
+NER: Public Resources Code	Frequency: 1
+NER: section 21167.5	Frequency: 1
+NER: Public Resources	Frequency: 1
+NER: section 21167	Frequency: 1
+NER: section 15112	Frequency: 1
+NER: FIR	Frequency: 16
+NER: 2U	Frequency: 1
+NER: Air Quality	Frequency: 1
+NER: Z4	Frequency: 2
+NER: AQMP	Frequency: 1
+NER: PMio	Frequency: 1
+NER: PM2i	Frequency: 1
+NER: South Coast Air Quality Management District's	Frequency: 1
+NER: Bell	Frequency: 1
+NER: Sage Sparrow	Frequency: 1
+NER: Jackrabbit	Frequency: 1
+NER: General Plan FIR	Frequency: 1
+NER: the General Plan E[R	Frequency: 1
+NER: FAR	Frequency: 1
+NER: 1AR	Frequency: 1
+NER: CF.QA	Frequency: 1
+NER: CLQA	Frequency: 2
+NER: the South Coast Air Quality Management District's	Frequency: 2
+NER: BR	Frequency: 1
+NER: dc.troyed	Frequency: 1
+NER: SC 7-5	Frequency: 1
+NER: the California Department of Fish and Game	Frequency: 1
+NER: U.S. Fish and Wildlife Service	Frequency: 1
+NER: Regional Water Quality Control Board	Frequency: 1
+NER: the Western Riverside Multiple Species Habitat Conservation Plan	Frequency: 1
+NER: a Statement of Overriding Considerations	Frequency: 2
+NER: The Statement of Overriding Considerations	Frequency: 1
+NER: the Black Bench Specific Plan	Frequency: 2
+NER: the Final FIR	Frequency: 2
+NER: the Project; • Petition for Writ of Mandate 13	Frequency: 1
+NER: the Project 2	Frequency: 1
+NER: the Project until Respondents	Frequency: 1
+NER: the Planning and Zoning Law	Frequency: 1
+NER: the Code of Civil Procedure section 1021.5	Frequency: 1
+NER: JO	Frequency: 1
+NER: the Center for Biological Diversity	Frequency: 1
+NER: F. Supp	Frequency: 5
+NER: LEXIS 37904	Frequency: 2
+NER: ERC	Frequency: 2
+NER: OWENS CORNING CORPORATION	Frequency: 1
+NER: Northwest Envtl	Frequency: 1
+NER: Owens Corning Corp.	Frequency: 1
+NER: U.S. Dist	Frequency: 1
+NER: LEXIS 33791	Frequency: 1
+NER: D.	Frequency: 1
+NER: PROCEDURAL	Frequency: 2
+NER: a facil ity	Frequency: 1
+NER: § 165(a	Frequency: 1
+NER: la w.	Frequency: 1
+NER: CORE	Frequency: 2
+NER: penaltie s	Frequency: 1
+NER: fa	Frequency: 2
+NER: U.S.C.S.	Frequency: 1
+NER: pe	Frequency: 1
+NER: availa ble	Frequency: 1
+NER: indi vidual	Frequency: 1
+NER: Article II	Frequency: 1
+NER: Article III	Frequency: 3
+NER: juri sdiction	Frequency: 1
+NER: Demurrers	Frequency: 1
+NER: litigati	Frequency: 1
+NER: Congress	Frequency: 21
+NER: globa	Frequency: 1
+NER: the United States Supreme Court	Frequency: 1
+NER: concre te	Frequency: 1
+NER: the judi cial power	Frequency: 1
+NER: U.S.C.S. §	Frequency: 1
+NER: U.S.C.S. § 7413(b	Frequency: 1
+NER: U.S.C.S. § 7475(a	Frequency: 1
+NER: st ationary	Frequency: 1
+NER: preconstructi	Frequency: 1
+NER: U.S. Congress Governments > State & Territorial Governments > Legislatures	Frequency: 1
+NER: Melissa Ann Powers	Frequency: 2
+NER: Allison Michelle LaPlante	Frequency: 1
+NER: Lynne M. Paretchan	Frequency: 2
+NER: E. Lindley	Frequency: 1
+NER: Jeffrey C. Dobbins	Frequency: 2
+NER: Perkins Coie	Frequency: 2
+NER: LLP	Frequency: 2
+NER: Paul S. Lewandowski	Frequency: 2
+NER: Owens Corning Corporation	Frequency: 4
+NER: Northwest Environmental Defense Center	Frequency: 1
+NER: Oregon Center for Environmental Health	Frequency: 2
+NER: Sierra Club	Frequency: 6
+NER: Allison Michelle LaPlan te	Frequency: 1
+NER: Pacific Environmental Advocacy, Center	Frequency: 1
+NER: Thomas E. Lindley	Frequency: 1
+NER: John Jelderks	Frequency: 3
+NER: the Findings a nd Recommendation	Frequency: 1
+NER: Northwest Environmental Defense Cent er	Frequency: 1
+NER: Owens Corning	Frequency: 2
+NER: Section 165(a	Frequency: 1
+NER: violat ed	Frequency: 1
+NER: the Major New Source Review	Frequency: 1
+NER: the Oregon State Implementation Plan	Frequency: 1
+NER: Owens Corning 's	Frequency: 1
+NER: OAR	Frequency: 1
+NER: declarator y	Frequency: 1
+NER: Defendant	Frequency: 32
+NER: Gresham	Frequency: 11
+NER: hydrochlorofluorocarbon	Frequency: 1
+NER: chr onic	Frequency: 1
+NER: depl etion	Frequency: 1
+NER: the ea rth's	Frequency: 1
+NER: Defendant's	Frequency: 2
+NER: Defenda	Frequency: 2
+NER: Air Contaminant Discharge Permit	Frequency: 1
+NER: The Clean Air Act	Frequency: 2
+NER: bewilderi ng	Frequency: 1
+NER: Susan Mandib	Frequency: 1
+NER: erg & Susan Smith	Frequency: 1
+NER: CRIMES AGAINST THE ENVIRONMENT	Frequency: 1
+NER: Agency	Frequency: 2
+NER: ually	Frequency: 1
+NER: revi	Frequency: 2
+NER: availa ble control technology	Frequency: 1
+NER: the Oregon Department of Environmental Quality	Frequency: 1
+NER: sufficien	Frequency: 1
+NER: Dism iss	Frequency: 1
+NER: asse	Frequency: 1
+NER: Friends of the Earth, Inc.	Frequency: 1
+NER: Laidlaw Envtl	Frequency: 1
+NER: S. Ct	Frequency: 13
+NER: L. Ed	Frequency: 18
+NER: Hunt	Frequency: 1
+NER: Washington State Apple Adve rtising Comm'n	Frequency: 1
+NER: prudential li mitations	Frequency: 1
+NER: Warth	Frequency: 2
+NER: Seldin	Frequency: 1
+NER: Article III's	Frequency: 1
+NER: Wright	Frequency: 1
+NER: 737	Frequency: 1
+NER: 751	Frequency: 1
+NER: lative	Frequency: 2
+NER: Lujan	Frequency: 2
+NER: ju risdiction	Frequency: 1
+NER: the First Amended Complaint	Frequency: 1
+NER: Nat'l Wildlife Fed'n	Frequency: 2
+NER: Covington v.	Frequency: 1
+NER: F.3d	Frequency: 8
+NER: Hall v. Norton	Frequency: 1
+NER: cerned	Frequency: 1
+NER: Covington	Frequency: 4
+NER: Laidlaw	Frequency: 2
+NER: Central Delta Water Agency	Frequency: 1
+NER: Natural Resources Defense Council	Frequency: 2
+NER: Lone Star Chapter	Frequency: 2
+NER: Cedar Point Oil Co. Inc.	Frequency: 1
+NER: distincti	Frequency: 1
+NER: City of Davis v. Coleman	Frequency: 1
+NER: investigat	Frequency: 1
+NER: Societe de Conditionnement en Aluminium v. Hunter Engineering Co., Inc.	Frequency: 1
+NER: enti	Frequency: 1
+NER: the particip ation	Frequency: 1
+NER: NRDC	Frequency: 5
+NER: Congressional	Frequency: 2
+NER: Watson	Frequency: 1
+NER: the D.C. Circuit	Frequency: 1
+NER: st andards	Frequency: 1
+NER: Defenders of Wildlife	Frequency: 5
+NER: Citizens for Better Forestry v.	Frequency: 1
+NER: Cantrell v. City of Long Beac h	Frequency: 1
+NER: Citizens for Better Forestry	Frequency: 2
+NER: preconstr uction	Frequency: 1
+NER: satisfie	Frequency: 1
+NER: Salmon River Concerned Citizens	Frequency: 2
+NER: Robertson	Frequency: 2
+NER: fr om	Frequency: 3
+NER: Douglas Cty	Frequency: 1
+NER: Babbitt	Frequency: 3
+NER: FEC	Frequency: 2
+NER: the Endangered Species Act	Frequency: 4
+NER: ult	Frequency: 1
+NER: the U.S. Fish and Wildlife Service	Frequency: 2
+NER: ag encies	Frequency: 1
+NER: Ho wever	Frequency: 1
+NER: Interior	Frequency: 3
+NER: the Fish and Wildlife Service	Frequency: 1
+NER: American	Frequency: 8
+NER: concer	Frequency: 1
+NER: John Donne	Frequency: 1
+NER: Meditation XVII:	Frequency: 1
+NER: No Man Is an Island	Frequency: 1
+NER: Defe	Frequency: 3
+NER: operat es	Frequency: 1
+NER: Pl aintiffs' Complaint	Frequency: 1
+NER: Gould	Frequency: 1
+NER: illu strates	Frequency: 1
+NER: Yellowstone National Park	Frequency: 1
+NER: HN14	Frequency: 1
+NER: abst	Frequency: 1
+NER: Akins	Frequency: 3
+NER: Schlesinger	Frequency: 2
+NER: Reservists Committee	Frequency: 2
+NER: Constitution	Frequency: 2
+NER: the armed forces reserve	Frequency: 1
+NER: the Ex ecutive Branch	Frequency: 1
+NER: O'Shea	Frequency: 1
+NER: Littleton	Frequency: 1
+NER: Mo reover	Frequency: 1
+NER: Valley Forge Christian College v. Ameri	Frequency: 1
+NER: United for Separation of Church & State, Inc.	Frequency: 1
+NER: fa iled	Frequency: 1
+NER: Richardson	Frequency: 1
+NER: the intens ity of the	Frequency: 1
+NER: Valley Forge	Frequency: 2
+NER: foru ms	Frequency: 1
+NER: judici al	Frequency: 1
+NER: DaimlerChrysler Corp.	Frequency: 1
+NER: Cuno	Frequency: 1
+NER: the Supreme Court	Frequency: 1
+NER: monito rs	Frequency: 1
+NER: Plaint iffs	Frequency: 1
+NER: constituti onal law	Frequency: 1
+NER: defenda	Frequency: 1
+NER: Public Interest Research Group	Frequency: 1
+NER: Powell Duffryn Terminals Inc.	Frequency: 1
+NER: Cir	Frequency: 1
+NER: contri bute	Frequency: 1
+NER: ens	Frequency: 1
+NER: Southwest Marine	Frequency: 1
+NER: sta	Frequency: 1
+NER: constr	Frequency: 2
+NER: sa tisfied	Frequency: 1
+NER: Cf. Akins	Frequency: 1
+NER: exer	Frequency: 1
+NER: Parker v. Scrap Metal Processors, Inc.	Frequency: 1
+NER: Parker	Frequency: 2
+NER: the la w	Frequency: 1
+NER: See Friends of the Earth	Frequency: 1
+NER: Railway Express Agency	Frequency: 1
+NER: Inc.	Frequency: 2
+NER: ude	Frequency: 1
+NER: adjudica	Frequency: 1
+NER: c onstitutional	Frequency: 1
+NER: advanc ed by Plaintiffs	Frequency: 1
+NER: Plainti	Frequency: 1
+NER: li	Frequency: 1
+NER: Defenders of Wildlife v.	Frequency: 1
+NER: Ashley Creek Phosphate Co.	Frequency: 1
+NER: Norton	Frequency: 4
+NER: fe deral	Frequency: 1
+NER: authoriz	Frequency: 3
+NER: ial	Frequency: 1
+NER: Americans	Frequency: 1
+NER: FE C	Frequency: 1
+NER: invari	Frequency: 1
+NER: depriv	Frequency: 1
+NER: Oregonians	Frequency: 1
+NER: un	Frequency: 2
+NER: American Electric Power Co.	Frequency: 1
+NER: HN23 Enjoining	Frequency: 1
+NER: the First Amendment Complaint	Frequency: 1
+NER: dismi ss for	Frequency: 1
+NER: Defendant's Motion to Limit Civil Penalties	Frequency: 1
+NER: Pl aintiffs'	Frequency: 1
+NER: 7413(b	Frequency: 1
+NER: HN25	Frequency: 1
+NER: this pa rt.	Frequency: 1
+NER: di fficulty	Frequency: 1
+NER: ge	Frequency: 1
+NER: implica tion	Frequency: 1
+NER: manda ted	Frequency: 1
+NER: Niagara Mohawk Power Corp.	Frequency: 1
+NER: modifica	Frequency: 1
+NER: di smiss	Frequency: 1
+NER: fa ilure	Frequency: 1
+NER: Id. Niagara Mohawk	Frequency: 1
+NER: Illinois Power Co.	Frequency: 1
+NER: S. Ind. Gas and Elec	Frequency: 1
+NER: LEXIS 20936	Frequency: 1
+NER: Westvaco Corp.	Frequency: 1
+NER: F.	Frequency: 1
+NER: Government	Frequency: 1
+NER: Brotech Corp.	Frequency: 1
+NER: LEXIS 13859	Frequency: 1
+NER: E.D. Pa. 2000	Frequency: 1
+NER: Duke Energy Corp.	Frequency: 1
+NER: M.D.N.C. 2003	Frequency: 1
+NER: Grand Canyon Trust	Frequency: 1
+NER: Tucson Electric Power Co.	Frequency: 1
+NER: lim itations	Frequency: 1
+NER: civ il	Frequency: 1
+NER: construc ted the Gresham	Frequency: 1
+NER: liabili ty	Frequency: 1
+NER: liab	Frequency: 1
+NER: the pa rticular	Frequency: 1
+NER: Defendant if Plaintiffs	Frequency: 1
+NER: su fficient	Frequency: 1
+NER: Defendant's Motion to Strike First Claim Defendant	Frequency: 1
+NER: State Implementa tion Plan	Frequency: 1
+NER: F. Grad	Frequency: 1
+NER: Conse	Frequency: 1
+NER: restrictiv	Frequency: 1
+NER: Plaintiff	Frequency: 1
+NER: Ashoff v. City	Frequency: 1
+NER: Weiler v. Chatham Forest Products, Inc.	Frequency: 1
+NER: Arnold & Porter LLP	Frequency: 2
+NER: LexisNexis	Frequency: 4
+NER: Reed Elsevier Inc.	Frequency: 2
+NER: United States Court of Appeals	Frequency: 2
+NER: Mayo Foundation	Frequency: 1
+NER: Surface Transportation Board	Frequency: 4
+NER: Western * Transportation Board	Frequency: 1
+NER: Coal Traffic League	Frequency: 1
+NER: National Rural *Electric Cooperative Association	Frequency: 2
+NER: City of Wall	Frequency: 2
+NER: Greater *Huron Development Corporation	Frequency: 1
+NER: Hand Development *Corporation	Frequency: 1
+NER: South Dakota Chamber *of Commerce & Industry	Frequency: 1
+NER: Farmers *Union	Frequency: 2
+NER: Farmers Union	Frequency: 1
+NER: Urethane Soy Systems *-2-Company	Frequency: 1
+NER: OAHE Grain Corporation	Frequency: 2
+NER: South Dakota Association of *Cooperatives	Frequency: 1
+NER: Yale Farmers COOP	Frequency: 2
+NER: South Dakota Corn Growers *Association	Frequency: 1
+NER: South Dakota Farm *Bureau	Frequency: 1
+NER: Wheatgrowers *Association	Frequency: 1
+NER: North Central Farmers	Frequency: 1
+NER: Dakota AG COOP	Frequency: 1
+NER: Lake *Preston Cooperative Elevator	Frequency: 1
+NER: Dakotaland Feeds LLC	Frequency: 2
+NER: AGFirst *Farmers COOP	Frequency: 1
+NER: Sanborn	Frequency: 1
+NER: Minnesota Grain *& Feed Association	Frequency: 1
+NER: Minnesota Agri-Growth *Council	Frequency: 1
+NER: Rail, Inc.	Frequency: 2
+NER: Southern *Grainbelt Shippers Association	Frequency: 2
+NER: Farmers COOP Hanska	Frequency: 2
+NER: Harvest *Land Cooperative	Frequency: 2
+NER: Minnesota Farmers *Union	Frequency: 2
+NER: Minnesota Farm Bureau *Federation	Frequency: 1
+NER: Edison Electric Institute	Frequency: 2
+NER: National Rural * Electric Cooperative Association	Frequency: 1
+NER: Pierre	Frequency: 1
+NER: Greater Huron Development *Corporation	Frequency: 1
+NER: Hand *Development Corporation	Frequency: 1
+NER: South *Dakota Chamber of Commerce & *Industry	Frequency: 1
+NER: Farmers Union COOP	Frequency: 1
+NER: SD	Frequency: 1
+NER: Urethane Soy Systems Company	Frequency: 1
+NER: South *Dakota Association of Cooperatives	Frequency: 1
+NER: South Dakota Farmers Union	Frequency: 1
+NER: South Dakota Wheat Incorporated	Frequency: 1
+NER: Dakota Farm Bureau	Frequency: 1
+NER: Wheatgrowers Association	Frequency: 1
+NER: Dakota AG	Frequency: 1
+NER: COOP	Frequency: 1
+NER: Lake Preston Cooperative	Frequency: 1
+NER: AGFirst Farmers COOP	Frequency: 1
+NER: Minnesota Soybean Processors	Frequency: 1
+NER: Minnesota Grain & Feed Association	Frequency: 1
+NER: Midwest Shippers Association	Frequency: 1
+NER: Minnesota Agri-Growth Council	Frequency: 1
+NER: Winona County Farm Bureau	Frequency: 1
+NER: Winona *River and	Frequency: 1
+NER: MN Farm Bureau	Frequency: 1
+NER: Mid States Coalition for * Progress	Frequency: 1
+NER: RILEY, Circuit Judges	Frequency: 1
+NER: the Surface Transportation Board	Frequency: 1
+NER: Mid States Coalition for Progress v. Surface Transp	Frequency: 1
+NER: Minnesota & Eastern RailroadCorporation	Frequency: 1
+NER: Powder Ri ver Basin	Frequency: 1
+NER: Minneso	Frequency: 1
+NER: th e Board	Frequency: 1
+NER: the National Environmental Policy Act	Frequency: 5
+NER: NEPA	Frequency: 48
+NER: I. DM&E	Frequency: 1
+NER: fro m	Frequency: 1
+NER: Board	Frequency: 12
+NER: DEIS	Frequency: 1
+NER: FEIS	Frequency: 12
+NER: DSEIS	Frequency: 3
+NER: st atement	Frequency: 1
+NER: FSEIS	Frequency: 43
+NER: DM&E	Frequency: 4
+NER: The Board	Frequency: 1
+NER: lia	Frequency: 1
+NER: I&M Rail Link	Frequency: 1
+NER: Mi nnesota	Frequency: 1
+NER: The Administrative Procedure Act	Frequency: 1
+NER: anabuseofdiscretion	Frequency: 2
+NER: "5U.S.C.§706(2)(A).-8-InreviewingtheBoard'sdecision	Frequency: 1
+NER: NaturalRes	Frequency: 2
+NER: Council,Inc.	Frequency: 1
+NER: thatDM&E'sacquisitionofIMRLconstitutes"significantnewcircumstances"thatshouldgiverisetotheconsiderationofthisnewlineasanalternativetoroutingtrainsthroughRochester	Frequency: 1
+NER: STBFinanceDocketNo.33407at19,2006WL383507,at*14(STBservedFeb.15,2006)(hereafterSTB2006Decision).TheBoardisrequiredtoconsiderall"reasonable"alternatives	Frequency: 1
+NER: AswesaidinCityofRichfield	Frequency: 1
+NER: Minn.v	Frequency: 1
+NER: F.A.A.,152F.3d905,907(8thCir.1998),an"alternativeisunreasonableifitdoesnotfulfillthepurposeoftheproject	Frequency: 1
+NER: Inc.v	Frequency: 1
+NER: Busey,938F.2d190,195(D.C.Cir.1991),cert.denied,502U.S.994(1991).-9-EventhoughtheBoard'sdecisiondoesnotexplicitlystatethatitdidnotconsidertheIMRLalternativebecausethatrouteissimplyinconsistentwiththeproject'spurposes	Frequency: 1
+NER: MN;(2)I&MRailLinkatOwatonna	Frequency: 1
+NER: CPandI&MatWinona	Frequency: 1
+NER: STBFinanceDocketNo.33407,3S.T.B.847,900,1998WL869567,at*31(Dec.9,1998)(emphasisadded)(hereafterSTB1998Decision).RemovingtheabilitytoroutetrainsthroughRochester	Frequency: 1
+NER: totheconnectionpointatWinona	Frequency: 1
+NER: TheBoardalsodiscussedatlengthinits1998decisionthecompetitiveadvantagesofaPRBconnectionaddedtotheDM&Eline	Frequency: 1
+NER: moredirectrouteascomparedtoitswould-becompetitorstransportingPRBcoaltoeasternmarkets	Frequency: 1
+NER: Forexample	Frequency: 5
+NER: wefindadequatesupportintherecord	Frequency: 1
+NER: "STB1998Decisionat878,1998WL869567,at*17.TheBoardfurtherfoundthat"DM&E'sassertionthatitwouldgaina61%shareofthetonnageoftheUpperMidwestRailmarketisbasedonitsmileageadvantagetoplantsaccountingforamajorityofthetonnagesinthatmarket	Frequency: 1
+NER: wethinkthatDM&E'sargumentthatitwouldbecomethedominantrailcarrierofcoalintheUpperMidwestmarketissupportedonthepresentrecord	Frequency: 1
+NER: astheBoardpointsoutinitsbriefinthisappeal	Frequency: 1
+NER: theDM&EroutethroughRochester"wouldbeabout150milesshorterformovementstocertainkeyplantsinWisconsinthanacircuitousDM&E-IMRLroutethroughOwatonnathatPetitionerswouldhavetheBoardforceonDM&E."WithrespecttotheIMRLacquisition	Frequency: 1
+NER: improvedservicepatterns	Frequency: 1
+NER: ThesebeneficialeffectsforshippersprovideadditionalsupportforapprovaloftheDM&E	Frequency: 1
+NER: Minn.&EasternR.R.Corp.andCedarAm	Frequency: 1
+NER: RailHoldings	Frequency: 1
+NER: ControlIowa	Frequency: 1
+NER: andthisexamination	Frequency: 1
+NER: MidStates,345F.3dat536.Onremand	Frequency: 1
+NER: otherthantorequireDM&E'scommunityliaisonstoassistintheestablishmentofquietzonesuponrequestfromcommunitiesinterestedinestablishingthem.	Frequency: 1
+NER: RochesterandOlmstedCountyarguethattheBoardoverlyemphasizedthecostofhornnoisemitigationinitsdecisionnottoimposesuchconditions,andinappropriatelyfailedtoconsiderthecostofthemitigationmeasureswithinthecontextofthetotalcostoftheproject(aprojecttheBoardadmitsis"thelargestandmostchallengingrailconstructionproposalevertocomebeforethe[Board]").Dakota,Minn.&EasternR.R.Corp	Frequency: 1
+NER: Constr	Frequency: 1
+NER: IntothePowderRiverBasin	Frequency: 1
+NER: thetotalmitigationcosts	Frequency: 1
+NER: usingthemostconservativeestimates	Frequency: 1
+NER: wouldbe12.2%ofthetotalcostoftheproject	Frequency: 1
+NER: itisnotunusualformitigationtototal10to20percentofconstructioncosts,'"seeFSEISat12	Frequency: 1
+NER: Forallofthesereasons,[theSEA]doesnotbelieveitwouldbeappropriate	Frequency: 1
+NER: "FSEISat2	Frequency: 1
+NER: theFSEIS-14-statesthattheBoard"consultedinformallywithFRAtolearnhowthenumerouscommunitiesseekingtoestablishquietzonesunderFRA'sFinalRuleareplanningtofundthenecessarygradeimprovements	Frequency: 1
+NER: InMarshv	Frequency: 1
+NER: DefenseCouncil,Inc.	Frequency: 1
+NER: "BaltimoreGas,462U.S.at97-98;seealsoFriendsofBoundaryWatersWildernessv	Frequency: 1
+NER: TheBoard'sconclusionwithrespecttoanotherproposedmitigatingconditionforhornnoise	Frequency: 1
+NER: Initsbrief	Frequency: 1
+NER: OlmstedCountyarguesthatinthe"courseofrejectingtheconstructionofsoundwallsforlargercommunitiessuchasRochester	Frequency: 1
+NER: Thisone-size	Frequency: 1
+NER: isthatthediscussionofsoundwallsencompassednearlyfivepagesintheFSEIS	Frequency: 1
+NER: andmultipleconcernswereadvancedquestioningtheadvisabilityofsoundwallsingeneral,	Frequency: 1
+NER: notjustinRochester	Frequency: 1
+NER: traincrews	Frequency: 1
+NER: "DSEISat2-12n.22.WethusbelievetheBoard'srejectionofthesoundwallmitigatingcondition	Frequency: 1
+NER: couldbeexpectedduetotheavailabilityofashorter	Frequency: 1
+NER: weheldthattheBoardinappropriatelyapprovedtheDM&Econstructionproject"withoutfirstexaminingtheeffectsthatmayoccurasaresultofthereasonablyforeseeableincreaseincoalconsumption"expectedfromtheprojectduetotheavailabilityofcheaperandeasierdistributionofPRBcoal	Frequency: 1
+NER: WefoundtheFEIStobeinadequatebecauseitdidnotalsoincludeinformationonthepotentialincreaseinemissionsofotherpollutants	Frequency: 1
+NER: computer"programscouldbeusedtoforecasttheeffectsofthisprojectontheconsumptionofcoal	Frequency: 1
+NER: nitrogenoxides	Frequency: 1
+NER: Theseregulationsrequirethattheadverseeffectsbeaddressedinanenvironmentalimpactstatement	Frequency: 1
+NER: butalsowhethertheywouldotherwisenotburnPRBcoal	Frequency: 1
+NER: orburnadifferentmixofcoal	Frequency: 1
+NER: TheDSEIS	Frequency: 1
+NER: theFSEIS	Frequency: 1
+NER: andtheBoard'sdecisiononremandeachextensivelydiscussthepotentialimpactsonairqualitythatmayresultfromtheimplementationoftheproject	Frequency: 1
+NER: BILL LOCKYER	Frequency: 4
+NER: THEODORA BERGER	Frequency: 2
+NER: KEN ALEX	Frequency: 1
+NER: State Bar No	Frequency: 4
+NER: JANILL L. RICHARDS	Frequency: 1
+NER: HARRISON M. POLLAK	Frequency: 1
+NER: 1515 Clay Street	Frequency: 1
+NER: P. O. Box	Frequency: 1
+NER: CA 94612-0550	Frequency: 1
+NER: GENERAL MOTORS CORPORATION	Frequency: 1
+NER: a Delaware Corporation	Frequency: 3
+NER: TOYOTA MOTOR NORTH AMERICA, INC.	Frequency: 1
+NER: a California Corporation	Frequency: 2
+NER: FORD MOTOR COMPANY	Frequency: 2
+NER: HONDA NORTH AMERICA, INC.	Frequency: 1
+NER: CHRYSLER MOTORS CORPORATION	Frequency: 1
+NER: NISSAN NORTH AMERICA, INC.	Frequency: 1
+NER: California Corporation Defendants	Frequency: 1
+NER: Federal Common Law Public Nuisance	Frequency: 1
+NER: Complaint For Damages and Declaratory Judgment and Demand for Jury Trial 1 2 3 4	Frequency: 1
+NER: the State millions of dollars	Frequency: 2
+NER: The People of the State of California	Frequency: 1
+NER: warmmg	Frequency: 1
+NER: Complaint For Damages and Declaratory Judgment and Demand for Jury Trial	Frequency: 2
+NER: VENUE 7	Frequency: 1
+NER: resideinthisjudicialdistrict asthatterm	Frequency: 1
+NER: U.S.c	Frequency: 1
+NER: the San Francisco Division	Frequency: 1
+NER: the Oakland Division	Frequency: 1
+NER: Civil Local Rule 3-2	Frequency: 1
+NER: Contra Costa	Frequency: 1
+NER: Bill Lockyer	Frequency: 3
+NER: the State of California	Frequency: 1
+NER: Cal	Frequency: 5
+NER: Code	Frequency: 1
+NER: Defendant GENERAL MOTORS	Frequency: 1
+NER: General Motors	Frequency: 1
+NER: Toyota	Frequency: 1
+NER: Ford	Frequency: 1
+NER: NORTH AMERICA, Inc.	Frequency: 1
+NER: Honda	Frequency: 1
+NER: Defendant CHRYSLER MOTORS CORPORATION	Frequency: 1
+NER: Chrysler	Frequency: 1
+NER: Nissan	Frequency: 1
+NER: FACTUAL ALLEGATIONS 19	Frequency: 1
+NER: the United Nations Framework Convention on Climate Change	Frequency: 1
+NER: the Intergovernmental Panel on Global	Frequency: 1
+NER: the Complaint For Damages and Declaratory Judgment and Demand for Jury Trial	Frequency: 1
+NER: the Framework Convention	Frequency: 1
+NER: the National Academies of Science	Frequency: 1
+NER: The National Academies	Frequency: 1
+NER: the National Academy of Sciences	Frequency: 1
+NER: the American Meteorological Society	Frequency: 1
+NER: the American Geophysical Union	Frequency: 1
+NER: the American Association for the Advancement of Science	Frequency: 1
+NER: the Arctic Council	Frequency: 1
+NER: the International Arctic Science Committee	Frequency: 1
+NER: Complaint For Damages and Declaratory Judgment and Demand for Jury	Frequency: 2
+NER: EI Nino	Frequency: 1
+NER: European	Frequency: 1
+NER: the People of the State	Frequency: 1
+NER: Sierra	Frequency: 1
+NER: Californians	Frequency: 1
+NER: the State Water Project	Frequency: 1
+NER: the Central Valley Project	Frequency: 1
+NER: Folsom Dam	Frequency: 1
+NER: Law	Frequency: 1
+NER: well­	Frequency: 1
+NER: California Civil Code	Frequency: 2
+NER: California Code Civil Procedure section 731	Frequency: 1
+NER: the People of the 27	Frequency: 1
+NER: LOCKYER	Frequency: 1
+NER: JANILL L. RICHARDS HARRISON M. POLLAK	Frequency: 1
+NER: ROBERT C. GOODMAN ROBERT C. GOODMAN	Frequency: 1
+NER: CA 94108 Telephone	Frequency: 1
+NER: Cherry Valley Environmental Planning Group Fup	Frequency: 1
+NER: suc'.xi coor pvERsi	Frequency: 1
+NER: ENVIRONMENTAL PLANNING GROUP	Frequency: 1
+NER: the Environmental Quality Act PETITION FOR WRIT OF MANDATE UNDER	Frequency: 1
+NER: THE CALIFORNIA ENVIRONMENTAL QUALITY ACT [	Frequency: 1
+NER: Cal.	Frequency: 1
+NER: NEIGHBORS	Frequency: 2
+NER: CHERRY VALLEY ENVIRONMENTAL PLANNING GROUP	Frequency: 1
+NER: CVAN	Frequency: 3
+NER: the Black Bench Project"	Frequency: 1
+NER: VALLEY ENVIRONMENTAL PLANNING GROUP	Frequency: 1
+NER: CVEPG	Frequency: 3
+NER: Cherry Val	Frequency: 2
+NER: SCC	Frequency: 1
+NER: the Final Environmental Impact Report	Frequency: 2
+NER: THE PROJECT 7	Frequency: 1
+NER: the General Plan	Frequency: 1
+NER: the General Plan's	Frequency: 1
+NER: Golden Eagles	Frequency: 1
+NER: Highland Springs Resort	Frequency: 3
+NER: the 3 City Council	Frequency: 1
+NER: Angus	Frequency: 1
+NER: the Planning Commission	Frequency: 1
+NER: The City Council	Frequency: 1
+NER: A Notice of Determination	Frequency: 1
+NER: Paragraphs 1 through 12	Frequency: 1
+NER: al	Frequency: 1
+NER: the San Gorgonio Pass Water Agency	Frequency: 1
+NER: SGPWA	Frequency: 4
+NER: the Upper Canyon Storage Unit	Frequency: 1
+NER: the Middle Banning Canyon Storage Unit	Frequency: 1
+NER: the Banning Bench Storage Unit	Frequency: 1
+NER: the Cabazon Storage Unit	Frequency: 1
+NER: the Water Supply Assessment	Frequency: 1
+NER: WSA	Frequency: 1
+NER: State Water Project Water	Frequency: 1
+NER: Cabazon	Frequency: 1
+NER: the California Aqueduct	Frequency: 1
+NER: the Smith Creek Tributary	Frequency: 1
+NER: this National Forest	Frequency: 1
+NER: Forest	Frequency: 1
+NER: Beaumont Avenues	Frequency: 1
+NER: Cherry Valley Boulevard	Frequency: 1
+NER: Beaumont Avenue	Frequency: 1
+NER: ElR	Frequency: 1
+NER: the Highland Springs Resort	Frequency: 1
+NER: National Forest	Frequency: 1
+NER: the National Forest	Frequency: 1
+NER: the Cities of Banning	Frequency: 1
+NER: Cabazott	Frequency: 1
+NER: the Golden Eagle	Frequency: 1
+NER: the Western Riverside County Multiple Species Habitat Conservation Plan	Frequency: 1
+NER: PEMTON FO WRIT OF MANDATF	Frequency: 1
+NER: CYAN	Frequency: 1
+NER: ROBERT C. GOODMAN	Frequency: 1
+NER: Cherry Valley Environmental Planning Group PETITION	Frequency: 1
+NER: Cherry Valley Pass Acres	Frequency: 1
+NER: Petitiooer	Frequency: 1
+NER: OM	Frequency: 1
+NER: the State of Califbnis	Frequency: 1
+NER: MANDATE CASK	Frequency: 1
+NER: Marini% Ora	Frequency: 1
+NER: Thane	Frequency: 1
+NER: unkus	Frequency: 1
+NER: papxy	Frequency: 1
+NER: Petitioner v.Environmental Protection Agency	Frequency: 1
+NER: U.S. EnvironmentalProtection Agency	Frequency: 1
+NER: Henderson, Griffith	Frequency: 1
+NER: Kavanaugh,	Frequency: 1
+NER: the Supreme Court’s	Frequency: 1
+NER: the Supr eme Court	Frequency: 1
+NER: the Environment al Protection Agency	Frequency: 1
+NER: 2United States Court of Appeals	Frequency: 1
+NER: Curiam	Frequency: 1
+NER: LEXIS 21486	Frequency: 2
+NER: ELR	Frequency: 2
+NER: Plaintiff-Appellant	Frequency: 1
+NER: UNITED STATES ARMY	Frequency: 1
+NER: VANCOUVER	Frequency: 1
+NER: WO ODLAND	Frequency: 1
+NER: Submitt ed	Frequency: 1
+NER: the United St	Frequency: 1
+NER: District Court	Frequency: 2
+NER: Ricardo S. Martinez	Frequency: 1
+NER: the U.S. Army Corps of Engineers (Corps	Frequency: 1
+NER: the National Marine Fisheries Service	Frequency: 1
+NER: Corps	Frequency: 235
+NER: the Corps violat ed NEPA	Frequency: 1
+NER: Appellant	Frequency: 5
+NER: columbia river	Frequency: 1
+NER: ri ver	Frequency: 1
+NER: LEXISNEXIS®	Frequency: 1
+NER: De novo	Frequency: 2
+NER: the Administrative Procedure Act	Frequency: 3
+NER: Envir onmental Policy Act	Frequency: 1
+NER: di strict court's	Frequency: 1
+NER: affecti	Frequency: 2
+NER: reasona bly	Frequency: 1
+NER: The United States Court of App	Frequency: 1
+NER: the Ninth Circuit	Frequency: 3
+NER: ce	Frequency: 1
+NER: Un	Frequency: 1
+NER: plai ntiffs	Frequency: 1
+NER: Headnote	Frequency: 1
+NER: Stephen D. Mashuda	Frequency: 1
+NER: Earthjus	Frequency: 1
+NER: Matthew J. Sanders	Frequency: 1
+NER: U.S. Department of Justice	Frequency: 1
+NER: Wa shington	Frequency: 1
+NER: Beth S. Ginsberg	Frequency: 1
+NER: Stoel Rives, LLP	Frequency: 1
+NER: Betty B. Fletcher	Frequency: 1
+NER: Barry G. Silv	Frequency: 1
+NER: Ronald M. Gould	Frequency: 1
+NER: B. Fletcher	Frequency: 1
+NER: Barry G. Silverman	Frequency: 1
+NER: Northwest Environmental Advocates	Frequency: 4
+NER: NWEA	Frequency: 47
+NER: the United States Army Corps of Engineers	Frequency: 1
+NER: the Nati onal Environmental Policy Act	Frequency: 1
+NER: Dredged Material and Management Plan and Supplemental Environmental Impact Statement	Frequency: 2
+NER: Fina l Supplemental Integrated Feasibility Report and Environmental Impact Statement	Frequency: 1
+NER: gation channel	Frequency: 1
+NER: Accordi ng	Frequency: 1
+NER: Columbia River Mile	Frequency: 1
+NER: Mo	Frequency: 1
+NER: a Deep Water Site	Frequency: 1
+NER: the Deep Water Site	Frequency: 22
+NER: Final Integrated Feasibility Report and Environmental Impact Statement	Frequency: 3
+NER: Site E. The	Frequency: 1
+NER: Site E. However	Frequency: 1
+NER: the Envi ronmental Protection Agency	Frequency: 1
+NER: Shallow Water Site	Frequency: 1
+NER: Final Inte	Frequency: 1
+NER: The U.S. Fish and Wildlife Service	Frequency: 1
+NER: NOAA	Frequency: 1
+NER: Biological Opinion	Frequency: 4
+NER: the Lead Agency	Frequency: 2
+NER: the Final Integrated Feasibility Report and Environmental Impact Statement	Frequency: 3
+NER: the United States Environmental Protection Agency	Frequency: 1
+NER: a Cooperating Agency	Frequency: 3
+NER: the Clean Water Act	Frequency: 1
+NER: the Coastal Zone Management Act	Frequency: 1
+NER: Dungeness cr ab	Frequency: 1
+NER: NOAA Fisheries	Frequency: 7
+NER: Wildlife Servic	Frequency: 1
+NER: Sustainable Ecosystems Institute	Frequency: 3
+NER: SEI	Frequency: 2
+NER: Final Supplemental Integrated Feasibility Report and Environmental Impact Statement	Frequency: 1
+NER: Biological Opinions	Frequency: 1
+NER: Endange	Frequency: 1
+NER: Final S upplemental Integrated Feasibility Report and Environmental Impact Statement	Frequency: 1
+NER: Final Environmental Impact Statement	Frequency: 2
+NER: FSE	Frequency: 2
+NER: the Environmental Protection Agency	Frequency: 3
+NER: Record of Decision	Frequency: 2
+NER: Co	Frequency: 3
+NER: the Dredged Material Management Plan	Frequency: 1
+NER: dr edging	Frequency: 1
+NER: the "No Action Alte	Frequency: 1
+NER: Columb	Frequency: 2
+NER: Tillamook Head	Frequency: 1
+NER: MCR	Frequency: 51
+NER: the North Jetty Site	Frequency: 3
+NER: Deep Water Site	Frequency: 2
+NER: the Bureau of Reclamation	Frequency: 1
+NER: the Federal Columbia River Power System	Frequency: 3
+NER: Procedural History NWEA	Frequency: 1
+NER: Shortly thereaft er	Frequency: 1
+NER: NOAA Fisheries'	Frequency: 1
+NER: Bi ological Opinion	Frequency: 2
+NER: the Ports of Vancouver	Frequency: 1
+NER: the distri ct court	Frequency: 1
+NER: Mouth	Frequency: 2
+NER: Ernest Niemi	Frequency: 2
+NER: Niemi	Frequency: 12
+NER: th e Project's	Frequency: 1
+NER: Asarco	Frequency: 9
+NER: NOAA Fisherie s'	Frequency: 1
+NER: Non-Violent Action	Frequency: 1
+NER: Navy	Frequency: 1
+NER: Ka Makani O	Frequency: 1
+NER: Water Supply	Frequency: 1
+NER: Army Corps of Eng'rs	Frequency: 1
+NER: F.3d 1163	Frequency: 1
+NER: Powell	Frequency: 2
+NER: Idaho Conservation League	Frequency: 1
+NER: Churchill County	Frequency: 1
+NER: Anderson v. Evans	Frequency: 1
+NER: Sw	Frequency: 3
+NER: Biological Dive rsity	Frequency: 1
+NER: U.S. Forest Serv	Frequency: 1
+NER: the Sponsor Ports'	Frequency: 1
+NER: the Dredged Material Management Plan and Supplemental Im pact Statement	Frequency: 1
+NER: ede	Frequency: 1
+NER: the "No Action Alternative	Frequency: 1
+NER: United States Forest Serv	Frequency: 2
+NER: Yankee Nuclear Power Corp.	Frequency: 1
+NER: Council	Frequency: 1
+NER: Federal	Frequency: 1
+NER: pe rson	Frequency: 1
+NER: signific ant	Frequency: 1
+NER: Lands Council	Frequency: 7
+NER: coasta	Frequency: 1
+NER: IFR	Frequency: 1
+NER: EIS	Frequency: 3
+NER: i. Potential Direct Sediment Loss	Frequency: 1
+NER: the MCR Project	Frequency: 3
+NER: Final Integrated Feasibility Report	Frequency: 1
+NER: uld	Frequency: 1
+NER: Peacock	Frequency: 1
+NER: The Corps	Frequency: 2
+NER: o cean	Frequency: 1
+NER: the Deep Wa ter Site	Frequency: 2
+NER: Ocean Dredged Material Disposal Sites	Frequency: 1
+NER: Corp	Frequency: 2
+NER: Corp s	Frequency: 1
+NER: the Deep Wate r Site	Frequency: 2
+NER: the wi sdom	Frequency: 1
+NER: wh ich	Frequency: 2
+NER: Plan	Frequency: 1
+NER: the Final Integrated Feasibility Report a nd Environmental Impact Statement	Frequency: 1
+NER: S ite E	Frequency: 2
+NER: the Final Integrated Feasibility Report and Environmental Impact Statement st ates	Frequency: 1
+NER: annu al	Frequency: 1
+NER: Repor	Frequency: 1
+NER: the Shallow Water Site	Frequency: 1
+NER: Trout Unlimited, Inc.	Frequency: 1
+NER: Morton	Frequency: 1
+NER: the Management and Monitoring Plan	Frequency: 2
+NER: dis posal	Frequency: 1
+NER: the Washington Department of Ecology	Frequency: 1
+NER: the Channel Deepening Project	Frequency: 1
+NER: navi gation channel	Frequency: 1
+NER: availa	Frequency: 1
+NER: tuary	Frequency: 1
+NER: deepeni ng	Frequency: 3
+NER: The Corps prepared Exhibit J	Frequency: 1
+NER: See Friends of the Payette v.	Frequency: 1
+NER: Horseshoe Bend Hydroelectric Co.	Frequency: 1
+NER: availabilit y	Frequency: 1
+NER: Clatsop Spit	Frequency: 2
+NER: Exhi	Frequency: 3
+NER: Klamath-Siskiyou Wildlands	Frequency: 1
+NER: the Bureau of Land Management	Frequency: 3
+NER: BLM	Frequency: 7
+NER: succe ssive	Frequency: 1
+NER: Federal Columbia River Power System	Frequency: 1
+NER: Final Integrated Feasibility Report and Environmental Impact Statement de monstrates the Corps'	Frequency: 1
+NER: HN8	Frequency: 1
+NER: See Friends of the Payette	Frequency: 1
+NER: cerns	Frequency: 1
+NER: di sposal	Frequency: 1
+NER: the district court	Frequency: 1
+NER: See Lands Council	Frequency: 2
+NER: the Final Environmental Impact Statement	Frequency: 3
+NER: i. Cumulative Impact	Frequency: 1
+NER: Past Actions	Frequency: 1
+NER: Salinity NWEA	Frequency: 1
+NER: cu	Frequency: 1
+NER: The Sustainable Ecosystems Institute	Frequency: 1
+NER: Colu mbia River	Frequency: 1
+NER: the Environmental Impact Statement	Frequency: 1
+NER: MCR Jetties	Frequency: 1
+NER: Sediment Transport	Frequency: 1
+NER: The sa nd eroded	Frequency: 1
+NER: Peacock Spit	Frequency: 1
+NER: Future Actions Contrary	Frequency: 1
+NER: Neighbors of Cuddy Mountain v. U.S. Forest Serv	Frequency: 1
+NER: the Shallow Water Site and	Frequency: 1
+NER: D. Direct Impacts i. Direct Impact on River Toxicity	Frequency: 1
+NER: the Corp s'	Frequency: 1
+NER: Biologica l Assessment	Frequency: 1
+NER: clean sa nd	Frequency: 1
+NER: NW EA's	Frequency: 1
+NER: contam ination	Frequency: 1
+NER: Envir onmental Impact Statement	Frequency: 1
+NER: WES	Frequency: 6
+NER: The Corp s'	Frequency: 1
+NER: Ecosystems Institute	Frequency: 1
+NER: Sciences Univ	Frequency: 1
+NER: Oregon Graduate Institute	Frequency: 1
+NER: the Sustainable Ecosystems Institute	Frequency: 1
+NER: OHSU	Frequency: 2
+NER: OGI	Frequency: 2
+NER: Howe ver	Frequency: 1
+NER: Hughes River Watershed Conservancy	Frequency: 2
+NER: Glickman	Frequency: 2
+NER: analys es	Frequency: 1
+NER: the Port of Portland	Frequency: 2
+NER: envir onmental	Frequency: 1
+NER: calculati	Frequency: 1
+NER: See Economic and Environmental Principles and Guidelines for Water and Related Land Resour	Frequency: 1
+NER: Guidelines	Frequency: 2
+NER: se gregation	Frequency: 1
+NER: Economic Technical Review	Frequency: 1
+NER: acr oss	Frequency: 1
+NER: th e Corps'	Frequency: 2
+NER: the Niemi Declaration	Frequency: 1
+NER: the declar ation	Frequency: 1
+NER: Love	Frequency: 2
+NER: Florida Power & Light Co. v. Lorion	Frequency: 1
+NER: Camp v. Pitts	Frequency: 1
+NER: Biological Diversity	Frequency: 2
+NER: Corp s'	Frequency: 1
+NER: scien tific	Frequency: 1
+NER: infinitum	Frequency: 1
+NER: AFFIRMED	Frequency: 1
+NER: DISSENT	Frequency: 1
+NER: Betty B. Fletcher DISSENT B. FLETCHER	Frequency: 1
+NER: United States Geological Survey	Frequency: 1
+NER: Northwest	Frequency: 1
+NER: interdepe	Frequency: 1
+NER: Virtual World	Frequency: 1
+NER: National Geographic Society	Frequency: 1
+NER: Colu	Frequency: 1
+NER: Columbia	Frequency: 8
+NER: Chinook Populations Spurs Action	Frequency: 1
+NER: Jeff Barnard	Frequency: 1
+NER: Associated Press	Frequency: 1
+NER: rse	Frequency: 1
+NER: The Army Corps of Engineers	Frequency: 1
+NER: Northwest Environmental Advocates'	Frequency: 1
+NER: the Army Corps'	Frequency: 3
+NER: National Environmental Po licy Act	Frequency: 1
+NER: the Army Corps	Frequency: 3
+NER: The Army Corps	Frequency: 6
+NER: the Ar my Corps'	Frequency: 1
+NER: failu	Frequency: 1
+NER: Felicity Barringer	Frequency: 1
+NER: Senate Backs New Controls fo r Projects by Engineers	Frequency: 1
+NER: N.Y. TIMES	Frequency: 2
+NER: Senate	Frequency: 2
+NER: The Portland Port	Frequency: 1
+NER: the Army Corp's	Frequency: 1
+NER: ag	Frequency: 2
+NER: the Forest Service's	Frequency: 2
+NER: the Tongass National Forest	Frequency: 1
+NER: Deep-Water Disposal	Frequency: 1
+NER: associ	Frequency: 2
+NER: sa	Frequency: 1
+NER: Multi-Port Analysis	Frequency: 1
+NER: th e Corps	Frequency: 2
+NER: the Corp s	Frequency: 1
+NER: analys	Frequency: 1
+NER: ga	Frequency: 1
+NER: AGP	Frequency: 1
+NER: midwestern	Frequency: 1
+NER: Port of Grays Harbor Grain Terminal Loop Track	Frequency: 1
+NER: The Port of Grays Harbor	Frequency: 1
+NER: the Ports of Seattle	Frequency: 1
+NER: Willamette	Frequency: 1
+NER: The Corps asse	Frequency: 1
+NER: NED	Frequency: 1
+NER: Economic and Environmental Principles and Guidelines for Water and Relate	Frequency: 1
+NER: http://www.iwr.usace.army.mil/iwr/pdf	Frequency: 1
+NER: Richard Hobe rnicht	Frequency: 1
+NER: Commander,	Frequency: 1
+NER: Army Corps	Frequency: 3
+NER: Robert E. Willis	Frequency: 1
+NER: Judy Grigg	Frequency: 1
+NER: Port of Longview	Frequency: 1
+NER: the Principles and Guidelines	Frequency: 1
+NER: Corps'	Frequency: 1
+NER: Review Panel	Frequency: 2
+NER: Panel	Frequency: 1
+NER: Original Review Comments and Benefit Review Team Opinions on Responses	Frequency: 1
+NER: choo se	Frequency: 1
+NER: Niemi Declaration	Frequency: 1
+NER: rict court	Frequency: 1
+NER: Ernest Niemi's	Frequency: 1
+NER: Asarco, Inc.	Frequency: 1
+NER: Protection Agency	Frequency: 1
+NER: weighe	Frequency: 1
+NER: A]gency	Frequency: 1
+NER: techni	Frequency: 1
+NER: Id.	Frequency: 2
+NER: determ ine	Frequency: 1
+NER: Love v. Thomas	Frequency: 1
+NER: backgr	Frequency: 1
+NER: cleanl	Frequency: 1
+NER: NRDC 421 F.3d	Frequency: 1
+NER: CUMULATIVE EFFECTS ON COASTAL EROSION	Frequency: 1
+NER: SPOILS	Frequency: 1
+NER: Analys	Frequency: 1
+NER: Mout	Frequency: 1
+NER: the Columbia River Project	Frequency: 2
+NER: 10083-88	Frequency: 1
+NER: Klamath-Siskiyou Wildlands Center	Frequency: 1
+NER: Bureau of Land Management	Frequency: 2
+NER: B. The Army Corps'	Frequency: 1
+NER: SEIS	Frequency: 2
+NER: the Final Supplemental Environmental Impact Statement	Frequency: 1
+NER: the viabil ity	Frequency: 1
+NER: navigation channel	Frequency: 1
+NER: Channel Improvements	Frequency: 1
+NER: Environmen tal Impact Statement	Frequency: 1
+NER: H-3	Frequency: 1
+NER: tim	Frequency: 1
+NER: MCR O&M	Frequency: 1
+NER: H-6	Frequency: 3
+NER: Id. The Corps'	Frequency: 1
+NER: Deep Wate r Site	Frequency: 1
+NER: Deep Wa ter Site	Frequency: 1
+NER: the Columbia River System	Frequency: 1
+NER: accreti	Frequency: 1
+NER: navi gation channel development	Frequency: 1
+NER: the Columbia Rive r	Frequency: 1
+NER: the most pa rt	Frequency: 1
+NER: littora	Frequency: 1
+NER: 10083	Frequency: 1
+NER: conflic ts	Frequency: 1
+NER: Army Co	Frequency: 1
+NER: conflic	Frequency: 1
+NER: ma terial	Frequency: 1
+NER: Factor 7	Frequency: 1
+NER: Great Basin Mine Watch v. Hankins	Frequency: 1
+NER: LEXIS 19298	Frequency: 2
+NER: the Bureau of Land Management's	Frequency: 1
+NER: compoun	Frequency: 1
+NER: manganese	Frequency: 1
+NER: Bureau	Frequency: 2
+NER: cenario	Frequency: 1
+NER: App	Frequency: 1
+NER: di sagree	Frequency: 1
+NER: Neighbors of Cuddy Mountain v. United States Forest Serv	Frequency: 1
+NER: States Forest Serv	Frequency: 1
+NER: Muckleshoot	Frequency: 3
+NER: 1159	Frequency: 1
+NER: The Army Corps'	Frequency: 1
+NER: MCR Project	Frequency: 1
+NER: correc tly	Frequency: 1
+NER: Klamath-Siskiyou	Frequency: 1
+NER: coas tal erosion	Frequency: 1
+NER: SALINITY	Frequency: 1
+NER: Rybachek v. United States	Frequency: 1
+NER: Army	Frequency: 1
+NER: mobilizin g	Frequency: 1
+NER: Canadian	Frequency: 3
+NER: Teck Cominco	Frequency: 4
+NER: the Grand Coulee Dam	Frequency: 1
+NER: Karen Dorn Steele	Frequency: 1
+NER: The Spokesman Review	Frequency: 1
+NER: hol d Teck Cominco	Frequency: 1
+NER: the Comprehensive Environmental Response, Comp ensation	Frequency: 1
+NER: Liability Act	Frequency: 1
+NER: Pakootas	Frequency: 1
+NER: Teck Cominco Metals, Ltd.	Frequency: 1
+NER: National Oceanic and Atmospheri c Administration	Frequency: 1
+NER: hydrau lics	Frequency: 1
+NER: Sand	Frequency: 1
+NER: Desp ite	Frequency: 1
+NER: Salmon	Frequency: 1
+NER: B. Salinity Appellant	Frequency: 1
+NER: Salinity	Frequency: 1
+NER: Clarify Science Issues for Columbia River Channel Deepening Project	Frequency: 1
+NER: the Oregon Health and Sciences University/Oregon Graduate Institute	Frequency: 1
+NER: OHSH	Frequency: 1
+NER: Google	Frequency: 1
+NER: Dirk Hempthorne	Frequency: 1
+NER: P. Lynn Scarlett	Frequency: 1
+NER: R. CIV	Frequency: 2
+NER: P. 25(d)(1	Frequency: 1
+NER: Tom Melius	Frequency: 1
+NER: Rowan Gould	Frequency: 1
+NER: BIOLOGICALDIVERSITY	Frequency: 1
+NER: RESOURCESDEFENSE COUNCIL	Frequency: 1
+NER: TOMMELIUS	Frequency: 1
+NER: United States Fish & Wildlife Service	Frequency: 1
+NER: BUREAUOF LAND MANAGEMENT	Frequency: 1
+NER: UNITEDSTATES	Frequency: 1
+NER: UNITED	Frequency: 1
+NER: CONCOCOPHILIPS ALASKA, INC.	Frequency: 1
+NER: ANDARKO PETROLEUMCORPORATION	Frequency: 1
+NER: ARCTIC SLOPEREGIONAL CORPORATION	Frequency: 1
+NER: Intervenor-Defendants	Frequency: 1
+NER: NAEC	Frequency: 3
+NER: Kempthorne	Frequency: 28
+NER: Preliminary Decision	Frequency: 1
+NER: the National Petroleum Reserve	Frequency: 1
+NER: NPR-A	Frequency: 4
+NER: NPR	Frequency: 2
+NER: the Northeast Planning Area	Frequency: 1
+NER: NEA	Frequency: 6
+NER: the Northwest Planning Area	Frequency: 1
+NER: Northern Alaska Environmental Center	Frequency: 2
+NER: ROD	Frequency: 5
+NER: TLSA	Frequency: 4
+NER: pl aintiffs	Frequency: 1
+NER: the Northeast National Petroleum Reserve	Frequency: 1
+NER: BiOp	Frequency: 3
+NER: the Administrative Procedures Act	Frequency: 1
+NER: APA	Frequency: 3
+NER: Preliminary Decision that Plaintiffs’ Motion for Summary Judgment	Frequency: 1
+NER: ALAN WRIGHT	Frequency: 1
+NER: ARTHUR R. MILLER	Frequency: 1
+NER: KANE	Frequency: 1
+NER: PRAC. & PROC	Frequency: 1
+NER: CIV	Frequency: 1
+NER: Ferdik v. Bonzelet	Frequency: 1
+NER: Cir.1992	Frequency: 1
+NER: Loux v. Ray	Frequency: 1
+NER: Norman v. United States	Frequency: 1
+NER: National City Mortgage Co.	Frequency: 1
+NER: Navarro	Frequency: 1
+NER: the Second Cause of Action	Frequency: 1
+NER: the Motion for Summary Judgment	Frequency: 1
+NER: the Energy Policy Act	Frequency: 2
+NER: P UB	Frequency: 2
+NER: 347(c	Frequency: 1
+NER: substan	Frequency: 1
+NER: the U.S. Fish & Wildlife’s	Frequency: 1
+NER: F&WS”)Biological	Frequency: 1
+NER: Steller	Frequency: 1
+NER: the EndangeredSpecies Act	Frequency: 1
+NER: ESA	Frequency: 2
+NER: the National Petroleum Reserve Production Act	Frequency: 1
+NER: NPRPA	Frequency: 3
+NER: theircomplaint Plaintiffs	Frequency: 1
+NER: Reserve	Frequency: 1
+NER: theSteller	Frequency: 1
+NER: Defendantsviolated	Frequency: 1
+NER: the Northeast National Petroleum Reserve-Alaska Final Integrated Final Activity Plan/Environmental ImpactStatement	Frequency: 1
+NER: the Northeast National Petroleum Case 1:05-cv-00008-JKS Document	Frequency: 1
+NER: Wilderness Society	Frequency: 1
+NER: Bruce Babbitt	Frequency: 1
+NER: 1998 NE Plan	Frequency: 1
+NER: Northwest National Petroleum Reserve-Alaska Final Integrated FinalActivity Plan/ Environmental Impact Statement	Frequency: 1
+NER: Northwest NationalPetroleum Reserve-Alaska Final Integrated Final Activity Plan/Environmental Impact StatementRecord of Decision	Frequency: 1
+NER: National Energy Policy	Frequency: 1
+NER: throughfurtherleasesalesintheNationalPetroleumReserve-Alaska,”andthat“suchconsiderationshouldincludeareasnotcurrentlyleasedinthenortheastcorneroftheNationalPetroleumReserve-Alaska	Frequency: 1
+NER: ”RODat3.Inimplementingthisdirective	Frequency: 1
+NER: AlaskaDraftAmendedIntegratedActivityPlan/EnvironmentalImpactStatement(“DEIS”)at1.NoticeoftheavailabilityoftheDEISwaspublishedonJune9,2004.69Fed	Frequency: 1
+NER: Reg.32,365.IntheDEIS	Frequency: 1
+NER: BLMconsideredthreealternatives	Frequency: 1
+NER: Seeid.;1DEIS2	Frequency: 1
+NER: BLMissuedtheFEISinJanuary2005andnoticeoftheavailabilityoftheFEISwaspublishedonJanuary28,2005.70Fed	Frequency: 1
+NER: B,andCfromtheDEISandanentirelynewpreferredalternative	Frequency: 1
+NER: whichprovidesimportanthabitatfortheArcticperegrinefalconandotherraptors	Frequency: 1
+NER: RODat4.DISCUSSIONIntheirreplymemorandumPlaintiffsacknowledgethatthreeclaims—thatthedecisionrequiredsite-specificanalysisunderNEPA	Frequency: 1
+NER: Brinegar,506F.2d677,692–93(9thCir.1974).Anagency’sactionisarbitraryandcapriciousiftheagencyfailstoconsideranimportantaspectofaproblem	Frequency: 1
+NER: Ass’nv	Frequency: 1
+NER: Powell,379F.3d738,743(9thCir.2004).WhilethepreparationofanEIScallsforjudgmentbytheagency	Frequency: 1
+NER: BLMshouldhaveissuedasupplementaldraftEIStoallowformeaningfulpublicandagencycommentonwhatPlaintiffscharacterizeasa“novel”approach	Frequency: 1
+NER: PlaintiffsarguebecauseAlternativeDadoptedaradicallydifferentapproachtoprotectingresourcesthatappearedforthefirsttimeinthefinalEIS	Frequency: 1
+NER: BLMwasrequiredtocirculateasupplementaldraftEISforpublicandagencyreviewandrespondtocommentsonAlternativeD.DocketNo.93-1at16.AlternativeA	Frequency: 1
+NER: wouldcontinuemanagementaccordingtothe1998ROD	Frequency: 1
+NER: leavinginplacethestipulationsand600,000-acreno-surfaceactivityareaimplementedbythatdecision.1DEISat2-7,Table2-1.ThetwoactionalternativesconsideredintheDEIS	Frequency: 1
+NER: theoriginalpreferredalternative	Frequency: 1
+NER: AprincipalpurposeofNEPAistoalertthepublictowhattheagencyintendstodoandtoprovidethepublicwithenoughinformationtobeabletoparticipateintelligentlyinthatprocess	Frequency: 1
+NER: KootenaiTribev	Frequency: 1
+NER: agencieshaveflexibilitytomodifyalternativesdiscussedinadraftEISinresponsetopubliccommentswithouthavingtocirculateanewdraftforcomment	Frequency: 1
+NER: BonnevillePowerAdmin	Frequency: 1
+NER: TheCourtnotesthatthisargumentissomewhatdeceptive	Frequency: 1
+NER: theareasopeneddifferdramatically(AlternativeDsubstitutes211,000acresoflakefor213,000acresofland).10/WhileitistruethattherearemorerestrictiveconditionsinsomeareasopenedunderbothAlternativeDandAlternativeB	Frequency: 1
+NER: eveninferentially	Frequency: 1
+NER: thatAlternativeDprovidesmorerestrictiveconditionsinthe213,000-acreGMA.MEMORANDUMDECISIONNationalAudubonSoc’yv	Frequency: 1
+NER: cv-00008-JKS9MarketingAssoc.v	Frequency: 1
+NER: AlternativeDwasnotwithintherangeofthethreealternativesdiscussedintheEISandcouldnothavebeenreasonablyanticipated	Frequency: 1
+NER: consideredtheLakesuitableforleasing	Frequency: 1
+NER: ConocoPhillips’proposalsupportedtheadoptionofAlternativeCwithcertainrestrictionsaroundlakesinthegoosemoltingareanorthoftheLake	Frequency: 1
+NER: BLMtooktheseproposalsandnumerousotherpubliccommentsintoaccount	Frequency: 1
+NER: DefendantsarguethatcommentsontheFEISwerereceivedandconsideredbeforetheRODwasissued	Frequency: 1
+NER: didthepost-FEIScommentsindicatethatBLMwouldlikelyhavereceivedcommentsthataddedsubstancetothedebateorweremorelikelytobenothingmorethanrehashesofpriorcomments	Frequency: 1
+NER: CouncilonEnvironmentalQualityregulationsrequiresupplementationwhere“[t]herearesignificantnewcircumstancesorinformationrelevanttoenvironmentalconcernsandbearingontheproposedactionoritsimpacts.”40CFR§1502.9(c)(1)(ii).Thisregulationrequiresanagencytotake“hardlook”atthenewinformationtoassesswhethersupplementationmightbenecessary	Frequency: 1
+NER: Marshv	Frequency: 1
+NER: MEMORANDUMDECISIONNationalAudubonSoc’yv	Frequency: 11
+NER: theCourtcannotagreeontherecordbeforeitthatAlternativeDwastotallyunresponsivetotheconcernsofF&WS(aswellasothers).DocketNo.93-1at18–19.TheproblemtheCourthaswithPlaintiffs’positionandargumentsonthispointisthat	Frequency: 1
+NER: astriggeringtherequirementforasupplementalEISinanycaseinwhichtheagencyadoptedacompromisebetweenpositions.11/Inthecaseatbar	Frequency: 1
+NER: quiteunderstandably,	Frequency: 1
+NER: preferredthattheentireareaclosedbythe1998RODremainoff-limitstooilandgasactivitiesfortheprotectionofwildlife	Frequency: 1
+NER: Neitherextremeprevailed	Frequency: 1
+NER: Asforforeseeability	Frequency: 1
+NER: contrarytoPlaintiffs’arguments	Frequency: 1
+NER: DocketNo.91-2at16–17,thereisnothingneworuntestedaboutthenatureofrestrictionsutilizedbyBLM	Frequency: 1
+NER: TheCase1:05	Frequency: 1
+NER: whicharenomorethanrestatementsoftheargumentsadvancedandconsideredbytheCourt	Frequency: 1
+NER: asupplementalEIScouldberequiredinnearlyeverycasethatanagencyadoptsaalternativethatdiffersfromthealternativesconsideredinthedraftEIS.Nothinginthelawrequiresthisresult	Frequency: 1
+NER: Plaintiffshavesuggestednothingthatwould	Frequency: 1
+NER: SelkirkConservationAlliance,336F.3d944,958(9thCir.2003);SalmonRiverConcernedCitizensv	Frequency: 1
+NER: NEPArequiresthatitdonothingmore	Frequency: 1
+NER: mostspecificallythatitfailstoadequatelyanalyzethecumulativeeffectsofthedevelopmentintheNWPA.DocketNo.49-1at31–32.Plaintiffsarguethatthisincreaseindevelopmentcouldhavepotentiallyseriousenvironmentalconsequences	Frequency: 1
+NER: BLMhasacknowledgedthatthedecisionhereCase1:05	Frequency: 1
+NER: theyarenone-the-lesssubjecttojudicialnotice	Frequency: 1
+NER: FED.R.EVID.201.ThesedocumentsmayalsobenecessarytoadeterminationofwhethertheDefendantsconsideredthecumulativeeffect	Frequency: 1
+NER: TotheextentthattheyestablishthatDefendantshavefailedtoproperlyaddressthecumulativeeffects	Frequency: 1
+NER: UnitedStatesForestService,100F.3d1443,1450(9thCir.1996).TheCourtwillconsiderExhibits8–10,12,16and80inthatcontext	Frequency: 1
+NER: Thiseffect	Frequency: 1
+NER: Pltfs	Frequency: 1
+NER: Ex.16at2,5(NWPABiOpatC-2,C-8).13/Defendantsargumentisinthreeparts	Frequency: 1
+NER: Id.at27.PlaintiffsreplythatPlaintiffsraisedtheissuewithsufficientclaritytoallowDefendantstounderstandandruleonthisissue	Frequency: 1
+NER: IntevenorsalsorefertoseveralplacesintheFEISwhereitiscontendedthatthecumulativeeffectsareadequatelydiscussed	Frequency: 1
+NER: ThisCourt	Frequency: 1
+NER: DocketNo.68at21–27.DefendantsexplainthattheproposedamendmenttotheNortheastIAP/EISistoospeculativetobeareasonablyforeseeableaction	Frequency: 1
+NER: See68Fed	Frequency: 1
+NER: Theissueisthereforeoneoftiming	Frequency: 1
+NER: ItwouldappearthatrelianceonprotectionscontainedintheexistingNortheastplanningareaEIStofindminimalimpactsintheNWPAwouldburdentheagencytoreconsiderthisissueinanysupplementalEISintheNorthEastPlanningAreathatwouldaffecttheNWPA.See	Frequency: 1
+NER: defendantscontendtheyhadnodutytoadvisethecourtsandarenotjudiciallyestoppedfrommakingacontraryargumentinthiscase	Frequency: 1
+NER: Defendant’sargumentsinNAECfocusedsolelyonthefactthatanalysisofthecumulativeeffectsintheNWPAEISwasprematurebecausethosewouldnotbeknownuntiltheNEAanalysiswascomplete	Frequency: 1
+NER: nowhereintheirargumentbeforethisCourtortheCourtofAppealswasitmentionedthatthetimeforaddressingthecumulativeeffectwasaftertheleaseswereawardedandaspartofthedevelopmentprocess	Frequency: 1
+NER: andanyactionbaseduponit	Frequency: 1
+NER: i.e.relaxationofenvironmentalprotectionsthatimpacttheNWPA	Frequency: 1
+NER: wouldbedefectiveandthusunenforceabletotheextentthatcumulativeimpactswerenotadequatelyconsidered	Frequency: 1
+NER: TheBLMdidnothavetodelayissuinganEISfortheNWPAuntiltheNEPAEISissued	Frequency: 1
+NER: IntheNoticeofIntent	Frequency: 1
+NER: cumulativeandsitespecific	Frequency: 1
+NER: neverthelessthisCourtagreedwithDefendantsinNAECthatitwasunnecessaryatthattimetoaddressthecumulativeeffectsandclearlyheldthattheappropriatetimewasduringtheNEAEISprocess	Frequency: 1
+NER: IfthedecisionofthisCourtwaspredicateduponamisunderstandingofthepositionofthedefendantsinNAEC	Frequency: 1
+NER: asdidthisCourt	Frequency: 1
+NER: whenplansfordevelopmentactuallyoccur	Frequency: 1
+NER: EvenifDefendantsarenotjudiciallyestoppedfromarguingtheyhadnodutytoconsideredthecumulativeimpactintheNEAEIS	Frequency: 1
+NER: isnowprecludedbythedoctrineofcollateralestoppelorresjudicata	Frequency: 1
+NER: InissuingtheRODbasedupontheinadequateFEIStheSecretaryabusedhisdiscretion	Frequency: 1
+NER: DefendantsfurtherarguethatthecumulativeimpactssectionoftheFEIScontainspreciselytheanalysisPlaintiffsallegeismissingbysettingforththeeffectsofglobalclimatechangeasacumulativeimpacttogetherwiththeeffectsofenergydevelopment	Frequency: 1
+NER: DefendantsalsoarguetheFEISpresentsacarefulanddetailedanalysisofthecumulativeimpactsofclimatechangeandenergydevelopmentoneachphysical	Frequency: 1
+NER: itproperlyconsideredglobalclimatechangeasapossiblecumulativeimpactincombinationwiththeeffectsofoilandgasactivitiesandadequatelydescribesthepotentialimpactsofclimatechangeonvariousresourcesandactivities	Frequency: 1
+NER: theFEISneverthelessprojectsthatpopulationlevelsofsomespeciescouldbeeffectedasaresultofthecombinedeffectsofworldwideenergydevelopmentandclimatechange	Frequency: 1
+NER: DefendantsarguetheFEISacknowledgesthepossibilitythatpopulationsofsomeArcticspeciescouldbe“pushedtowardextinction”ifkeyhabitatislostandcompetitionwithotherspeciesisincreasedduetoglobalclimatechange.2FEISat4	Frequency: 1
+NER: citing2FEISat4-588,RODat10.DocketNo.86-1at29–31.Finally	Frequency: 1
+NER: Inlightofthesubstantialuncertaintyinherentinpredictingtheimpactsofglobalclimatechange	Frequency: 1
+NER: DocketNo.86-1at32–34.InreplyPlaintiffstakeumbragewiththeassumptionthattheeffectsofglobalwarmingwillbeincrementallyworse	Frequency: 1
+NER: DocketNo.93	Frequency: 1
+NER: WhileacknowledgingthatBLMwasnotrequiredtodevelopinformationaboutglobalclimatechangeotherthanwhatwasintherecord	Frequency: 1
+NER: accordingtoPlaintiffs	Frequency: 1
+NER: thefailuretoconsiderorpresentadirectcomparisonoftheeffectsofthefouralternativesinawarmingclimateviolatesNEPA.DocketNo.93-1at33.Thiscasepresentsanapparentquestionoffirstimpression	Frequency: 1
+NER: Plaintiffshavenotcited	Frequency: 1
+NER: asPlaintiffspointout	Frequency: 1
+NER: Incombination	Frequency: 1
+NER: globalclimatechangeandoildevelopmentactivitiesmayhaveverysignificant	Frequency: 1
+NER: evenpopulation-levelimpactstoimportantresources	Frequency: 1
+NER: PlaintiffscontendthisgapintheanalysiscreatesadeficiencyintheFEIS.Case1:05	Frequency: 1
+NER: whileperhapsplausibleonitsface	Frequency: 1
+NER: ForthemostpartPlaintiffsrelyontheextra-recorddeclarationsinPlaintiffs’Exhibits59(SchoenDeclaration)and60(LentferDeclaration).Withtheexceptionthatthedeclarantsassertthattheeffectsmaynotbejustadditivebutmayalsobesynergistic	Frequency: 1
+NER: butthemannerinwhichtheywereconsidered	Frequency: 1
+NER: nordoesNEPArequireacourttoresolvedisagreementsamongvariousscientistsastomethodology;instead	Frequency: 1
+NER: thetaskofthecourtistoensurethattheagency’sproceduresresultedinareasonedanalysisanddisclosureoftheevidencebeforeit	Frequency: 1
+NER: Anagencyisentitledtorelyonreasonableassumptionsinitsenvironmentalanalysis	Frequency: 1
+NER: WhilebothunquestionablyhavestudiedtheeffectofglobalwarmingontheenvironmentintheArcticregion	Frequency: 1
+NER: thatwillbeaddedtotheenvironmentalbaseline	Frequency: 1
+NER: TheenvironmentalbaselineincludesthepastandpresentimpactsofallFederal	Frequency: 1
+NER: orprivateactionsandotherhumanactivitiesintheactionarea	Frequency: 1
+NER: andtheimpactofStateorprivateactionswhicharecontemporaneouswiththeconsultationinprocess	Frequency: 1
+NER: althoughcharacterizingitasincremental	Frequency: 1
+NER: notedthattheextentofthecombinedimpactundertheproposedalternativeswouldvarydependentuponthedegreeofsurfacedevelopmentundertaken	Frequency: 1
+NER: TheCourtcannotsay	Frequency: 1
+NER: ontherecordbeforeit	Frequency: 1
+NER: PlaintiffsarguethattheF&WSBiOpimproperlyfailedtotakeintoaccounttheeffectsoftheproposedactionintheNortheastPlanningAreaondevelopmentintheNorthwestPlanningArea	Frequency: 1
+NER: PlaintiffsallegethattheBiOpfailstoconsidertheincreasedimpactonthespectacledandSteller’seiders	Frequency: 1
+NER: PlaintiffsarguethattheBiOpmustaddressnotonlythedirectandindirecteffectsoftheproposedaction	Frequency: 1
+NER: butmustaddresstheeffectsofinterrelatedorinterdependentactionsaswell	Frequency: 1
+NER: citing50C.F.R.§402.02.17/PlaintiffsassertthattheopeningofCase1:05-cv-00008-JKSDocument107Filed09/25/06Page20of3017/(	Frequency: 1
+NER: IntheirsupplementalbriefingPlaintiffsindicatetheywerenotreferringtotheBiOpbuttotheNorthwestEIS.However	Frequency: 1
+NER: Inthesituationinquestion	Frequency: 1
+NER: Counselarecautionedthatinadequateidentificationofthesourceoffactualstatementsmayresultinadisregardofthosefactsorleadtoincorrectjudicialdeterminations	Frequency: 1
+NER: Docket85-1at51–57.Inreply	Frequency: 1
+NER: PlaintiffsarguethatjustasthefailuretoconsiderthecumulativeeffectsofNEAandNWPAunderNEPA	Frequency: 1
+NER: Docket93-1at28–29.Acourtmayfindabiologicalassessmentinadequateonlyiftheagencyfailstoconsideranimportantaspectoftheimpactonanendangeredspeciesortoconsidertherelevantfactors	Frequency: 1
+NER: Dombeck,304F.3d886,901(9thCir.2001).Atfirstblush	Frequency: 1
+NER: liketheNWPABiOpinNAEC	Frequency: 1
+NER: uponcloserscrutiny	Frequency: 1
+NER: Theproblemisthatitcannotbedeterminedunlesssomeonetakesalook	Frequency: 1
+NER: WhiletheCourtmayagreethatthelikelihoodthattheBiOpconclusionwillchangeisminimal,ESAandtheregulationsnonethelessrequirethatallcontributingfactorsbeexaminedandconsidered	Frequency: 1
+NER: whichincludeswhateverinformationtheBLMhaswithrespecttothecombinedimpactoftheinterrelatedandinterdependentleasingactivitiesintheNEAandNWPAontheenvironmentalbaseline	Frequency: 1
+NER: asDefendantspointout	Frequency: 1
+NER: theargumentissemanticalor	Frequency: 1
+NER: moreprecisely	Frequency: 1
+NER: thebiologicalassessmentandBiOpuponwhichitisbasedmustaddressthecombinedeffectsoftheproposedleasingactivityinboth.22	Frequency: 1
+NER: CityofSausalitov	Frequency: 1
+NER: O’Neill,386F.3d1186,1216(9thCir.2004).21/Inthiscase	Frequency: 1
+NER: byomittingthecombinedeffectsofthedevelopmentintheNEAandNWPA,BLMdidnotprovidethebestinformationavailableinitsBiologicalAssessment	Frequency: 1
+NER: Becauseitdidnotprovidethebestinformationavailable	Frequency: 1
+NER: theBLMactedarbitrarilyandcapriciouslyinrelyingontheF&WSBiOp.	Frequency: 1
+NER: Ltd.v	Frequency: 1
+NER: andprohibitionsastheSecretarydeemsnecessaryorappropriatetomitigatereasonablyforeseeableandsignificantlyadverseeffectsonthesurfaceresourcesoftheNationalPetroleumReserveinAlaska	Frequency: 1
+NER: PlaintiffsarguethattheFEISofferssignificantlylessprotectionforcriticalwildlifehabitatthandoesthe1998NEPlan	Frequency: 1
+NER: but“thepolicyimposedbytheNPRPAtomakelandsintheNPR-Aavailableforoilandgasleasinganddevelopmentwithappropriaterestrictionssoastominimizeimpactsandbalanceprotectionswithleasing	Frequency: 1
+NER: Docket85-1at24–28.Intervenorsmaketwoadditionalarguments	Frequency: 1
+NER: TheCourtdoesnotordinarilyconsiderargumentsraisedforthefirsttimeinoralargumentor	Frequency: 1
+NER: Plaintiffsarguethattheyhavenevercontendedthatmaximumprotectionmeansabsoluteprotectionofallresources	Frequency: 1
+NER: CongressdidnotgivetheSecretaryunfettereddiscretiontostrikeanybalancethatsheorheseesfit	Frequency: 1
+NER: DocketNo.83-1at10.Plaintiffsfurthercounterthatthereasonsgivenforthechangeinpolicydonotadequatelyexplainhowthechange	Frequency: 1
+NER: DocketNo.101	Frequency: 1
+NER: modifiesonlythesentenceprecedingit	Frequency: 1
+NER: courtsdonotreviewCongressionalenactmentsasgrammarians	Frequency: 1
+NER: Florav	Frequency: 1
+NER: Inaddition,¶(n)(2)referstoenvironmentalassessmentsandstudiesthatwereconductedunder42U.S.C.§6505(b)and(c).Theseassessmentsandstudiespresumablycompliedwiththerequirementsof§6504(a),whichwasenactedconcurrentlywith§6505;thus	Frequency: 1
+NER: ThereisnologicalreasontoassumethatCongressintendedthemaximumprotectionprovisionof§6504(a)applytoonlythefirsttwoleasesalesinNPR-A	Frequency: 1
+NER: Inthiscase	Frequency: 1
+NER: ColvilleRiver	Frequency: 1
+NER: acceptPlaintiffs’otherarguments	Frequency: 1
+NER: Takenliterally	Frequency: 1
+NER: itwouldbaranyleasingintheTLSAasonlynoactivitycouldpossiblyprovide“maximumprotection,”apointPlaintiffsappeartoconcede	Frequency: 1
+NER: doPlaintiffspresentanargumentthattherestrictivemeasuresadoptedintheFEIS/RODdonotmeetthe“maximumprotection”standardtotheextentthattheypermitleasingintheTLSA.TheFEISprovidesadequateexplanationofwhyleasingispermittedintheTLSA.Itdoesnot	Frequency: 1
+NER: thatwouldbeanimpossibilitybecause	Frequency: 1
+NER: andCongressionalintentascontainedinthelegislativehistory	Frequency: 1
+NER: theSecretaryisexpectedtotakeintoconsiderationtheneedsofresidentandmigratorywildlifeandtoscheduleexplorationactivitiesinamannerwhich	Frequency: 1
+NER: InschedulingexplorationactivitiesinsuchanareatheSecretaryshouldtakestepstominimizeanyadverseeffectsonnativesubsistencerequirementsandassociatedfishandwildlifevalues	Frequency: 1
+NER: H.R.CONF.REP.NO.94-942,at21(1976)reprintedin1976U.S.C.C.A.N.492,523–24.TheCourtagreesthatallowingdevelopmentintheTLSAfailstoprovide“maximumprotection”intheabsolutesense.	Frequency: 1
+NER: Thetestis	Frequency: 1
+NER: theSecretarymustbalancetheimpactontheenvironmentwiththecountervailingand	Frequency: 1
+NER: mandatetodevelopaprogramofcompetitiveleasing.	Frequency: 1
+NER: See42C.F.R.§6321.0-2.TheSecretary	Frequency: 1
+NER: WithrespecttotheTLSA	Frequency: 1
+NER: airtraffic	Frequency: 1
+NER: etc.)andtime(June15toAugust20)totheentireGMA;limitswaterextractiontopreventhydrologicalchangesinlakesintheGMA;avoidsalteringgoose-feedinghabitattypesalonglakeshoremargins;andprovidesforstudies	Frequency: 1
+NER: includingon	Frequency: 1
+NER: andsuspendsheavyactivitiesbetweenMay20andAugust20;requiresrampsoverorburyingofpipelines	Frequency: 1
+NER: ROD72–74.Otherthantosteadfastlyadheretothe“nodevelopment”mantra	Frequency: 1
+NER: Stryker’sBayNeighborhoodCouncil,Inc.v	Frequency: 1
+NER: Karlen,444U.S.223,227(1980);EarthIslandInstitutev	Frequency: 1
+NER: BasinMineWatchv	Frequency: 1
+NER: Hankins,456F.3d955,962(9thCase1:05-cv-00008-JKSDocument107Filed09/25/06Page28of3026/IntheirsupplementalbriefPlaintiffsarguethattheydonotcontendthattheonlyalternativeisnoactivityorthattheirchallengeissubstantive	Frequency: 1
+NER: asaproceduralmatter	Frequency: 1
+NER: Defendantsmustexplainhow	Frequency: 1
+NER: Nomatterhowrestrictivedevelopmentmaybe	Frequency: 1
+NER: norationalexplanationcanbemadeofhowdevelopmentinaprior“no-activity”areaisconsistentwithprovidingmaximumprotectionforthearea	Frequency: 1
+NER: Inshort	Frequency: 1
+NER: AmocoProductionCo.v	Frequency: 1
+NER: VillageofGambell	Frequency: 1
+NER: Alaska,480U.S.531,544	Frequency: 1
+NER: canseldombeadequatelyremediedbymoneydamagesandisoftenpermanentoratleastoflongduration	Frequency: 1
+NER: NoactualgroundactivitiesareauthorizedandnonecouldoccuronaleaseuntilafterBLMexaminestheeffectsofaproposedactivity	Frequency: 1
+NER: Itdoes	Frequency: 1
+NER: itproposestoissueleasesbasedonthestipulationsandconditionscontainedintheROD.UponremandandconsiderationofthecumulativeeffectsofthedevelopmentintheNEAandNWPA	Frequency: 1
+NER: theymayprovedifficult	Frequency: 1
+NER: Jr.JAMESK.SINGLETON	Frequency: 1

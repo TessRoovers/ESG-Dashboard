@@ -1,0 +1,168 @@
+NER: F. Supp	Frequency: 4
+NER: LEXIS 5889	Frequency: 2
+NER: JAMES D. WATKINS	Frequency: 1
+NER: PROCEDURAL	Frequency: 1
+NER: Energy	Frequency: 2
+NER: Secr	Frequency: 1
+NER: Interior	Frequency: 2
+NER: the National Environmental Policy Act	Frequency: 2
+NER: NEPA	Frequency: 32
+NER: judgme nt	Frequency: 1
+NER: defenda nts	Frequency: 1
+NER: CORE	Frequency: 1
+NER: LEXISNEXIS®	Frequency: 1
+NER: Congress	Frequency: 2
+NER: the Administrative Procedure Act	Frequency: 2
+NER: revi	Frequency: 1
+NER: li kely	Frequency: 1
+NER: claimi	Frequency: 1
+NER: progr ammatic activities	Frequency: 1
+NER: National Environmental Policy Act	Frequency: 1
+NER: R. Civ	Frequency: 5
+NER: Fed	Frequency: 4
+NER: Headnote	Frequency: 1
+NER: Gary B. Randall	Frequency: 1
+NER: Daria J. Zane	Frequency: 1
+NER: Ellen M. Athas	Frequency: 1
+NER: Department of Justice, Environment and Natural Resources Division	Frequency: 1
+NER: General Litigation Section	Frequency: 1
+NER: Edward Lee Rogers	Frequency: 1
+NER: D. C. 20036	Frequency: 1
+NER: REVERCOMB	Frequency: 1
+NER: GEORGE H. REVERCOMB	Frequency: 3
+NER: Nationa	Frequency: 1
+NER: APA	Frequency: 5
+NER: Secretar	Frequency: 1
+NER: Injunctive Relief	Frequency: 1
+NER: Court	Frequency: 29
+NER: approvi ng	Frequency: 1
+NER: Specifi	Frequency: 1
+NER: Complt	Frequency: 2
+NER: subse	Frequency: 1
+NER: Bonne ville Power Administration Final Environmental Impact State	Frequency: 1
+NER: Intertie Development and Use	Frequency: 1
+NER: Depa	Frequency: 1
+NER: Energy's Environmental Assessment	Frequency: 1
+NER: the Department of Energy's Liquid Metal Fast Br eeder Program	Frequency: 1
+NER: DOE	Frequency: 4
+NER: Light Water Breeder Reactor Program	Frequency: 1
+NER: Opp'n to Defs	Frequency: 1
+NER: Summ	Frequency: 1
+NER: de nying	Frequency: 1
+NER: sta	Frequency: 2
+NER: See Foundation on Economic	Frequency: 2
+NER: FOET	Frequency: 2
+NER: Watkins	Frequency: 2
+NER: Motion for Summary Judgment	Frequency: 4
+NER: Motion for Leave to File Second Amended Complaint	Frequency: 3
+NER: Motion for Partial Summary Judgment	Frequency: 2
+NER: th eir	Frequency: 1
+NER: Plainti ffs'	Frequency: 1
+NER: defe ndants'	Frequency: 1
+NER: I. Plaintiffs'	Frequency: 1
+NER: Lyng	Frequency: 1
+NER: Germplasm	Frequency: 3
+NER: City of Los Angeles v.	Frequency: 1
+NER: National Highway Tra ffic Safety Administration	Frequency: 1
+NER: lik ely	Frequency: 1
+NER: Allen	Frequency: 1
+NER: Wright	Frequency: 1
+NER: 737	Frequency: 1
+NER: 751	Frequency: 3
+NER: L. Ed	Frequency: 11
+NER: Valley Forge Christian College	Frequency: 1
+NER: Americans Unite d for Separation of Church	Frequency: 1
+NER: S. Ct	Frequency: 8
+NER: HN3 section 10(a	Frequency: 1
+NER: The Supreme Court	Frequency: 1
+NER: Lujan	Frequency: 4
+NER: National Wildlife Fed'n	Frequency: 5
+NER: necessar ily	Frequency: 1
+NER: meani	Frequency: 1
+NER: Robertson	Frequency: 1
+NER: Methow Valley Citizens Council	Frequency: 1
+NER: Chapman	Frequency: 1
+NER: FPC	Frequency: 1
+NER: Frankfurter, J.	Frequency: 1
+NER: the Supreme Court	Frequency: 3
+NER: the Suprem e Court	Frequency: 1
+NER: Allen v. Wright	Frequency: 3
+NER: Valley Forge	Frequency: 1
+NER: Warth v. Seldin	Frequency: 1
+NER: Sierra Club	Frequency: 6
+NER: Morton	Frequency: 5
+NER: adve	Frequency: 1
+NER: Article III	Frequency: 2
+NER: Richardson	Frequency: 2
+NER: Scalia	Frequency: 2
+NER: The Doctrine of Standing as an Essential Element of the Separation of Powers	Frequency: 1
+NER: Suffolk L. Rev. 881	Frequency: 1
+NER: palpab le	Frequency: 1
+NER: Skelly Wright	Frequency: 1
+NER: See Scientists' Institute fo r Public Information, Inc.	Frequency: 1
+NER: SIPI	Frequency: 2
+NER: Atomic Energy Comm'n	Frequency: 1
+NER: Competitive Enterprise Inst	Frequency: 2
+NER: National Highway Traffic Safety Admin	Frequency: 1
+NER: Hodel	Frequency: 1
+NER: the Greenhouse Crisis Foundation	Frequency: 1
+NER: Jeremy Rifkin	Frequency: 2
+NER: Motion for Summary Ju dgment	Frequency: 1
+NER: the Foundation on Economic	Frequency: 1
+NER: the Department of Agriculature's	Frequency: 1
+NER: USDA	Frequency: 3
+NER: EIS	Frequency: 2
+NER: wa	Frequency: 1
+NER: st anding	Frequency: 1
+NER: the Supreme Court's	Frequency: 2
+NER: ge	Frequency: 1
+NER: separa tion	Frequency: 1
+NER: the Competitive Enterprise Institute	Frequency: 1
+NER: fidelity	Frequency: 1
+NER: City of Davis v. Coleman	Frequency: 2
+NER: First Amende d Complaint	Frequency: 1
+NER: Judgme	Frequency: 1
+NER: Motion to Amend their Complaint	Frequency: 1
+NER: the Court a Motion for L	Frequency: 1
+NER: Motion to Amend	Frequency: 4
+NER: Jeremy Rifkin's	Frequency: 1
+NER: br ief	Frequency: 1
+NER: the Department of Ener gy's	Frequency: 1
+NER: the Naval Petroleum Reserve No	Frequency: 1
+NER: Nati onal Conservation Program	Frequency: 1
+NER: the Motion to Amend	Frequency: 2
+NER: the Supreme Cour t	Frequency: 1
+NER: Davis	Frequency: 1
+NER: Key Airlines	Frequency: 1
+NER: Inc.	Frequency: 1
+NER: National Mediation Bd.	Frequency: 1
+NER: Halpert v. Wertheim & Co., Inc.	Frequency: 1
+NER: The Second Amended Complaint	Frequency: 1
+NER: allega	Frequency: 1
+NER: Ri fkin	Frequency: 1
+NER: Rifkin	Frequency: 12
+NER: PP20(a	Frequency: 1
+NER: gl obal warming	Frequency: 1
+NER: See City of Los Angeles	Frequency: 1
+NER: No rth Carolina	Frequency: 1
+NER: NRDC	Frequency: 1
+NER: Conservation Law Foundation	Frequency: 1
+NER: Reilly	Frequency: 1
+NER: CERCLA	Frequency: 1
+NER: ci tizen-suit	Frequency: 1
+NER: D.H. Ginsburg	Frequency: 1
+NER: J.	Frequency: 1
+NER: the Co urt	Frequency: 1
+NER: National Conservation Program	Frequency: 1
+NER: Chevron U.S.A., Inc.	Frequency: 1
+NER: Natural Res ources Defense Council, Inc.	Frequency: 1
+NER: Naval Petr oleum Reserve	Frequency: 1
+NER: Kleppe	Frequency: 1
+NER: fa iled	Frequency: 1
+NER: Motion for Summary Judg ment	Frequency: 1
+NER: Motion for Pa rtial Summary Judgment	Frequency: 1
+NER: Memorandum & Opinion	Frequency: 1
+NER: Motion for Leave to F ile Second Amended Complaint	Frequency: 1
+NER: Arnold & Porter LLP	Frequency: 1
+NER: LexisNexis	Frequency: 2
+NER: Reed Elsevier Inc.	Frequency: 1

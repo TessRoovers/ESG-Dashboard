@@ -1,0 +1,504 @@
+NER: U.S. App	Frequency: 2
+NER: LEXIS 26278	Frequency: 2
+NER: Cal	Frequency: 2
+NER: Daily Journal DAR	Frequency: 1
+NER: INC.	Frequency: 3
+NER: BONNEVILLE POWER ADMINISTRATION	Frequency: 6
+NER: AL UMINUM COMPANY OF AMERICA	Frequency: 1
+NER: COLUMBIA ALUMINUM CORPORATION	Frequency: 4
+NER: KAISER AL UMINUM & CHEMICAL CORPORATION	Frequency: 2
+NER: REYNOLDS METALS COMPANY	Frequency: 3
+NER: CORPORATED	Frequency: 2
+NER: Respondents-Intervenors	Frequency: 4
+NER: KEVIN B ELL	Frequency: 1
+NER: ASSOCIATI ON OF PUBLIC	Frequency: 1
+NER: associati	Frequency: 1
+NER: KEVIN BELL	Frequency: 1
+NER: KAISER ALUMINUM & CHEMICAL CORPORATION	Frequency: 2
+NER: AL UMINUM	Frequency: 1
+NER: Petitio ner-Intervenor	Frequency: 1
+NER: ALUMIN UM COMPANY OF AMERICA	Frequency: 1
+NER: POWER COUNCIL	Frequency: 1
+NER: Petitione	Frequency: 3
+NER: ICA	Frequency: 1
+NER: ELF ATOCHEM NORTH AMERICA	Frequency: 1
+NER: Daily Journal DAR 12209	Frequency: 1
+NER: Daily Journal DAR 12217	Frequency: 1
+NER: the Bonneville Power Administration	Frequency: 17
+NER: PROCEDURAL	Frequency: 1
+NER: Bonneville Power	Frequency: 1
+NER: Admini stration	Frequency: 2
+NER: la rge industrial power customers	Frequency: 1
+NER: Bonneville Power Administration's	Frequency: 2
+NER: ag	Frequency: 2
+NER: CORE	Frequency: 1
+NER: Northwest Power Act APAC	Frequency: 1
+NER: Energy Policy Act	Frequency: 2
+NER: LEXISNEXIS	Frequency: 1
+NER: HEADNOTES Hide Energy & Utilities Law >	Frequency: 1
+NER: Law > Purchase Contracts > Preference & Priority Power Customers Energy & Utilities Law >	Frequency: 1
+NER: U.S.C.S. § 832c(a	Frequency: 1
+NER: The Bonneville Power Administration	Frequency: 2
+NER: Federal Columbia River Power System	Frequency: 1
+NER: 839(4	Frequency: 2
+NER: al	Frequency: 3
+NER: the Federal Energy Regulatory Commission	Frequency: 1
+NER: the Bonneville Power	Frequency: 1
+NER: 824k(i	Frequency: 3
+NER: another pa rty	Frequency: 2
+NER: U.S. Congress	Frequency: 1
+NER: Congress	Frequency: 28
+NER: le ft	Frequency: 1
+NER: the Project Act authorizes	Frequency: 1
+NER: mainta in	Frequency: 1
+NER: This di scretion	Frequency: 1
+NER: inconsiste	Frequency: 1
+NER: the Projec t Act	Frequency: 1
+NER: Preference Act	Frequency: 2
+NER: the Bonneville Powe r Administration	Frequency: 1
+NER: the Bonneville Project Act	Frequency: 2
+NER: U.S.C.S. § 839f(a	Frequency: 1
+NER: the Transmission Act	Frequency: 3
+NER: U.S.C.S. § 838d	Frequency: 1
+NER: the Bonneville Power Administration's	Frequency: 3
+NER: the Federal Power Act	Frequency: 4
+NER: si milarly	Frequency: 1
+NER: Headnote Energy & Utilities Law > Electric Power Industry >	Frequency: 1
+NER: environmen tal	Frequency: 1
+NER: EIS	Frequency: 36
+NER: U.S. Federal Energy Regulatory Commission	Frequency: 1
+NER: General Overview Energy & Utilities Law >	Frequency: 1
+NER: The Federal Energy Regulatory Commission	Frequency: 1
+NER: FE RC	Frequency: 1
+NER: FERC	Frequency: 27
+NER: congress	Frequency: 1
+NER: the Northwest Power Act di	Frequency: 2
+NER: establis h	Frequency: 1
+NER: capaci ty	Frequency: 1
+NER: U.S.C.S. § 839e(a)(1	Frequency: 2
+NER: the Federal Register	Frequency: 7
+NER: Federal Ener gy Regulatory Commission	Frequency: 1
+NER: The Department of Energy	Frequency: 1
+NER: conditi	Frequency: 1
+NER: Federal Energy Regulatory Commission	Frequency: 1
+NER: Headnote Energy & Utilities Law >	Frequency: 1
+NER: the Bonneville Power Administration'	Frequency: 1
+NER: The Project Act	Frequency: 2
+NER: the Bonne ville Power Administration's	Frequency: 1
+NER: the Northwest Power Act	Frequency: 21
+NER: Bonneville Power Ad	Frequency: 1
+NER: the National Environmental Policy Act	Frequency: 2
+NER: the Administrative Procedure Act	Frequency: 2
+NER: c ontent	Frequency: 1
+NER: Bonneville Power Administ	Frequency: 1
+NER: U.S.C.S.	Frequency: 1
+NER: Council on Environmental Quality	Frequency: 3
+NER: the National Environmental Power Act	Frequency: 1
+NER: The National Environmental Policy Act	Frequency: 1
+NER: NEP	Frequency: 1
+NER: NEPA	Frequency: 23
+NER: Fed	Frequency: 7
+NER: Headnote	Frequency: 1
+NER: Wallace L. Duncan	Frequency: 1
+NER: Melinda J. Horgan	Frequency: 1
+NER: S. Bradley Van Cleve	Frequency: 1
+NER: Duncan	Frequency: 1
+NER: Weinberg, Miller & Pembroke	Frequency: 1
+NER: Association of Public Agency Customers	Frequency: 1
+NER: John A. Cameron	Frequency: 1
+NER: Jr.	Frequency: 1
+NER: Shelly Richardson	Frequency: 1
+NER: Public Power Council	Frequency: 4
+NER: Linda K. Williams	Frequency: 1
+NER: petitio ner	Frequency: 1
+NER: Northwest Conservation Act Coalition	Frequency: 2
+NER: Daniel W. Meek	Frequency: 1
+NER: Kevin Bell	Frequency: 1
+NER: Terence L. Mundorf	Frequency: 1
+NER: Marsh Mundorf Pratt & Su	Frequency: 1
+NER: David Adler	Frequency: 1
+NER: Barry Bennett	Frequency: 1
+NER: Thomas Lee	Frequency: 1
+NER: Bonneville Power Administration	Frequency: 1
+NER: Paul M. Murphy	Frequency: 1
+NER: James L. Buchal	Frequency: 1
+NER: Ball Janik	Frequency: 1
+NER: Aluminum Company of America	Frequency: 1
+NER: Theodore R. Kulongoski	Frequency: 1
+NER: Virginia Linder	Frequency: 1
+NER: Rive s Kistler	Frequency: 1
+NER: Amicus Curiae State	Frequency: 1
+NER: Harry Pregerson	Frequency: 1
+NER: Sidney R. Thom	Frequency: 1
+NER: Circuit Judges	Frequency: 1
+NER: Edward C. Reed	Frequency: 2
+NER: Thomas	Frequency: 1
+NER: Se nior	Frequency: 1
+NER: SIDNEY R. THOMAS OPINION	Frequency: 1
+NER: ar bitrary	Frequency: 2
+NER: the Department of Energy	Frequency: 1
+NER: the Federal Columbia River Power System	Frequency: 2
+NER: ge	Frequency: 3
+NER: Department of Water & Power	Frequency: 5
+NER: Bonneville Power Admin	Frequency: 9
+NER: Johnson	Frequency: 8
+NER: Southern Cal.	Frequency: 1
+NER: Edison Co.	Frequency: 2
+NER: Nonfirm	Frequency: 1
+NER: DSI	Frequency: 39
+NER: po rtion	Frequency: 2
+NER: st atutes	Frequency: 1
+NER: the Pacific Northwest Electric Power Planning and Conservation Act	Frequency: 1
+NER: Northwest Power Act	Frequency: 1
+NER: the Pacific Northwest Federal Transmission System Act	Frequency: 1
+NER: the Pacific Northwes	Frequency: 1
+NER: Consumer Power Preference Act	Frequency: 1
+NER: Bonneville Project Act	Frequency: 1
+NER: Project Act	Frequency: 1
+NER: HN3 the Northwest Power Act	Frequency: 1
+NER: HN4 the Transmission System Act	Frequency: 1
+NER: BPA ma rket	Frequency: 1
+NER: the Pacific Northwest Electric Power and Conservation Planning Council	Frequency: 1
+NER: Pacifi	Frequency: 2
+NER: Aluminum Co.	Frequency: 1
+NER: Central Lincoln Peoples' Utility Dist	Frequency: 1
+NER: L. Ed	Frequency: 10
+NER: 2472	Frequency: 1
+NER: ALCOA	Frequency: 6
+NER: wa	Frequency: 2
+NER: federa	Frequency: 1
+NER: the Project Act	Frequency: 5
+NER: Federa	Frequency: 3
+NER: Act	Frequency: 2
+NER: 839c	Frequency: 1
+NER: 839c(d)(1)(B	Frequency: 1
+NER: the Federal Energy Regulat ory Commission	Frequency: 1
+NER: the Energy Polic y Act	Frequency: 1
+NER: The Energy Policy Act	Frequency: 1
+NER: ners	Frequency: 1
+NER: transmi ssion	Frequency: 1
+NER: H.R.	Frequency: 2
+NER: Cong	Frequency: 3
+NER: 2d Sess	Frequency: 5
+NER: the Pacific Northw est	Frequency: 1
+NER: Notice of Inte	Frequency: 1
+NER: the "Replacement of Lo ng-Term Firm Power Sales Contracts EIS	Frequency: 1
+NER: Working Group	Frequency: 3
+NER: peti	Frequency: 1
+NER: Recognizi ng	Frequency: 1
+NER: the Working Group	Frequency: 3
+NER: reviewi ng	Frequency: 1
+NER: The Public Power Council	Frequency: 2
+NER: envir onmental groups	Frequency: 1
+NER: NCAC	Frequency: 4
+NER: the Pacific Northwest Elec tric Power Planning and Conservation Act	Frequency: 1
+NER: Worki ng Group	Frequency: 1
+NER: the br oader public through mailings	Frequency: 1
+NER: the "P rocess Subgroup	Frequency: 1
+NER: The Process Subgroup	Frequency: 1
+NER: unre	Frequency: 1
+NER: The Working Group	Frequency: 1
+NER: sa	Frequency: 1
+NER: includi	Frequency: 1
+NER: faciliti es	Frequency: 1
+NER: al Services	Frequency: 1
+NER: Business Plan	Frequency: 2
+NER: BPA's	Frequency: 1
+NER: negotiati	Frequency: 1
+NER: Omnibus Negotiati	Frequency: 1
+NER: the Draft Business Plan EIS	Frequency: 1
+NER: ma	Frequency: 1
+NER: enteri ng	Frequency: 1
+NER: the Initial Transmission Agreements	Frequency: 3
+NER: a Categorical Exclusion Determination	Frequency: 1
+NER: contra	Frequency: 3
+NER: cts	Frequency: 1
+NER: the Suppl emental Draft EIS	Frequency: 1
+NER: Business Plan EIS	Frequency: 2
+NER: The Business Pl	Frequency: 1
+NER: BP A	Frequency: 5
+NER: Federal System	Frequency: 1
+NER: ROD	Frequency: 8
+NER: the "Business Plan Final Environmental Impact Statement Record of Decision	Frequency: 1
+NER: Business Plan ROD"	Frequency: 1
+NER: the Market-Driven	Frequency: 1
+NER: the Market-Drive n	Frequency: 1
+NER: ma jor	Frequency: 1
+NER: the Business Plan EIS	Frequency: 4
+NER: the Business Plan ROD	Frequency: 11
+NER: fa shion	Frequency: 1
+NER: Admini strator	Frequency: 1
+NER: the "Direct Service Industrial Customer Requirements Power Sales Contract Reco rd of Decision	Frequency: 1
+NER: renegot iations	Frequency: 1
+NER: the Initial Transmission	Frequency: 1
+NER: the "Long-Term Extension ROD"	Frequency: 1
+NER: the Long-Term Extension Agreements	Frequency: 12
+NER: The Association of Public Agency Customers	Frequency: 1
+NER: APAC	Frequency: 34
+NER: Novemb	Frequency: 1
+NER: the Utility Reform Project	Frequency: 3
+NER: the Public Power Council	Frequency: 1
+NER: the Long-Term Extension ROD	Frequency: 1
+NER: Th e Utility Reform	Frequency: 1
+NER: BP A. A	Frequency: 1
+NER: Kevin	Frequency: 1
+NER: Bell	Frequency: 1
+NER: indi vidual	Frequency: 1
+NER: the Bloc k Sale ROD	Frequency: 1
+NER: the Block Sale Contracts	Frequency: 17
+NER: LONG-	Frequency: 1
+NER: the Long-Term Extensi on Agreements	Frequency: 1
+NER: Chevron	Frequency: 4
+NER: U.S.A., Inc.	Frequency: 1
+NER: Natural Resources Defense Council, Inc.	Frequency: 4
+NER: S. Ct	Frequency: 6
+NER: Administra	Frequency: 2
+NER: Northwest	Frequency: 2
+NER: au thority	Frequency: 1
+NER: Admini	Frequency: 2
+NER: HN8 Section 2(b	Frequency: 1
+NER: California Energy Comm'n	Frequency: 4
+NER: 1314 n.17	Frequency: 1
+NER: 79th Cong	Frequency: 1
+NER: Interior	Frequency: 2
+NER: Ickes	Frequency: 1
+NER: Departme	Frequency: 1
+NER: Depa	Frequency: 1
+NER: 95th Cong	Frequency: 1
+NER: the Preference Act.	Frequency: 1
+NER: Paci fic Northwest	Frequency: 1
+NER: The Preference Act	Frequency: 1
+NER: The Transmission Act	Frequency: 2
+NER: Federal	Frequency: 4
+NER: Id. The Northwest Power Act	Frequency: 1
+NER: res ponsibility	Frequency: 1
+NER: 839d	Frequency: 1
+NER: proprie	Frequency: 1
+NER: dut ies	Frequency: 1
+NER: the Northwest Power Act's	Frequency: 1
+NER: substa	Frequency: 1
+NER: Administ	Frequency: 2
+NER: 825s	Frequency: 1
+NER: unpre cedented	Frequency: 1
+NER: BPA	Frequency: 1
+NER: B. UNLAWFUL	Frequency: 2
+NER: discriminati	Frequency: 1
+NER: the P ublic Power Council	Frequency: 1
+NER: the Transmission Act's	Frequency: 1
+NER: Section 6	Frequency: 1
+NER: 93d Cong	Frequency: 2
+NER: the Public Power Council's	Frequency: 1
+NER: the Administrator of the Bonneville Power Administration	Frequency: 1
+NER: antidiscriminati	Frequency: 1
+NER: the Energy Policy Act	Frequency: 3
+NER: section 6	Frequency: 2
+NER: HN14	Frequency: 1
+NER: the Federal Powe r Act	Frequency: 1
+NER: seri	Frequency: 1
+NER: AP	Frequency: 1
+NER: Transmission Act	Frequency: 1
+NER: California Energy Resources Conservation	Frequency: 3
+NER: 1475	Frequency: 1
+NER: Id.	Frequency: 2
+NER: Intertie	Frequency: 1
+NER: CERCDC	Frequency: 4
+NER: See California Energy Comm'n	Frequency: 2
+NER: Th e Energy Policy Act	Frequency: 1
+NER: the Long-Term Extension Ag	Frequency: 1
+NER: Federal Power Comm'n	Frequency: 1
+NER: Southern Cal	Frequency: 1
+NER: lin es	Frequency: 1
+NER: footno te	Frequency: 1
+NER: State	Frequency: 1
+NER: regulat	Frequency: 1
+NER: E. TRANSMISSION	Frequency: 1
+NER: Bob Marshall Alliance	Frequency: 1
+NER: Hodel	Frequency: 2
+NER: conflic ts	Frequency: 1
+NER: a Power Plan	Frequency: 1
+NER: F. WAS BPA'S	Frequency: 1
+NER: CAPRICIOUS	Frequency: 2
+NER: Administrato	Frequency: 1
+NER: The Long-Term Extension ROD	Frequency: 1
+NER: wh ich	Frequency: 1
+NER: The BP EIS	Frequency: 2
+NER: BP	Frequency: 34
+NER: BPA Power Products and Services	Frequency: 1
+NER: Unbundli ng of Transmission and Wheeling Services	Frequency: 1
+NER: Transmission and Wheeling Pric ing	Frequency: 1
+NER: r Federal	Frequency: 1
+NER: ntours	Frequency: 1
+NER: The Initial Transmission Agreements	Frequency: 1
+NER: the Long-Term Extension Agreem	Frequency: 1
+NER: polic	Frequency: 1
+NER: guara nteed	Frequency: 1
+NER: section 6 of the Transmission Act	Frequency: 1
+NER: The Interim Transmission Agreements	Frequency: 1
+NER: 839e(a)(2	Frequency: 2
+NER: section 7(i	Frequency: 7
+NER: the Bl ock Sale Contract	Frequency: 2
+NER: se ven-days'	Frequency: 1
+NER: the Long-Term Extension Agreement	Frequency: 1
+NER: the Block Sale Contract	Frequency: 4
+NER: section 7( i	Frequency: 1
+NER: The Northwest Power Act	Frequency: 1
+NER: HN19	Frequency: 1
+NER: th ereby	Frequency: 1
+NER: Bonneville Po wer	Frequency: 1
+NER: Intertie 6	Frequency: 1
+NER: pproval	Frequency: 1
+NER: Black's Law	Frequency: 1
+NER: non-fe deral	Frequency: 1
+NER: the Northwest Powe r Act	Frequency: 1
+NER: appropria	Frequency: 1
+NER: See California Energy Resources Conservation	Frequency: 1
+NER: Section 7(i	Frequency: 1
+NER: Department of Energy	Frequency: 2
+NER: availa	Frequency: 1
+NER: Trojan	Frequency: 1
+NER: purch ase	Frequency: 2
+NER: requireme nts	Frequency: 1
+NER: Atlantic Richfield Co.	Frequency: 1
+NER: su rcharge	Frequency: 1
+NER: Pe titioners'	Frequency: 1
+NER: Section 17's	Frequency: 1
+NER: ection 19	Frequency: 1
+NER: CERCDC II	Frequency: 1
+NER: ac cordance	Frequency: 1
+NER: Section 19	Frequency: 1
+NER: the Block Sale Contracts Petitioners	Frequency: 1
+NER: The Block Sale Contracts	Frequency: 1
+NER: The Rate Test Clark County	Frequency: 1
+NER: Clark	Frequency: 1
+NER: See Public Utilities Comm'n of State	Frequency: 1
+NER: Johnson, Clark County's	Frequency: 1
+NER: Court	Frequency: 1
+NER: Transmi	Frequency: 1
+NER: the Bloc k Sales Contracts	Frequency: 1
+NER: st andard	Frequency: 1
+NER: Citizens to Preserve Overton Park	Frequency: 1
+NER: Volpe	Frequency: 1
+NER: HN25	Frequency: 1
+NER: Cajun Elec	Frequency: 1
+NER: Power Coop	Frequency: 2
+NER: ra te	Frequency: 1
+NER: the Bloc k Sale Contracts	Frequency: 1
+NER: purchas es	Frequency: 1
+NER: ec	Frequency: 1
+NER: reserv es	Frequency: 1
+NER: expira tion	Frequency: 1
+NER: the Block Sale Contract s	Frequency: 1
+NER: BPA fr om	Frequency: 1
+NER: Bl ock Sale Contract	Frequency: 1
+NER: asse ss a	Frequency: 1
+NER: purcha	Frequency: 1
+NER: the Bulk Sale Contract	Frequency: 1
+NER: ar bitrarily	Frequency: 1
+NER: Time	Frequency: 1
+NER: CHALLENGES A. TIMELINESS	Frequency: 1
+NER: the Fe deral Register	Frequency: 1
+NER: The Business Plan ROD	Frequency: 2
+NER: the Department of Energy's	Frequency: 1
+NER: 839f	Frequency: 1
+NER: Central Montana Elec	Frequency: 1
+NER: the Bonneville Power Admin	Frequency: 1
+NER: challengi	Frequency: 1
+NER: this chapte r	Frequency: 1
+NER: publishe	Frequency: 1
+NER: fr om	Frequency: 1
+NER: the Busi ness Plan ROD	Frequency: 1
+NER: the Northwest Power Act di d	Frequency: 1
+NER: Northw est Power Act	Frequency: 1
+NER: Pacificorp	Frequency: 1
+NER: Northwest Power Ac	Frequency: 1
+NER: Utility Reform Project	Frequency: 1
+NER: Kevin Bell al	Frequency: 1
+NER: concer	Frequency: 1
+NER: arb itrary	Frequency: 2
+NER: Environmental Coalition	Frequency: 1
+NER: F.3d 1411	Frequency: 1
+NER: Vermont Yankee Nuclear Power Corp.	Frequency: 1
+NER: Baltimore Gas & Elec. Co.	Frequency: 1
+NER: Bay Fishermans' Mktg	Frequency: 1
+NER: Ass'n	Frequency: 1
+NER: Carlucci	Frequency: 1
+NER: Kleppe	Frequency: 2
+NER: Sierra Club	Frequency: 1
+NER: C. THE VALIDITY	Frequency: 1
+NER: separa te EIS	Frequency: 1
+NER: Environmental Defense Fund, Inc.	Frequency: 1
+NER: Andrus	Frequency: 1
+NER: le gislation	Frequency: 1
+NER: Scientists' Inst	Frequency: 1
+NER: Inc.	Frequency: 2
+NER: Atomic Energy Comm'n	Frequency: 1
+NER: The D.C. Circuit's	Frequency: 1
+NER: Salmon River Concerned Citizens	Frequency: 1
+NER: Robertson	Frequency: 2
+NER: Port of Astoria v. Hodel	Frequency: 1
+NER: Port of Astoria	Frequency: 1
+NER: the BP EI S	Frequency: 1
+NER: the Administrato r	Frequency: 1
+NER: Resources Ltd.	Frequency: 1
+NER: The Market-Driven alternat ive	Frequency: 1
+NER: unbundl ed power products and	Frequency: 1
+NER: E. FLAWED	Frequency: 1
+NER: 767 F.2d	Frequency: 1
+NER: Western Radio Servs. Co., Inc.	Frequency: 1
+NER: Glickman	Frequency: 1
+NER: APA	Frequency: 1
+NER: imme	Frequency: 1
+NER: decl ine	Frequency: 1
+NER: Forelaws on Board	Frequency: 1
+NER: CEQ	Frequency: 4
+NER: Highway Admini stration	Frequency: 1
+NER: Price Road Neighborhood Ass'n, Inc.	Frequency: 1
+NER: United States	Frequency: 1
+NER: 1509	Frequency: 1
+NER: F. ADEQUACY	Frequency: 1
+NER: Market-Drive n	Frequency: 1
+NER: Chapter 4	Frequency: 1
+NER: the BP EIS	Frequency: 5
+NER: tal	Frequency: 1
+NER: Navy	Frequency: 1
+NER: Northwest Envtl	Frequency: 2
+NER: Defense Ctr	Frequency: 2
+NER: Frank	Frequency: 1
+NER: the Environmental Impact Statement	Frequency: 1
+NER: Transmission	Frequency: 1
+NER: Section 2.4.5.2	Frequency: 1
+NER: HN34 NEPA	Frequency: 1
+NER: § 102	Frequency: 1
+NER: Metropolitan Edison Co.	Frequency: 1
+NER: People Against Nuclear Energy	Frequency: 1
+NER: Goodman Group	Frequency: 1
+NER: Dishroom	Frequency: 1
+NER: Metropolitan Edison	Frequency: 1
+NER: econom	Frequency: 1
+NER: section 4.5.3	Frequency: 1
+NER: the Direct Service Industry Options Final EIS	Frequency: 1
+NER: BP EIS	Frequency: 2
+NER: PNW	Frequency: 1
+NER: HN35	Frequency: 1
+NER: the Resource Programs EIS	Frequency: 1
+NER: Resource Programs EIS	Frequency: 1
+NER: Council	Frequency: 1
+NER: ider	Frequency: 1
+NER: Canadian	Frequency: 2
+NER: ag encies	Frequency: 1
+NER: gase	Frequency: 1
+NER: Effects of Road and Natural Gas Pipeline Building	Frequency: 1
+NER: EI S	Frequency: 1
+NER: H. ADEQUACY	Frequency: 1
+NER: qua ntitative	Frequency: 1
+NER: HN36	Frequency: 1
+NER: HN37	Frequency: 1
+NER: LEXIS 21863	Frequency: 1
+NER: The Environmental Impact Statement	Frequency: 1
+NER: J. CONSISTENCY	Frequency: 1
+NER: Transmissi	Frequency: 1
+NER: jurisdictionally	Frequency: 1
+NER: Arnold & Porter LLP	Frequency: 1
+NER: LexisNexis	Frequency: 2
+NER: Reed Elsevier Inc.	Frequency: 1
+NER: copyr	Frequency: 1
