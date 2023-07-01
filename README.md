@@ -24,11 +24,19 @@ This repository includes the following files required for the dashboard:
 
 ### Data Files
 The repository includes the following data files that are used for visualizations:
-- `/analysis_entities/{year}_ner_statistics.txt`: Year-based dictionaries for entity frequencies.
 - `/analysis_entities/entities_timeline.csv`: ESG Entities data source.
 - `/analysis_entities/entity_urls.csv`: ESG Entities data source -> hover information (URLs to documents).
 - `/analysis_topics/lda_vis_{year}.0.html`: ESG Topics visualization source.
-- `/analysis_words/
+- `/analysis_words/groupedfrequencies.csv`: ESG Words data source.
+
+### Misc. Files
+Other files that provide background insight into the project and intermediate process steps are:
+- `/preprocessing/doc_scraper.ipynb`: Code used to webscrape legal documents.
+- `/analysis_entities/{year}_ner_statistics.txt`: Year-based dictionaries for entity frequencies.
+- `/analysis_entities/entity_docnames.csv`: Data file with document names for highest frequency entity/year combination.
+- `/analysis_entities/ner.py`: Code used for Named Entity Recognition.
+- `/analysis_topics/lda.ipynb`: Code used for LDA topic modelling.
+- `/analysis_words/wordfrequencies.ipynb`: Code used for word frequency analysis.
 
 ## Usage
 To use the ESG Dashboard:
