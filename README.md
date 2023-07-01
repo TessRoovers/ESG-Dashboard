@@ -3,7 +3,8 @@ Environmental, Social and Governance Dashboard
 
 Welcome to the ESG Dashboard project!
 
-This project was developed as part of the course 'Tweedejaarsproject' by students of the Bachelor programme Artificial Intelligence (University of Amsterdam), in collaboration with Allen & Overy.
+This project was developed as part of the course 'Tweedejaarsproject' by students of the Bachelor programme Artificial Intelligence (University of Amsterdam).
+The aim of this project was to create a dashboard for the law firm Allen & Overy, displaying results of Natural Language Processing (NLP) applied to legal documents.
 
 ## Description
 This ESG Dashboard is a web-based dashboard that provides visualizations and analysis of Environmental, Social, and Governance (ESG) legal data. 
