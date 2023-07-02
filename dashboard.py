@@ -6,7 +6,6 @@ import streamlit.components.v1 as components
 from streamlit_folium import folium_static
 
 def main():
-    
     st.set_page_config(
         page_title="ESG Dashboard",
         page_icon="./allenoveryicon.webp",
@@ -34,13 +33,11 @@ def main():
     st.sidebar.image("./allenovery.png")
     st.sidebar.title("Menu")
     
-    
     for topic, subtopics in topics.items():
         with st.sidebar.expander(topic):
             for subtopic in subtopics:
-                if st.button(subtopic):
-                    selected_option=subtopic
-
+                if st.checkbox(subtopic):
+                    selected_option += subtopic
 
     if selected_option == "start":
         st.markdown("Welcome to the ESG Dashboard!  \nPlease select a topic from the menu to display.")
