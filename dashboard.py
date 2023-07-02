@@ -27,7 +27,6 @@ def main():
             "About": ["The Project", "Allen & Overy", "Our Team"],  
             "ESG Entities": ["Proportional Frequencies", "Frequency & Clusters"],
             "ESG Topics": ["Topic Analysis", "Word Frequencies", "Global Map"],
-            "ESG Sentiment": ["Sentiment Analysis"],
         }
     
     st.sidebar.image("./allenovery.png")
@@ -115,14 +114,7 @@ def main():
         folium_static(fig4, width=1200)
         st.markdown("---")
         st.markdown("&nbsp; ")
-    
-    # ESG Sentiment
-    if "Sentiment Analysis" in selected_option:
-        st.markdown("### ESG Sentiment: Analysis")
-        st.markdown("Coming soon.")
-        st.markdown("---")
-        st.markdown("&nbsp; ")
-    
+        
     # About
     if "The Project" in selected_option:
         st.markdown("### About: The Project")
