@@ -15,7 +15,7 @@ It aims to provide insights and facilitate decision-making related to ESG topics
 - Frequency and clusters analysis of ESG entities;
 - Topic analysis of ESG topics;
 - Word frequencies of ESG topics;
-- Sentiment analysis of ESG data;
+- A global map of ESG document distribution;
 - Proportional frequencies of ESG entities.
 
 ### Dashboard Files
@@ -29,6 +29,7 @@ The repository includes the following data files that are used for visualization
 - `/analysis_entities/entity_urls.csv`: ESG Entities data source -> hover information (URLs to documents).
 - `/analysis_topics/lda_vis_{year}.0.html`: ESG Topics visualization source.
 - `/analysis_words/groupedfrequencies.csv`: ESG Words data source.
+- `/analysis_global/worldmap.csv`: ESG Global Map data source.
 
 ### Misc. Files
 Other files that provide background insight into the project and intermediate process steps are:
@@ -38,6 +39,7 @@ Other files that provide background insight into the project and intermediate pr
 - `/analysis_entities/ner.py`: Code used for Named Entity Recognition.
 - `/analysis_topics/lda.ipynb`: Code used for LDA topic modelling.
 - `/analysis_words/wordfrequencies.ipynb`: Code used for word frequency analysis.
+- `/analysis_global/worldmap.ipynb`: Code used for the geomap.
 
 ## Usage
 To use the ESG Dashboard:
