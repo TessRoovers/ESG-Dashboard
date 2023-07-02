@@ -4,3 +4,4 @@ plotly
 collections-extended
 geopy
 folium
+streamlit_folium
