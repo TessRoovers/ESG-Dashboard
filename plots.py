@@ -6,6 +6,10 @@ from plotly.subplots import make_subplots
 import plotly.express as px
 import streamlit as st
 import ast
+import folium
+from folium.plugins import MarkerCluster
+from geopy.geocoders import Nominatim
+from geopy.exc import GeocoderTimedOut
 
 entity_names = {
     'EPA': 'Environmental Protection Agency',
@@ -47,7 +51,6 @@ entity_classes = {
 def timeline_bar(csv_file):
     df = pd.read_csv(csv_file)
     fig = go.Figure()
-
     color = 'rgb(178, 52, 39, 95)'
     totals = []
     
@@ -130,6 +133,7 @@ def bubble_chart(csv_file):
         'NGO': 'blue',
         'Politics': 'yellow'
     }
+    
 
     for year in frequencies:
         entities = []
@@ -145,7 +149,13 @@ def bubble_chart(csv_file):
             entity_class = entity_classes.get(entity)
             if entity_class in class_colors:
                 color_values.append(class_colors[entity_class])
-
+        
+        hovertext = []
+        for i, entity in enumerate(entities):
+            full_name = entity_names.get(entity, entity)
+            hover_info = f'<b>{full_name}</b><br>Frequency: {frequencies_year[i]}<br>Year: {year}'
+            hovertext.append(hover_info)
+        
         data.append(
             go.Scatter(
                 x=[year] * len(entities),
@@ -159,10 +169,11 @@ def bubble_chart(csv_file):
                     opacity=0.5,
                     showscale=False,
                 ),
-                hovertemplate="<b>%{text}</b><br>Frequency: %{marker.size}<br>Year: %{x}<extra></extra>",
+                hovertemplate="%{hovertext}<extra></extra>",
+                hovertext=hovertext,
                 legendgroup='Entity Classes',
                 showlegend=False,
-                text=[entity_names.get(entity, entity) for entity in entities]
+                text=[entity_names.get(entity, entity) for entity in entities],
             )
         )
 
@@ -271,3 +282,27 @@ def grouped_frequency(data_frame, country, year):
         )
 
     return fig
+
+def world_map(csv_file):
+    df = pd.read_csv(csv_file)
+
+    # empty map
+    world_map= folium.Map(tiles="cartodbpositron")
+    marker_cluster = MarkerCluster().add_to(world_map)
+
+    # for each coordinate, create circlemarker of user percent
+    for i in range(len(df)):
+            lat = df.iloc[i]['latitude']
+            long = df.iloc[i]['longitude']
+            radius=5
+            popup_text = """Country : {}<br>
+                        ESG-term : {}<br>
+                        Link : {}<br"""
+            popup_text = popup_text.format(df.iloc[i]['country'],
+                                    df.iloc[i]['ESG-term'],
+                                        df.iloc[i]['link']
+                                    )
+            folium.CircleMarker(location = [lat, long], radius=radius, popup= popup_text, fill =True).add_to(marker_cluster)
+    
+    # show the map
+    return world_map
